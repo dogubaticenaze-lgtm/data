@@ -10,7 +10,7 @@ export type Href =
   | { pathname: "/guides/[slug]"; params: { slug: string } };
 
 function baseUrl() {
-  return process.env.NEXT_PUBLIC_SITE_URL ?? defaults.url;
+  return process.env.NEXT_PUBLIC_SITE_URL?.trim() || "https://dogubaticenaze.com";
 }
 
 /** Absolute URL of a route in a given locale (Turkish stays unprefixed). */
