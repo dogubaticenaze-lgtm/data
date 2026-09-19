@@ -1,0 +1,1161 @@
+{
+  "meta": {
+    "siteName": "Doğu Batı Uluslararası Cenaze Hizmetleri",
+    "defaultTitle": "Doğu Batı Uluslararası Cenaze Hizmetleri | Yurt Dışı Cenaze Nakli, İstanbul",
+    "defaultDescription": "Türkiye'den yurt dışına, yurt dışından Türkiye'ye ve transit cenaze nakli. Evrak, konsolosluk, tahnit ve hava kargo koordinasyonu tek noktadan. 7/24 telefon ve WhatsApp.",
+    "titleTemplate": "%s | Doğu Batı Cenaze"
+  },
+  "nav": {
+    "home": "Anasayfa",
+    "services": "Hizmetler",
+    "outbound": "Türkiye'den Yurt Dışına",
+    "inbound": "Yurt Dışından Türkiye'ye",
+    "transit": "Transit Nakil",
+    "domestic": "Yurt İçi Nakil",
+    "documents": "Evrak ve Konsolosluk",
+    "process": "Süreç",
+    "guide": "Vefat Oldu, Ne Yapmalıyım?",
+    "countries": "Ülkeler",
+    "coffins": "Tabut ve Hazırlık",
+    "partners": "Kurumsal",
+    "about": "Hakkımızda",
+    "faq": "SSS",
+    "contact": "İletişim",
+    "menu": "Menü",
+    "close": "Kapat",
+    "language": "Dil",
+    "skipToContent": "İçeriğe geç",
+    "costGuide": "Maliyet Rehberi",
+    "nonMuslim": "Müslüman Olmayanlar İçin",
+    "downloads": "Belgeler",
+    "guides": "Rehber",
+    "tracking": "Dosya Takip"
+  },
+  "common": {
+    "callNow": "Hemen Ara",
+    "call247": "7/24 Ara",
+    "whatsapp": "WhatsApp",
+    "whatsappMessage": "Merhaba, cenaze nakli hakkında bilgi almak istiyorum.",
+    "requestQuote": "Teklif İste",
+    "learnMore": "Ayrıntılar",
+    "readGuide": "Rehberi oku",
+    "allCountries": "Tüm ülkeler",
+    "contactUs": "Bize ulaşın",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "address": "Adres",
+    "hours": "Çalışma saatleri",
+    "hoursValue": "7 gün 24 saat",
+    "openInMaps": "Haritada aç",
+    "breadcrumbHome": "Anasayfa",
+    "whatToExpect": "Ne olacak?",
+    "whatWeNeed": "Sizden ne lazım?",
+    "howLong": "Ne kadar sürer?",
+    "included": "Dahil olanlar",
+    "notIncluded": "Ayrıca değerlendirilenler",
+    "step": "Adım",
+    "estimated": "Tahmini süre",
+    "youProvide": "Sizden istenen",
+    "disclaimerTimes": "Süreler genellikle geçerli olan aralıklardır; resmi kurumların, havayolunun ve konsolosluğun işlem hızına göre değişebilir. Otopsi, adli süreç veya resmi tatil varsa süre uzar.",
+    "disclaimerCost": "Masraflar genellikle aile, sigorta veya üyesi olunan cenaze fonu tarafından karşılanır. Kapsamı ilk görüşmede birlikte kontrol ederiz; yazılı teklif ücretsizdir.",
+    "languagesNote": "Türkçe ve İngilizce telefon desteği; diğer diller için WhatsApp üzerinden yazılı destek.",
+    "verifiedOnly": "Bu sitede yalnızca belgelenebilen bilgilere yer verilir.",
+    "download": "İndir",
+    "readMore": "Devamını oku",
+    "backToList": "Listeye dön",
+    "publishedOn": "Yayın tarihi",
+    "updatedOn": "Güncelleme"
+  },
+  "home": {
+    "heroEyebrow": "İstanbul merkezli uluslararası cenaze nakli",
+    "heroTitle": "Türkiye'den Dünyaya, Dünyadan Türkiye'ye Cenaze Nakli",
+    "heroSubtitle": "Evrak, konsolosluk, tahnit ve hava kargo koordinasyonunu tek noktadan yürütürüz. Gece gündüz ulaşabilirsiniz; ilk görüşmede ne olacağını, sizden ne isteneceğini ve tahmini süreyi açıkça anlatırız.",
+    "trust1": "7/24 telefon ve WhatsApp",
+    "trust2": "Tek noktadan koordinasyon",
+    "trust3": "Soğutmalı nakil aracı",
+    "pathsTitle": "Size nasıl yardımcı olabiliriz?",
+    "pathsSubtitle": "Durumunuza uyan yolu seçin; her sayfada süreç, gerekli belgeler ve tahmini süre yazılıdır.",
+    "path1Title": "Türkiye'den yurt dışına",
+    "path1Text": "Türkiye'de vefat eden bir yakınınızı memleketine götürmek istiyorsunuz.",
+    "path2Title": "Yurt dışından Türkiye'ye",
+    "path2Text": "Yurt dışında vefat eden yakınınızı Türkiye'ye getirmek ve defnetmek istiyorsunuz.",
+    "path3Title": "Ülkeler arası transit",
+    "path3Text": "Cenaze İstanbul aktarmalı olarak bir ülkeden başka bir ülkeye taşınacak.",
+    "urgentTitle": "Yakınınız az önce mi vefat etti?",
+    "urgentText": "Önce sakin olun. Yapmanız gereken ilk üç şey:",
+    "urgent1": "Vefat hastanede olduysa ölüm belgesinin düzenlenmesini isteyin; evde olduysa 112'yi arayın.",
+    "urgent2": "Vefat edenin kimliğini veya pasaportunu hazır bulundurun.",
+    "urgent3": "Bizi arayın; gerisini birlikte adım adım yürütürüz.",
+    "urgentCta": "Adım adım rehber",
+    "processTitle": "Süreç nasıl işler?",
+    "processSubtitle": "Yedi adım. Her adımda sizden ne istendiğini ve genellikle ne kadar sürdüğünü söyleriz.",
+    "supportTitle": "Destek hizmetleri",
+    "support1Title": "Evrak ve konsolosluk",
+    "support1Text": "Ölüm belgesi, Formül C, cenaze yol izin belgesi, konsolosluk onayı.",
+    "support2Title": "Tahnit ve tabut",
+    "support2Text": "Hava taşımacılığına uygun, sızdırmaz (çinko astarlı) tabut ve tahnit belgesi.",
+    "support3Title": "Havayolu ve gümrük",
+    "support3Text": "IATA yetkili acenteler aracılığıyla kargo rezervasyonu ve konşimento.",
+    "support4Title": "Yurt içi nakil",
+    "support4Text": "Şehirler arası soğutmalı araçla nakil ve defin koordinasyonu.",
+    "countriesTitle": "Hizmet verdiğimiz ülkeler",
+    "countriesSubtitle": "Her ülke için ayrı sayfada süreç, belgeler ve dikkat edilecekler yazılıdır. Listede olmayan ülkeler için arayın; uygunluğu ilk görüşmede netleştiririz.",
+    "whyTitle": "Neden Doğu Batı?",
+    "why1Title": "Tek muhatap",
+    "why1Text": "Hastane, savcılık, nüfus, konsolosluk, havayolu ve gümrük görüşmelerini biz yürütürüz; siz bir kişiyle konuşursunuz.",
+    "why2Title": "Açık bilgi",
+    "why2Text": "Her adımda ne olacağını, sizden ne isteneceğini ve tahmini süreyi önceden söyleriz. Yazılı teklif ücretsizdir.",
+    "why3Title": "Soğuk zincir",
+    "why3Text": "Cenaze, soğutmalı araçla alınır ve nakle kadar soğuk zincir korunur.",
+    "why4Title": "Yabancı ailelerle deneyim",
+    "why4Text": "Turist, sağlık turisti ve Türkiye'de yaşayan yabancıların cenaze işlemlerini yürütüyoruz; İngilizce ve Rusça yazışabiliriz.",
+    "partnersTitle": "Sigorta, asistans ve cenaze firmaları için İstanbul'daki ortağınız",
+    "partnersText": "Hastaneler, konsolosluklar, sigorta ve asistans şirketleriyle çalışıyoruz. Havalimanında teslim alma, yurt içi nakil, evrak takibi ve defin koordinasyonu için kurumsal iletişim hattımız var.",
+    "partnersCta": "Kurumsal sayfa",
+    "faqTitle": "Sık sorulan sorular",
+    "faqCta": "Tüm sorular",
+    "contactTitle": "Bize ulaşın",
+    "contactText": "Telefon ve WhatsApp hattımız gece gündüz açıktır. Formu doldurursanız en kısa sürede sizi ararız.",
+    "reviewsTitle": "Ailelerin ve iş ortaklarının yorumları",
+    "reviewsSubtitle": "Yalnızca izin alınmış ve doğrulanabilir yorumlar yayınlanır.",
+    "factsFounded": "Kuruluş yılı",
+    "factsTransfers": "Tamamlanan nakil",
+    "factsCountries": "Hizmet verilen ülke"
+  },
+  "process": {
+    "steps": [
+      {
+        "title": "İlk görüşme ve bilgi alma",
+        "text": "Bizi aradığınızda vefatın nerede olduğunu, vefat edenin uyruğunu ve cenazenin nereye gideceğini öğreniriz. Aynı görüşmede süreci ve tahmini süreyi anlatırız.",
+        "need": "Vefat yeri, vefat edenin kimlik/pasaport bilgisi, ulaşılacak yakın kişinin telefonu",
+        "time": "Aynı gün"
+      },
+      {
+        "title": "Ölüm belgesi ve resmi işlemler",
+        "text": "Hastane veya belediye hekiminden ölüm belgesi alınır. Adli bir durum varsa savcılık ve gerekirse otopsi süreci takip edilir.",
+        "need": "Vefat edenin kimliği veya pasaportu",
+        "time": "Genellikle 1 gün; adli süreç varsa daha uzun"
+      },
+      {
+        "title": "Cenazenin teslim alınması ve soğuk zincir",
+        "text": "Cenaze, soğutmalı aracımızla bulunduğu yerden alınır ve nakle hazırlık için morga götürülür.",
+        "need": "Teslim yetkisi için yakınlık belgesi veya vekâlet",
+        "time": "Belge hazır olduğunda aynı gün"
+      },
+      {
+        "title": "Hazırlık: yıkama, tahnit, tabut",
+        "text": "İnancına ve mezhebine uygun yıkama ve kefenleme yapılır. Uluslararası nakil için tahnit uygulanır ve hava taşımacılığına uygun sızdırmaz tabut hazırlanır.",
+        "need": "Ailenin dini tercihleri hakkında kısa bilgi",
+        "time": "Genellikle 1 gün"
+      },
+      {
+        "title": "Konsolosluk ve nakil belgeleri",
+        "text": "Çok dilli ölüm kayıt örneği (Formül C), cenaze yol izin belgesi, tahnit belgesi ve varış ülkesinin konsolosluk onayı alınır.",
+        "need": "Gerekirse vekâletname; varış ülkesinde teslim alacak kişinin bilgileri",
+        "time": "Genellikle 1-3 iş günü; konsolosluğa bağlı"
+      },
+      {
+        "title": "Havayolu rezervasyonu ve gümrük",
+        "text": "IATA yetkili acente aracılığıyla kargo rezervasyonu yapılır, hava konşimentosu düzenlenir ve gümrük işlemleri tamamlanır. Refakatçi bileti istenirse yardımcı oluruz.",
+        "need": "Varış havalimanı ve teslim alacak firma/kişi bilgisi",
+        "time": "Uçuş uygunluğuna göre 1-2 gün"
+      },
+      {
+        "title": "Teslim ve defin koordinasyonu",
+        "text": "Cenaze varış havalimanında ailenin belirlediği kişi veya cenaze firmasına teslim edilir. Türkiye'ye gelen cenazelerde defin yeri ve belediye işlemleri koordine edilir.",
+        "need": "Defin yeri tercihi",
+        "time": "Varış günü"
+      }
+    ]
+  },
+  "pages": {
+    "services": {
+      "title": "Hizmetlerimiz",
+      "description": "Uluslararası ve yurt içi cenaze nakli, evrak ve konsolosluk işlemleri, tahnit ve tabut hazırlığı, defin koordinasyonu.",
+      "intro": "Ana hizmetimiz uluslararası cenaze naklidir. Bunu tamamlayan evrak, hazırlık ve koordinasyon hizmetlerini de tek noktadan sunarız.",
+      "otherTitle": "Diğer hizmetler",
+      "other": [
+        "Dini ve mezhebe uygun yıkama, kefenleme ve cenaze töreni düzenleme",
+        "Defin yeri temini ve başka bir yere nakil-defin işlemleri",
+        "Cenaze yakınlarının havalimanı transferi ve konaklama yardımı",
+        "Refakatçi için uçak bileti alımı",
+        "Evrakların çevirisi, noter ve apostil takibi"
+      ]
+    },
+    "outbound": {
+      "title": "Türkiye'den Yurt Dışına Cenaze Nakli",
+      "description": "Türkiye'de vefat eden yakınınızı memleketine götürmek için gereken belgeler, süreç ve tahmini süre. Evrak, tahnit, tabut ve hava kargo koordinasyonu tek noktadan.",
+      "intro": "Turist, sağlık turisti, çalışma veya ikamet nedeniyle Türkiye'de bulunan bir yakınınız vefat ettiyse cenazeyi memleketine biz ulaştırırız. Vefat yerinden varış havalimanına kadar bütün resmi ve lojistik adımları yürütür, sizi her aşamada bilgilendiririz.",
+      "expect": [
+        "Vefat yeri neresi olursa olsun (hastane, otel, ev) cenazeyi soğutmalı araçla teslim alırız.",
+        "Ölüm belgesi, Formül C, cenaze yol izin belgesi ve konsolosluk onayını biz takip ederiz.",
+        "Tahnit uygulanır; uluslararası hava taşımacılığı kurallarına uygun sızdırmaz tabut hazırlanır.",
+        "Havayolu rezervasyonu, konşimento ve gümrük işlemleri tamamlanır.",
+        "Varış havalimanında ailenin veya oradaki cenaze firmasının teslim alması için bilgileri paylaşırız."
+      ],
+      "need": [
+        "Vefat edenin pasaportu (veya kimliği ve ikamet izni)",
+        "Türkiye'de ve varış ülkesinde ulaşılacak yakın kişinin adı ve telefonu",
+        "Varış ülkesinde cenazeyi teslim alacak kişi veya firma bilgisi",
+        "Gerekiyorsa sigorta poliçesi veya cenaze fonu üyelik bilgisi"
+      ],
+      "time": "Belgeler tamamsa genellikle 2-4 gün. Adli süreç, otopsi, konsolosluk çalışma günleri ve uçuş uygunluğu süreyi uzatabilir.",
+      "included": [
+        "Cenazenin teslim alınması ve soğuk zincir",
+        "Yıkama, kefenleme (istenirse), tahnit ve tahnit belgesi",
+        "Sızdırmaz uluslararası nakil tabutu",
+        "Ölüm belgesi, Formül C ve cenaze yol izin belgesi takibi",
+        "Konsolosluk işlemleri ve çeviri",
+        "Havayolu rezervasyonu, konşimento, gümrük",
+        "Havalimanına teslim"
+      ],
+      "notIncluded": [
+        "Havayolu kargo ücreti (ülkeye ve ağırlığa göre değişir; teklifte ayrı kalem olarak gösterilir)",
+        "Varış ülkesindeki cenaze firması hizmetleri ve defin",
+        "Refakatçi uçak bileti (istenirse organize ederiz)"
+      ],
+      "costTitle": "Fiyatı belirleyen kalemler",
+      "costText": "Fiyat; varış ülkesine, havayolu kargo ücretine, konsolosluk harçlarına, tabut tipine ve vefat yerinin İstanbul'a uzaklığına göre değişir. İlk görüşmede bu kalemleri birlikte netleştirir, ücretsiz yazılı teklif veririz."
+    },
+    "inbound": {
+      "title": "Yurt Dışından Türkiye'ye Cenaze Nakli",
+      "description": "Yurt dışında vefat eden yakınınızı Türkiye'ye getirmek: konsolosluk işlemleri, havalimanında teslim alma, yurt içi nakil ve defin koordinasyonu.",
+      "intro": "Yurt dışında vefat eden yakınınızı Türkiye'ye getirmek istiyorsanız iki tarafı da biz koordine ederiz: vefat edilen ülkedeki cenaze firması veya Türk konsolosluğuyla yazışır, cenazeyi İstanbul'da teslim alır, defin yapılacak şehre nakleder ve belediye işlemlerini yürütürüz.",
+      "expect": [
+        "Vefat edilen ülkedeki cenaze firması, cenaze fonu veya sigorta şirketiyle irtibat kurarız.",
+        "Türk konsolosluğunun cenaze nakil belgelerini ve Türkiye'ye giriş için gereken evrakı takip ederiz.",
+        "Cenazeyi İstanbul Havalimanı'nda teslim alır, gümrük işlemlerini tamamlarız.",
+        "Soğutmalı araçla defin yapılacak şehre nakleder, belediye mezarlık işlemlerini koordine ederiz.",
+        "Ailenin isteğine göre cenaze namazı ve defin organizasyonunda yardımcı oluruz."
+      ],
+      "need": [
+        "Vefat edenin Türk kimliği veya pasaportu ve vefat edilen ülkede alınan ölüm belgesi",
+        "Vefat edilen ülkedeki cenaze firması, sigorta veya cenaze fonu iletişim bilgisi (varsa)",
+        "Defin yapılacak şehir ve mezarlık tercihi",
+        "Türkiye'de teslim alacak yakın kişinin bilgileri"
+      ],
+      "time": "Vefat edilen ülkedeki işlemler tamamlandıktan sonra Türkiye'de teslim alma, nakil ve defin genellikle 1-2 gün sürer. Yurt dışındaki işlemlerin süresi ülkeye göre değişir.",
+      "fundTitle": "Cenaze fonu ve sigorta",
+      "fundText": "Avrupa'da yaşayan aileler çoğunlukla bir cenaze fonuna üyedir veya sigorta kapsamındadır. Bu durumda nakil, fonun anlaşmalı firması tarafından Türkiye'ye kadar yapılır; biz havalimanından itibaren teslim alma, yurt içi nakil ve defin tarafını üstleniriz. Kapsamı birlikte kontrol ederiz."
+    },
+    "transit": {
+      "title": "Transit Cenaze Nakli",
+      "description": "İstanbul aktarmalı olarak ülkeler arası cenaze transferi: kargo aktarma, gümrük ve belge takibi.",
+      "intro": "Cenazenin bir ülkeden başka bir ülkeye İstanbul üzerinden taşınması gerekiyorsa aktarma sırasında gümrük ve kargo işlemlerini biz yürütürüz. Bu hizmet çoğunlukla yurt dışındaki cenaze firmaları, sigorta ve asistans şirketleri tarafından talep edilir.",
+      "expect": [
+        "Çıkış ülkesindeki firmayla belge ve uçuş planını paylaşırız.",
+        "İstanbul'da aktarma sırasında gümrük ve kargo işlemlerini takip ederiz.",
+        "Uçuşlar arasında bekleme gerekiyorsa soğuk zincir korunur.",
+        "Varış ülkesindeki firmaya konşimento ve uçuş bilgisini iletiriz."
+      ],
+      "need": [
+        "Çıkış ülkesinde düzenlenen ölüm belgesi, tahnit belgesi ve cenaze geçiş izin belgesi (laissez-passer)",
+        "Varış ülkesinin giriş şartlarını karşılayan konsolosluk belgeleri",
+        "Çıkış ve varış firmalarının iletişim bilgileri"
+      ],
+      "time": "Uçuş bağlantısına bağlıdır; aktarma işlemleri genellikle aynı gün içinde tamamlanır."
+    },
+    "domestic": {
+      "title": "Yurt İçi ve Şehirler Arası Cenaze Nakli",
+      "description": "Türkiye içinde şehirler arası cenaze nakli: soğutmalı araç, belediye izinleri ve defin koordinasyonu.",
+      "intro": "Türkiye içinde başka bir şehre nakil gerektiğinde cenazeyi soğutmalı aracımızla taşır, belediye nakil izinlerini ve defin işlemlerini takip ederiz. Yurt dışından gelen cenazelerin havalimanından defin yapılacak şehre ulaştırılması da bu hizmetin kapsamındadır.",
+      "expect": [
+        "Ölüm belgesi ve belediye cenaze nakil izni alınır.",
+        "Cenaze, soğutmalı araçla teslim alınır ve varış şehrine ulaştırılır.",
+        "Varış şehrinde mezarlık ve defin işlemleri belediye ile koordine edilir."
+      ],
+      "need": [
+        "Vefat edenin kimliği",
+        "Defin yapılacak şehir ve mezarlık bilgisi",
+        "Varış şehrinde ulaşılacak yakın kişi"
+      ],
+      "time": "Belgeler hazırsa çoğunlukla aynı gün yola çıkılır; mesafeye göre 1 gün içinde teslim edilir.",
+      "municipalNote": "Belediyelerin yurt içinde sunduğu ücretsiz cenaze hizmetleri vardır. Bizim farkımız hız, evrak takibi, yabancı dil desteği ve uluslararası nakille bağlantılı işlerin tek noktadan yürütülmesidir."
+    },
+    "documents": {
+      "title": "Evrak ve Konsolosluk İşlemleri",
+      "description": "Yurt dışına ve yurt dışından cenaze nakli için gereken belgeler: ölüm belgesi, Formül C, cenaze yol izin belgesi, tahnit belgesi, konsolosluk onayı, hava konşimentosu.",
+      "intro": "Uluslararası cenaze naklinin en çok zaman alan kısmı belgelerdir. Aşağıdaki listeler genel çerçeveyi gösterir; varış ülkesine göre ek belge istenebilir. Hangi belgelerin gerektiğini ilk görüşmede size özel olarak çıkarırız.",
+      "outboundTitle": "Türkiye'den yurt dışına gönderilecek cenaze için",
+      "outbound": [
+        "Ölüm belgesi (hastane veya belediye hekimi tarafından düzenlenir; e-Devlet üzerinden doğrulanabilir)",
+        "Çok dilli ölüm kayıt örneği (Formül C), nüfus müdürlüğünden alınır",
+        "Cenaze yol izin belgesi, belediye tarafından düzenlenir",
+        "Tahnit (ilaçlama) belgesi",
+        "Sızdırmaz tabut tutanağı",
+        "Varış ülkesi konsolosluğunun cenaze nakil onayı (ülkeye göre değişir)",
+        "Hava konşimentosu (AWB), havayolu kargo tarafından düzenlenir",
+        "Adli vaka ise savcılık defin izni"
+      ],
+      "inboundTitle": "Yurt dışından Türkiye'ye getirilecek cenaze için",
+      "inbound": [
+        "Vefat edilen ülkede düzenlenen ölüm belgesi ve tercümesi",
+        "Türk konsolosluğundan cenaze nakil belgesi",
+        "Tahnit belgesi ve sızdırmaz tabut belgesi",
+        "Hava konşimentosu",
+        "Türkiye'de defin için belediye izni"
+      ],
+      "consulateTitle": "Konsolosluk süreci",
+      "consulateText": "Türkiye, cenazelerin uluslararası nakline ilişkin 1973 tarihli Strazburg Anlaşması'na taraftır. Anlaşmaya taraf ülkeler için cenaze geçiş izin belgesi (laissez-passer) esas alınır; taraf olmayan ülkelerde ilgili konsolosluğun kendi kuralları uygulanır. Konsolosluk randevusu, harç ve çeviri işlemlerini biz takip ederiz.",
+      "restrictionsTitle": "Bilinmesi gerekenler",
+      "restrictions": [
+        "Kolera, veba, çiçek, şarbon, cüzzam ve ruam gibi bazı bulaşıcı hastalıklar nedeniyle vefat hâlinde mevzuat gereği bir yıl süreyle nakil yapılamaz.",
+        "Türkiye'de kremasyon (yakma) imkânı bulunmamaktadır.",
+        "Vekâletname gerektiğinde noter işlemini organize ederiz; yurt dışındaki yakınlar için konsolosluk vekâleti de mümkündür."
+      ]
+    },
+    "process": {
+      "title": "Süreç: Adım Adım",
+      "description": "Cenaze naklinin yedi adımı; her adımda sizden istenen bilgi ve belgeler ile tahmini süre.",
+      "intro": "Aşağıdaki yedi adım, uluslararası cenaze naklinin genel akışıdır. Her adımda hangi bilgi ve belgelerin istendiğini, işin genellikle ne kadar sürdüğünü görebilirsiniz."
+    },
+    "guide": {
+      "title": "Vefat Oldu, Ne Yapmalıyım?",
+      "description": "Yakınınız Türkiye'de vefat ettiyse yapmanız gereken ilk adımlar: ölüm belgesi, kimlik, kimin aranacağı, neye dikkat edileceği.",
+      "intro": "Bu rehber, kederli bir anda karar vermek zorunda kalan aileler için hazırlandı. Kısa ve sade tutulmuştur. Her aşamada bizi arayabilirsiniz.",
+      "sections": [
+        {
+          "title": "Vefat hastanede olduysa",
+          "items": [
+            "Hastane ölüm belgesini düzenler; belgenin bir örneğini isteyin.",
+            "Hastane morgunda cenaze için bekleme süresi sınırlıdır; nakil için bizi arayın, cenazeyi soğutmalı araçla teslim alırız.",
+            "Vefat edenin kimliği veya pasaportunu ve varsa sigorta bilgilerini hazır tutun."
+          ]
+        },
+        {
+          "title": "Vefat evde, otelde veya dışarıda olduysa",
+          "items": [
+            "112'yi arayın; doktor gelir ve ölümü tespit eder. Şüpheli bir durum yoksa belediye hekimi ölüm belgesini düzenler.",
+            "Adli bir durum varsa savcılık süreci başlar; bu durumda otopsi yapılabilir ve süre uzar. Bu aşamada da yanınızdayız.",
+            "Cenazeyi taşımak için resmi belge gerekir; belge düzenlenmeden cenaze yerinden alınmaz."
+          ]
+        },
+        {
+          "title": "Vefat eden yabancı uyrukluysa",
+          "items": [
+            "Ülkesinin konsolosluğuna haber verilmesi gerekir; isterseniz bu görüşmeyi biz yaparız.",
+            "Seyahat sigortası, sağlık sigortası veya asistans şirketi varsa poliçeyi bulun; nakil masrafı çoğu zaman kapsam dahilindedir.",
+            "Cenazeyi memleketine götürmek istiyorsanız Türkiye'den yurt dışına nakil sayfasındaki adımlar uygulanır."
+          ]
+        },
+        {
+          "title": "Yakınınız yurt dışında vefat ettiyse",
+          "items": [
+            "Bulunduğu ülkedeki Türk konsolosluğunu arayın veya bizi arayın; konsoloslukla yazışmayı biz yürütebiliriz.",
+            "Cenaze fonu üyeliği veya sigorta varsa fonun anlaşmalı firması nakli Türkiye'ye kadar üstlenir.",
+            "Türkiye'de teslim alma, şehre nakil ve defin için yurt dışından Türkiye'ye nakil sayfasına bakın."
+          ]
+        }
+      ],
+      "dontTitle": "Yapmamanız gerekenler",
+      "dont": [
+        "Resmi belge olmadan cenazeyi taşımayın.",
+        "Kimliği veya pasaportu cenazenin yanından ayırmayın; işlemler için gerekir.",
+        "Sözlü fiyat veren ve yazılı teklif vermeyen kişilerle çalışmayın."
+      ],
+      "cta": "Ne yapacağınızdan emin değilseniz arayın; sorularınızı yanıtlar, gerekiyorsa yola çıkarız."
+    },
+    "countries": {
+      "title": "Hizmet Verdiğimiz Ülkeler",
+      "description": "Ülke ülke cenaze nakli: süreç, belgeler, konsolosluk ve dikkat edilecekler. Almanya, Birleşik Krallık, Rusya, İran, Irak, Azerbaycan, Hollanda.",
+      "intro": "Aşağıdaki ülkeler için nakil sürecini ayrı sayfalarda anlattık. Listede olmayan bir ülke için arayın; uygunluğu ve süreci ilk görüşmede netleştiririz.",
+      "notListed": "Listede yok mu?",
+      "notListedText": "Arayın; uygunluğu ilk görüşmede netleştirelim.",
+      "sectionProcess": "Bu ülke için süreç",
+      "sectionDocs": "Belgeler",
+      "sectionNotes": "Dikkat edilecekler"
+    },
+    "coffins": {
+      "title": "Tabut ve Hazırlık",
+      "description": "Uluslararası cenaze nakline uygun sızdırmaz tabutlar, tahnit, dini yıkama ve kefenleme.",
+      "intro": "Uluslararası hava taşımacılığında cenazenin sızdırmaz (çinko astarlı) bir tabutta ve tahnit uygulanmış olarak taşınması gerekir. Tabut, ailenin isteğine ve varış ülkesinin kurallarına göre belirlenir; fiyat vurgusu yapmadan, uygun ve saygın seçenekleri anlatırız.",
+      "items": [
+        {
+          "title": "Sızdırmaz nakil tabutu",
+          "text": "Havayolu ve varış ülkesi kurallarına uygun, çinko astarlı ve lehimli tabut. Tabut, hava kargo sandığı içinde taşınır."
+        },
+        {
+          "title": "Tahnit (ilaçlama)",
+          "text": "Uluslararası nakil için zorunludur; işlem yetkili personelce yapılır ve belgelendirilir."
+        },
+        {
+          "title": "Dini yıkama ve kefenleme",
+          "text": "Ailenin inancına ve mezhebine uygun olarak yıkama, kefenleme ve dua düzenlenir. Müslüman olmayan aileler için de inançlarına uygun hazırlık yapılır."
+        },
+        {
+          "title": "Soğuk zincir",
+          "text": "Cenaze, teslim alındığı andan nakle kadar soğutmalı araç ve morg koşullarında korunur."
+        }
+      ]
+    },
+    "partners": {
+      "title": "Kurumsal İş Ortakları",
+      "description": "Sigorta, asistans, yurt dışı cenaze firmaları, hastaneler ve konsolosluklar için İstanbul'da cenaze nakli ortağı. Havalimanında teslim, yurt içi nakil, evrak, defin.",
+      "intro": "Sigorta ve asistans şirketleri, yurt dışındaki cenaze firmaları ve cenaze fonları, hastaneler ve konsolosluklar için İstanbul'daki yerel ortağınız oluruz. Tek muhatap, yazılı süreç ve düzenli bilgilendirme ile çalışırız.",
+      "forTitle": "Kimlerle çalışıyoruz?",
+      "for": [
+        "Sigorta ve asistans şirketleri: Türkiye'de vefat eden poliçe sahiplerinin nakli",
+        "Yurt dışı cenaze firmaları ve cenaze fonları: Türkiye'de teslim alma, yurt içi nakil ve defin",
+        "Hastaneler ve sağlık turizmi kuruluşları: hasta yakınlarına yönlendirme ve hızlı nakil",
+        "Konsolosluklar: vatandaşlarının cenaze işlemlerinde yerel destek"
+      ],
+      "offerTitle": "Sunduklarımız",
+      "offer": [
+        "Tek muhatap ve dosya bazlı takip",
+        "Yazılı teklif ve kalem kalem maliyet dökümü",
+        "İngilizce ve Rusça yazışma",
+        "Havalimanında teslim alma ve teslim etme",
+        "Belge tarama ve paylaşım (KVKK'ya uygun)",
+        "7/24 ulaşılabilirlik"
+      ],
+      "cta": "Kurumsal iletişim",
+      "formNote": "Kurumsal talepler için formda firma adı, ülke ve talep türünü belirtin; aynı iş günü içinde dönüş yaparız."
+    },
+    "about": {
+      "title": "Hakkımızda",
+      "description": "Doğu Batı Uluslararası Cenaze Hizmetleri: İstanbul Gaziosmanpaşa merkezli, yurt dışına ve yurt dışından cenaze nakli yapan firma.",
+      "intro": "Doğu Batı Uluslararası Cenaze Hizmetleri, İstanbul Gaziosmanpaşa merkezli bir cenaze nakil firmasıdır. Turizm, çalışma veya sağlık nedeniyle Türkiye'de bulunan ya da Türkiye'de ikamet eden yabancıların vefatında cenazenin memleketine ulaştırılması; yurt dışında vefat eden vatandaşlarımızın Türkiye'ye getirilmesi ve defni ana işimizdir.",
+      "valuesTitle": "Nasıl çalışırız?",
+      "values": [
+        {
+          "title": "Saygı",
+          "text": "Cenaze, her aşamada saygıyla ve dini kurallara uygun şekilde taşınır."
+        },
+        {
+          "title": "Açıklık",
+          "text": "Ne olacağını, sizden ne isteneceğini ve tahmini süreyi baştan söyleriz. Yazılı teklif veririz."
+        },
+        {
+          "title": "Ulaşılabilirlik",
+          "text": "Telefon ve WhatsApp hattımız gece gündüz açıktır."
+        },
+        {
+          "title": "Kurumsal iş birliği",
+          "text": "Hastaneler, konsolosluklar, sigorta şirketleri ve derneklerle çalışıyoruz."
+        }
+      ],
+      "fleetTitle": "Araç ve ekip",
+      "fleetText": "Cenaze naklinde kullandığımız araç soğutmalı ve izolasyonludur. Ekibimiz Türkçe ve İngilizce hizmet verir; diğer dillerde WhatsApp üzerinden yazılı iletişim kurarız.",
+      "documentsTitle": "Belgeler ve üyelikler",
+      "documentsText": "Faaliyet izinlerimiz ve belgelerimiz talep hâlinde kurumsal iş ortaklarımızla paylaşılır."
+    },
+    "contact": {
+      "title": "İletişim",
+      "description": "Doğu Batı Uluslararası Cenaze Hizmetleri iletişim: 7/24 telefon, WhatsApp, form ve Gaziosmanpaşa/İstanbul adres.",
+      "intro": "Acil durumlarda telefon veya WhatsApp en hızlı yoldur. Formu doldurursanız en kısa sürede sizi ararız.",
+      "formTitle": "Bize yazın",
+      "corporateTitle": "Kurumsal talepler",
+      "mapTitle": "Ofisimiz"
+    },
+    "faq": {
+      "title": "Sık Sorulan Sorular",
+      "description": "Cenaze nakli maliyeti, süresi, gerekli belgeler, sigorta ve cenaze fonu, vekâlet, konsolosluk hakkında sık sorulan sorular.",
+      "items": [
+        {
+          "q": "Yurt dışına cenaze nakli ne kadar sürer?",
+          "a": "Belgeler tamamsa genellikle 2-4 gün. Adli süreç, otopsi, konsolosluğun çalışma günleri ve uçuş uygunluğu süreyi uzatabilir. İlk görüşmede sizin durumunuza özel tahmini süreyi söyleriz."
+        },
+        {
+          "q": "Masrafı kim karşılar?",
+          "a": "Masraflar genellikle aile, sigorta veya üyesi olunan cenaze fonu tarafından karşılanır. Seyahat sigortası, sağlık sigortası veya asistans poliçesi varsa nakil çoğu zaman kapsam dahilindedir. Kapsamı birlikte kontrol ederiz."
+        },
+        {
+          "q": "Fiyat nasıl belirlenir?",
+          "a": "Varış ülkesi, havayolu kargo ücreti, konsolosluk harçları, tabut tipi ve vefat yerinin İstanbul'a uzaklığı fiyatı belirler. Ön görüşme ve yazılı teklif ücretsizdir; teklifte her kalem ayrı gösterilir."
+        },
+        {
+          "q": "Hangi belgeler gerekir?",
+          "a": "Temel belgeler ölüm belgesi, çok dilli ölüm kayıt örneği (Formül C), cenaze yol izin belgesi, tahnit belgesi ve varış ülkesi konsolosluğunun onayıdır. Ülkeye göre ek belge istenebilir. Ayrıntılı liste Evrak ve Konsolosluk sayfasındadır."
+        },
+        {
+          "q": "Ailem yanında olamıyorsa işlemleri kim yapar?",
+          "a": "Vekâletname ile işlemleri biz yürütebiliriz. Yurt dışındaki yakınlar için konsolosluk vekâleti de mümkündür. Teslim ve belge süreçlerini size düzenli olarak bildiririz."
+        },
+        {
+          "q": "Cenaze uçakta nasıl taşınır?",
+          "a": "Tahnit uygulanmış cenaze, sızdırmaz (çinko astarlı) bir tabutta ve hava kargo sandığı içinde, havayolunun kargo bölümünde taşınır. Rezervasyon IATA yetkili acente aracılığıyla yapılır."
+        },
+        {
+          "q": "Refakatçi aynı uçakta gidebilir mi?",
+          "a": "Çoğu durumda evet; refakatçi yolcu olarak aynı uçuşta seyahat edebilir. Bilet alımında yardımcı oluruz. Bazı havayolları refakatçilere indirim uygular; güncel koşulları havayoluyla teyit ederiz."
+        },
+        {
+          "q": "Türkiye'de kremasyon yapılıyor mu?",
+          "a": "Hayır. Türkiye'de kremasyon (yakma) imkânı bulunmamaktadır. Kremasyon isteyen aileler için cenaze, memleketine nakledilir."
+        },
+        {
+          "q": "Müslüman olmayan bir yakınım için hizmet veriyor musunuz?",
+          "a": "Evet. İnancına uygun hazırlık yapılır ve nakil aynı şekilde yürütülür. Dini tören için ailenin talebine göre ilgili cemaatle iletişim kurulmasına yardımcı oluruz."
+        },
+        {
+          "q": "Gece veya hafta sonu ulaşabilir miyim?",
+          "a": "Evet. Telefon ve WhatsApp hattımız 7 gün 24 saat açıktır."
+        }
+      ]
+    },
+    "costGuide": {
+      "title": "Cenaze Nakli Maliyet Rehberi",
+      "description": "Yurt dışına ve yurt dışından cenaze nakli fiyatını belirleyen kalemler, tahmini aralıklar, dahil olanlar ve masrafı kimin karşıladığı.",
+      "intro": "Cenaze naklinin tek bir fiyatı yoktur; toplam tutar varış ülkesine, havayolu kargo ücretine, konsolosluk harçlarına ve tabut tipine göre değişir. Bu sayfa, teklif almadan önce neyi ödeyeceğinizi anlamanız için hazırlandı. Ön görüşme ve yazılı teklif ücretsizdir.",
+      "itemsTitle": "Fiyatı belirleyen kalemler",
+      "items": [
+        {
+          "title": "Havayolu kargo ücreti",
+          "text": "Varış ülkesine, uçuş rotasına ve tabutlu toplam ağırlığa göre havayolu tarafından belirlenir. Toplam maliyetin en büyük ve en değişken kalemidir; teklifte ayrı gösterilir."
+        },
+        {
+          "title": "Tahnit ve hazırlık",
+          "text": "Uluslararası nakil için zorunlu tahnit işlemi, yıkama ve kefenleme, tahnit belgesi."
+        },
+        {
+          "title": "Sızdırmaz tabut",
+          "text": "Çinko astarlı ve lehimli uluslararası nakil tabutu ile hava kargo sandığı. Tabut tipi ailenin tercihine ve varış ülkesinin kurallarına göre değişir."
+        },
+        {
+          "title": "Resmi belgeler ve konsolosluk",
+          "text": "Formül C, cenaze yol izin belgesi, tercüme, noter ve konsolosluk harçları. Harç tutarları ülkeye göre farklıdır."
+        },
+        {
+          "title": "Yurt içi nakil",
+          "text": "Vefat yerinden İstanbul'a veya havalimanından defin yapılacak şehre soğutmalı araçla nakil; mesafeye göre hesaplanır."
+        },
+        {
+          "title": "Varış ülkesindeki hizmetler",
+          "text": "Havalimanında teslim alma, oradaki cenaze firması, mezarlık ve defin ücretleri; varış ülkesindeki firma tarafından fiyatlandırılır ve teklifimize dahil değildir."
+        }
+      ],
+      "rangesTitle": "Tahmini aralıklar",
+      "rangesNote": "Aşağıdaki aralıklar yalnızca fikir vermek içindir; her dosya için yazılı teklif verilir. Havayolu ücretleri ve harçlar değişebilir.",
+      "ranges": [
+        {
+          "route": "Türkiye'den Avrupa'ya (Almanya, Hollanda, Belçika, Fransa, Avusturya, Birleşik Krallık)",
+          "range": "Genellikle 2.500 - 5.000 EUR"
+        },
+        {
+          "route": "Türkiye'den Rusya, Kafkasya ve Orta Asya'ya",
+          "range": "Genellikle 2.000 - 4.500 EUR"
+        },
+        {
+          "route": "Türkiye'den Orta Doğu ve Kuzey Afrika'ya",
+          "range": "Genellikle 1.800 - 4.000 EUR"
+        },
+        {
+          "route": "Yurt dışından Türkiye'ye (havalimanından teslim alma, yurt içi nakil, defin koordinasyonu)",
+          "range": "Genellikle 500 - 1.500 EUR"
+        },
+        {
+          "route": "Yurt içi şehirler arası nakil",
+          "range": "Mesafeye göre; yazılı teklif"
+        }
+      ],
+      "whoPaysTitle": "Masrafı kim karşılar?",
+      "whoPays": [
+        "Seyahat sigortası, sağlık sigortası veya asistans poliçesi varsa nakil masrafı çoğu zaman kapsam dahilindedir; sigorta şirketiyle doğrudan yazışırız.",
+        "Avrupa'da yaşayan aileler çoğunlukla bir cenaze fonuna üyedir; fon, anlaşmalı firma aracılığıyla nakli Türkiye'ye kadar üstlenir.",
+        "Sigorta veya fon yoksa masraflar aile tarafından karşılanır. Ödeme, yazılı teklifin onayından sonra ve belgelendirilerek alınır.",
+        "Yurt dışında vefat eden vatandaşlar için genel bir ücretsiz devlet nakli düzenlemesi bulunmamaktadır; konsolosluklar yönlendirme yapar ancak masrafı üstlenmez."
+      ],
+      "includedTitle": "Teklifimize dahil olanlar",
+      "included": [
+        "Cenazenin teslim alınması ve soğuk zincir",
+        "Yıkama, kefenleme, tahnit ve tahnit belgesi",
+        "Sızdırmaz nakil tabutu ve kargo sandığı",
+        "Ölüm belgesi, Formül C, cenaze yol izin belgesi takibi",
+        "Konsolosluk işlemleri ve çeviri",
+        "Havayolu rezervasyonu, konşimento ve gümrük",
+        "Havalimanına teslim ve teslim bilgilerinin paylaşılması"
+      ],
+      "cta": "Ücretsiz yazılı teklif için arayın veya formu doldurun; aynı gün içinde kalem kalem döküm gönderiyoruz."
+    },
+    "nonMuslim": {
+      "title": "Müslüman Olmayanlar İçin Cenaze Hizmetleri",
+      "description": "Türkiye'de vefat eden Hristiyan, Yahudi ve diğer inançlardan kişiler için inanca uygun hazırlık, tören koordinasyonu ve memlekete nakil.",
+      "intro": "Türkiye'de vefat eden her inançtan kişi için hizmet veriyoruz. Hazırlık ve nakil, ailenin inancına ve isteklerine göre yapılır; dini tören için ilgili cemaat, kilise veya sinagogla iletişim kurulmasına yardımcı oluruz.",
+      "sections": [
+        {
+          "title": "Hristiyan aileler için",
+          "items": [
+            "Cenazenin hazırlanması ve giydirilmesi ailenin isteğine göre yapılır; tahnit uluslararası nakil için zorunludur.",
+            "İstanbul'daki kiliseler ve cemaatlerle tören ve dua için iletişim kurulmasına yardımcı oluruz.",
+            "Memlekete nakil için tabut ailenin tercihine ve varış ülkesinin kurallarına göre seçilir."
+          ]
+        },
+        {
+          "title": "Yahudi aileler için",
+          "items": [
+            "Hazırlık, ailenin belirlediği cemaat (hevra kadişa) ile koordineli yürütülür.",
+            "Hızlı nakil için belge süreçleri öncelikli olarak takip edilir.",
+            "İstanbul'daki cemaatle iletişim kurulmasına yardımcı oluruz."
+          ]
+        },
+        {
+          "title": "Diğer inançlar ve inançsız aileler",
+          "items": [
+            "Ailenin istekleri esas alınır; dini tören zorunlu değildir.",
+            "Kremasyon Türkiye'de mümkün değildir; kremasyon isteyen aileler için cenaze memleketine nakledilir ve oradaki firma ile koordinasyon sağlanır."
+          ]
+        }
+      ],
+      "notesTitle": "Bilinmesi gerekenler",
+      "notes": [
+        "Türkiye'de kremasyon (yakma) imkânı bulunmamaktadır.",
+        "Türkiye'de defin istenirse İstanbul'da gayrimüslim mezarlıkları vardır; mezar yeri temini için ilgili cemaat ve belediye ile görüşülür.",
+        "Konsolosluklar çoğunlukla kendi vatandaşları için cenaze firmalarının listesini tutar; süreç konsoloslukla uyumlu yürütülür."
+      ]
+    },
+    "downloads": {
+      "title": "İndirilebilir Belgeler",
+      "description": "Cenaze nakli evrak kontrol listesi ve vekâletname örneği; Türkçe ve İngilizce PDF olarak indirin.",
+      "intro": "Aşağıdaki belgeler bilgi amaçlıdır ve ücretsizdir. Vekâletname örneği noter veya konsolosluk huzurunda düzenlenmelidir; kullanmadan önce bizi arayın.",
+      "items": [
+        {
+          "title": "Evrak kontrol listesi",
+          "text": "Türkiye'den yurt dışına ve yurt dışından Türkiye'ye nakil için gereken belgelerin tek sayfalık listesi.",
+          "files": [
+            {
+              "label": "Türkçe PDF",
+              "href": "/downloads/evrak-kontrol-listesi-tr.pdf"
+            },
+            {
+              "label": "English PDF",
+              "href": "/downloads/evrak-kontrol-listesi-en.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Vekâletname örneği",
+          "text": "Ailenin yanında olamadığı durumlarda cenaze nakil işlemleri için vekâletname taslağı. Noter veya konsoloslukta düzenlenir.",
+          "files": [
+            {
+              "label": "Türkçe PDF",
+              "href": "/downloads/vekaletname-ornegi-tr.pdf"
+            },
+            {
+              "label": "English PDF",
+              "href": "/downloads/vekaletname-ornegi-en.pdf"
+            }
+          ]
+        }
+      ],
+      "note": "Belgeler Eylül 2026 itibarıyla günceldir. Resmi kurumların güncel uygulamaları esastır."
+    },
+    "guides": {
+      "title": "Rehber ve Yazılar",
+      "description": "Cenaze nakli, evrak, konsolosluk ve şehirlere göre yapılacaklar hakkında rehber yazılar.",
+      "intro": "Sık karşılaştığımız durumlar için hazırladığımız kısa rehberler. Sorunuz burada yoksa arayın.",
+      "empty": "Bu dilde henüz yazı yayınlanmadı.",
+      "relatedTitle": "İlgili sayfalar"
+    },
+    "tracking": {
+      "title": "Dosya Takip",
+      "description": "Cenaze nakil dosyanızın güncel durumunu takip kodunuzla sorgulayın.",
+      "intro": "Size verilen takip kodunu girin; dosyanızın hangi aşamada olduğunu görün. Kod yoksa veya durum güncel değilse bizi arayın.",
+      "codeLabel": "Takip kodu",
+      "codePlaceholder": "Örn. DB-2026-0142",
+      "submit": "Sorgula",
+      "notFound": "Bu kodla kayıtlı bir dosya bulunamadı. Kodu kontrol edin veya bizi arayın.",
+      "routeLabel": "Güzergâh",
+      "statusLabel": "Durum",
+      "updatedLabel": "Son güncelleme",
+      "historyLabel": "Geçmiş",
+      "statuses": {
+        "received": "Dosya açıldı",
+        "documents": "Belgeler hazırlanıyor",
+        "preparation": "Cenaze hazırlanıyor",
+        "consulate": "Konsolosluk ve nakil belgeleri",
+        "flight": "Uçuş planlandı / yolda",
+        "delivered": "Teslim edildi"
+      },
+      "privacyNote": "Bu sayfada kişisel veri gösterilmez; yalnızca dosya kodu, güzergâh ve aşama bilgisi yer alır."
+    }
+  },
+  "countries": {
+    "germany": {
+      "slug": "almanya",
+      "name": "Almanya",
+      "title": "Almanya - Türkiye Cenaze Nakli",
+      "description": "Almanya'dan Türkiye'ye ve Türkiye'den Almanya'ya cenaze nakli: cenaze fonu, konsolosluk, havalimanında teslim, defin koordinasyonu.",
+      "intro": "Almanya - Türkiye, en yoğun cenaze nakil koridorlarından biridir. Almanya'da yaşayan Türk aileler çoğunlukla bir cenaze fonuna üyedir; bu durumda nakil Almanya'daki anlaşmalı firma tarafından Türkiye'ye kadar yapılır. Biz İstanbul'da teslim alma, defin yapılacak şehre nakil ve belediye işlemlerini üstleniriz. Türkiye'de vefat eden Almanya'da yerleşik kişilerin Almanya'ya nakli de kapsamımızdadır.",
+      "process": [
+        "Almanya'dan Türkiye'ye: Almanya'daki cenaze firması veya fon ile uçuş ve belge bilgilerini paylaşırız; cenazeyi İstanbul Havalimanı'nda teslim alır, şehre nakleder ve defni koordine ederiz.",
+        "Türkiye'den Almanya'ya: Ölüm belgesi, Formül C, tahnit ve yol izin belgesi düzenlenir; Almanya'daki cenaze firmasıyla teslim planı yapılır ve cenaze hava kargo ile gönderilir."
+      ],
+      "documents": [
+        "Almanya'dan gelen cenaze için Almanya'da düzenlenen ölüm belgesi (Sterbeurkunde) ve Türk konsolosluğu nakil belgesi",
+        "Türkiye'den giden cenaze için Formül C, tahnit belgesi, cenaze yol izin belgesi ve Almanya'daki firmanın teslim yazısı"
+      ],
+      "notes": [
+        "Almanya'da cenaze fonu üyeliği varsa önce fonu arayın; anlaşmalı firma nakli başlatır. Kapsam dışı kalan yurt içi nakil ve defin işlerini biz yaparız.",
+        "Almanya'daki Türk cenaze firmalarıyla iş birliği içinde çalışırız; havalimanında teslim ve defin için tek muhatap oluruz."
+      ]
+    },
+    "united-kingdom": {
+      "slug": "ingiltere",
+      "name": "Birleşik Krallık",
+      "title": "Birleşik Krallık - Türkiye Cenaze Nakli",
+      "description": "Türkiye'de vefat eden Britanya vatandaşlarının ülkelerine nakli ve Birleşik Krallık'tan Türkiye'ye cenaze nakli: sigorta, konsolosluk, belgeler.",
+      "intro": "Türkiye'de tatil veya tedavi sırasında vefat eden Britanya vatandaşlarının cenazelerinin ülkelerine ulaştırılması ve Birleşik Krallık'ta vefat eden yakınların Türkiye'ye getirilmesi için hizmet veririz. Seyahat sigortası çoğu zaman nakil masrafını karşılar; sigorta ve asistans şirketiyle doğrudan yazışırız.",
+      "process": [
+        "Türkiye'den Birleşik Krallık'a: Ölüm belgesi ve Formül C düzenlenir, tahnit yapılır, sızdırmaz tabut hazırlanır, Britanya konsolosluğu ile gerekli yazışmalar tamamlanır ve cenaze hava kargo ile gönderilir.",
+        "Birleşik Krallık'tan Türkiye'ye: Oradaki cenaze firmasıyla belge ve uçuş planı yapılır; cenazeyi İstanbul'da teslim alır, nakil ve defni koordine ederiz."
+      ],
+      "documents": [
+        "Türkiye'de düzenlenen ölüm belgesi ve İngilizce çevirisi",
+        "Formül C, tahnit belgesi, sızdırmaz tabut tutanağı, cenaze yol izin belgesi",
+        "Sigorta veya asistans şirketinin onayı (varsa)"
+      ],
+      "notes": [
+        "Birleşik Krallık'ta cenazenin teslim alınması için oradaki bir cenaze firmasının görevlendirilmesi gerekir; isterseniz sigorta şirketinizle birlikte bu firmayı belirleriz.",
+        "Britanya Büyükelçiliği'nin Türkiye'de vefat hâlinde yapılacaklar rehberi vardır; süreç bu rehberle uyumlu yürütülür."
+      ]
+    },
+    "russia": {
+      "slug": "rusya",
+      "name": "Rusya",
+      "title": "Rusya - Türkiye Cenaze Nakli",
+      "description": "Türkiye'de vefat eden Rusya vatandaşlarının Rusya'ya nakli: 'Gruz 200', konsolosluk, belgeler, havayolu.",
+      "intro": "Rusya, Türkiye'nin en büyük turist pazarıdır ve Türkiye'de yaşayan Rusça konuşan geniş bir topluluk vardır. Türkiye'de vefat eden Rusya vatandaşlarının cenazelerinin Rusya'ya nakli (Rusça'da 'gruz 200' olarak bilinir) için konsolosluk, tahnit, tabut ve havayolu işlemlerini yürütürüz. Rusça yazışma yapabiliriz.",
+      "process": [
+        "Ölüm belgesi ve Formül C düzenlenir; Rusya Başkonsolosluğu'nun cenaze nakil belgeleri alınır.",
+        "Tahnit uygulanır, sızdırmaz tabut hazırlanır, hava kargo rezervasyonu yapılır.",
+        "Rusya'daki varış havalimanında teslim alacak firma veya yakın ile bilgiler paylaşılır."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi"
+      ],
+      "notes": [
+        "Rusya'daki teslim alma işlemleri için varış şehrinde bir cenaze firması gerekebilir; iş birliği yaptığımız firmalarla bağlantı kurarız.",
+        "Uçuş seçenekleri şehre göre değişir; aktarmalı uçuşlarda soğuk zincir ve belge sürekliliği takip edilir."
+      ]
+    },
+    "iran": {
+      "slug": "iran",
+      "name": "İran",
+      "title": "İran - Türkiye Cenaze Nakli",
+      "description": "Türkiye'de vefat eden İran vatandaşlarının İran'a nakli ve İran'dan Türkiye'ye cenaze nakli: konsolosluk, belgeler, kara ve hava yolu seçenekleri.",
+      "intro": "İran, Türkiye'ye en çok ziyaretçi gönderen ülkelerden biridir; İstanbul'da yaşayan İranlı topluluk da büyüktür. Türkiye'de vefat eden İran vatandaşlarının cenazelerinin Tahran ve diğer şehirlere nakli için konsolosluk, tahnit, tabut ve havayolu işlemlerini yürütürüz. Kara yolu ile nakil seçeneği durumuna göre değerlendirilir.",
+      "process": [
+        "Ölüm belgesi ve Formül C düzenlenir; İran Başkonsolosluğu'nun cenaze nakil belgeleri alınır.",
+        "Dini yıkama ve kefenleme ailenin mezhebine uygun yapılır; tahnit uygulanır ve sızdırmaz tabut hazırlanır.",
+        "Hava kargo ile Tahran veya ilgili şehre gönderim yapılır; teslim alacak yakın veya firmaya bilgi verilir."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi"
+      ],
+      "notes": [
+        "Farsça sayfamız hazırlanmaktadır; bu süre içinde İngilizce veya Türkçe iletişim kurabiliriz.",
+        "Kara yolu nakli mümkün olan durumlarda süre ve maliyet açısından karşılaştırma yaparız."
+      ]
+    },
+    "iraq": {
+      "slug": "irak",
+      "name": "Irak",
+      "title": "Irak - Türkiye Cenaze Nakli",
+      "description": "Türkiye'de tedavi veya ziyaret sırasında vefat eden Irak vatandaşlarının Bağdat, Erbil ve diğer şehirlere nakli: konsolosluk, belgeler, havayolu.",
+      "intro": "Irak'tan Türkiye'ye sağlık turizmi ve ziyaret amaçlı yoğun bir hareket vardır. Türkiye'de vefat eden Irak vatandaşlarının cenazelerinin Bağdat, Erbil, Basra ve diğer şehirlere nakli için hastane, konsolosluk ve havayolu işlemlerini tek noktadan yürütürüz. Arapça sayfamız üzerinden yazılı iletişim kurulabilir.",
+      "process": [
+        "Hastaneden ölüm belgesi alınır, Formül C düzenlenir; Irak konsolosluğunun nakil belgeleri takip edilir.",
+        "Dini yıkama, kefenleme ve tahnit yapılır; sızdırmaz tabut hazırlanır.",
+        "Hava kargo rezervasyonu yapılır; varış havalimanında teslim alacak yakın veya firma ile bilgiler paylaşılır."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi"
+      ],
+      "notes": [
+        "Sağlık turizmi kapsamında gelen hastalar için hastane ve aracı kuruluşla doğrudan çalışırız.",
+        "Erbil ve Bağdat uçuşlarında kargo uygunluğu değişebilir; uygun seçeneği birlikte belirleriz."
+      ]
+    },
+    "azerbaijan": {
+      "slug": "azerbaycan",
+      "name": "Azerbaycan",
+      "title": "Azerbaycan - Türkiye Cenaze Nakli",
+      "description": "Türkiye'de vefat eden Azerbaycan vatandaşlarının Bakü'ye nakli ve Azerbaycan'dan Türkiye'ye cenaze nakli: belgeler, konsolosluk, havayolu.",
+      "intro": "Azerbaycan ile Türkiye arasında yoğun bir ziyaret, tedavi ve ikamet hareketi vardır. Türkiye'de vefat eden Azerbaycan vatandaşlarının Bakü ve diğer şehirlere nakli ile Azerbaycan'da vefat eden yakınların Türkiye'ye getirilmesi için hizmet veririz. Türkçe iletişim kurulabilir.",
+      "process": [
+        "Ölüm belgesi ve Formül C düzenlenir; Azerbaycan konsolosluğunun nakil belgeleri alınır.",
+        "Dini yıkama, kefenleme ve tahnit yapılır; sızdırmaz tabut hazırlanır.",
+        "Hava kargo ile Bakü'ye gönderim yapılır; teslim alacak yakın veya firma bilgilendirilir."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu veya kimliği",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi"
+      ],
+      "notes": [
+        "İstanbul - Bakü arasında günlük uçuş vardır; belgeler tamamsa süreç genellikle kısa sürer.",
+        "Azerbaycan'da vefat eden yakınların Türkiye'ye getirilmesinde oradaki firma ile teslim planı yapılır."
+      ]
+    },
+    "netherlands": {
+      "slug": "hollanda",
+      "name": "Hollanda",
+      "title": "Hollanda - Türkiye Cenaze Nakli",
+      "description": "Hollanda'dan Türkiye'ye cenaze nakli: cenaze fonu ve sigorta, havalimanında teslim, yurt içi nakil ve defin; Türkiye'den Hollanda'ya nakil.",
+      "intro": "Hollanda'da yaşayan Türk aileler için cenazenin Türkiye'ye getirilmesi ve defni ile Türkiye'de vefat eden Hollanda'da yerleşik kişilerin Hollanda'ya nakli için hizmet veririz. Hollanda'daki cenaze fonu veya sigorta çoğunlukla nakli Türkiye'ye kadar üstlenir; biz havalimanından itibaren süreci devralırız.",
+      "process": [
+        "Hollanda'dan Türkiye'ye: Hollanda'daki firma veya fon ile uçuş ve belge bilgileri paylaşılır; cenazeyi İstanbul'da teslim alır, şehre nakleder ve defni koordine ederiz.",
+        "Türkiye'den Hollanda'ya: Ölüm belgesi, Formül C, tahnit ve yol izin belgesi düzenlenir; Hollanda'daki cenaze firmasıyla teslim planı yapılır."
+      ],
+      "documents": [
+        "Hollanda'da düzenlenen ölüm belgesi ve Türk konsolosluğu nakil belgesi (Hollanda'dan gelen cenaze için)",
+        "Formül C, tahnit belgesi, cenaze yol izin belgesi (Türkiye'den giden cenaze için)"
+      ],
+      "notes": [
+        "Cenaze fonu üyeliği varsa önce fonu arayın; kapsam dışı kalan yurt içi nakil ve defin işlerini biz yaparız.",
+        "Hollandaca sayfamız bulunmamaktadır; İngilizce veya Türkçe iletişim kurabiliriz."
+      ]
+    },
+    "saudi-arabia": {
+      "slug": "suudi-arabistan",
+      "name": "Suudi Arabistan",
+      "title": "Suudi Arabistan - Türkiye Cenaze Nakli",
+      "description": "Suudi Arabistan'da vefat eden yakınların Türkiye'ye nakli ve Türkiye'den Cidde, Riyad'a cenaze nakli: konsolosluk, belgeler, havayolu.",
+      "intro": "Suudi Arabistan ile Türkiye arasında hac, umre, çalışma ve ziyaret amaçlı yoğun bir hareket vardır. Hac ve umre sırasında vefat edenler genellikle orada defnedilir; ailenin Türkiye'ye nakil talebi olduğunda süreç Suudi makamları ve Türk konsolosluğu ile yürütülür. Suudi Arabistan'da çalışan veya yaşayan Türk vatandaşlarının Türkiye'ye getirilmesi ile Türkiye'de vefat eden Suudi Arabistan vatandaşlarının Cidde, Riyad ve diğer şehirlere nakli kapsamımızdadır.",
+      "process": [
+        "Suudi Arabistan'dan Türkiye'ye: Oradaki cenaze firması, işveren veya yakın ile belge ve uçuş planı yapılır; Türk konsolosluğunun nakil belgesi alınır. Cenazeyi İstanbul'da teslim alır, şehre nakleder ve defni koordine ederiz.",
+        "Türkiye'den Suudi Arabistan'a: Ölüm belgesi ve Formül C düzenlenir; Suudi Arabistan konsolosluğunun cenaze nakil belgeleri alınır. Dini yıkama, kefenleme ve tahnit yapılır, sızdırmaz tabut hazırlanır ve cenaze hava kargo ile Cidde veya Riyad'a gönderilir."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi"
+      ],
+      "notes": [
+        "Hac ve umre sırasında vefat edenler için Türkiye'ye nakil talebi varsa kafile yetkilisi ve Türk konsolosluğu ile iletişim kurulur; uygulama yerel makamların kararına bağlıdır.",
+        "İstanbul'dan Cidde ve Riyad'a doğrudan uçuş vardır; diğer şehirler için uçuş seçenekleri şehre göre değişir."
+      ]
+    },
+    "kazakhstan": {
+      "slug": "kazakistan",
+      "name": "Kazakistan",
+      "title": "Kazakistan - Türkiye Cenaze Nakli",
+      "description": "Kazakistan'a cenaze nakli: Türkiye'de vefat eden Kazakistan vatandaşlarının Almatı ve Astana'ya nakli; konsolosluk, belgeler, havayolu.",
+      "intro": "Kazakistan ile Türkiye arasında ticaret, eğitim, tedavi ve ikamet amaçlı yoğun bir hareket vardır; İstanbul'da yaşayan Kazakistanlı bir topluluk bulunur. Türkiye'de vefat eden Kazakistan vatandaşlarının Almatı, Astana ve diğer şehirlere nakli ile Kazakistan'da vefat eden yakınların Türkiye'ye getirilmesi için hizmet veririz. Türkçe ve Rusça iletişim kurulabilir.",
+      "process": [
+        "Ölüm belgesi ve Formül C düzenlenir; Kazakistan konsolosluğunun cenaze nakil belgeleri alınır.",
+        "Dini yıkama, kefenleme ve tahnit yapılır; sızdırmaz tabut hazırlanır.",
+        "Hava kargo ile Almatı veya Astana'ya gönderim yapılır; varış havalimanında teslim alacak yakın veya firma bilgilendirilir."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi"
+      ],
+      "notes": [
+        "İstanbul'dan Almatı ve Astana'ya doğrudan uçuş vardır; diğer şehirler için aktarmalı seçenekler değerlendirilir.",
+        "Kazakistan'daki teslim alma işlemleri için varış şehrinde bir cenaze firması gerekebilir; iş birliği yaptığımız firmalarla bağlantı kurarız."
+      ]
+    },
+    "uzbekistan": {
+      "slug": "ozbekistan",
+      "name": "Özbekistan",
+      "title": "Özbekistan - Türkiye Cenaze Nakli",
+      "description": "Özbekistan'a cenaze nakli: Türkiye'de vefat eden Özbekistan vatandaşlarının Taşkent ve diğer şehirlere nakli; konsolosluk, belgeler, havayolu.",
+      "intro": "Özbekistan'dan Türkiye'ye çalışma, eğitim, ticaret ve tedavi amaçlı yoğun bir hareket vardır; İstanbul'da yaşayan Özbekistanlı topluluk büyüktür. Türkiye'de vefat eden Özbekistan vatandaşlarının Taşkent ve diğer şehirlere nakli için konsolosluk, tahnit, tabut ve havayolu işlemlerini yürütürüz. Türkçe ve Rusça iletişim kurulabilir.",
+      "process": [
+        "Ölüm belgesi ve Formül C düzenlenir; Özbekistan konsolosluğunun cenaze nakil belgeleri alınır.",
+        "Dini yıkama, kefenleme ve tahnit yapılır; sızdırmaz tabut hazırlanır.",
+        "Hava kargo ile Taşkent'e veya ilgili şehre gönderim yapılır; teslim alacak yakın veya firma bilgilendirilir."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi"
+      ],
+      "notes": [
+        "İstanbul'dan Taşkent'e doğrudan uçuş vardır; diğer şehirler için uçuş seçenekleri şehre göre değişir.",
+        "Türkiye'de çalışan Özbekistan vatandaşları için belge ve masraf planlaması işveren veya yakınlar ile birlikte yapılır."
+      ]
+    },
+    "turkmenistan": {
+      "slug": "turkmenistan",
+      "name": "Türkmenistan",
+      "title": "Türkmenistan - Türkiye Cenaze Nakli",
+      "description": "Türkmenistan'a cenaze nakli: Türkiye'de vefat eden Türkmenistan vatandaşlarının Aşkabat'a nakli; konsolosluk, belgeler, havayolu, Rusça iletişim.",
+      "intro": "Türkmenistan'dan Türkiye'ye eğitim, tedavi ve çalışma amaçlı gelen vatandaşlar ile Türkiye'de yerleşik bir Türkmenistanlı topluluk vardır. Türkiye'de vefat eden Türkmenistan vatandaşlarının Aşkabat ve diğer şehirlere nakli için konsolosluk, tahnit, tabut ve havayolu işlemlerini yürütürüz. Türkçe ve Rusça iletişim kurulabilir.",
+      "process": [
+        "Ölüm belgesi ve Formül C düzenlenir; Türkmenistan konsolosluğunun cenaze nakil belgeleri alınır.",
+        "Dini yıkama, kefenleme ve tahnit yapılır; sızdırmaz tabut hazırlanır.",
+        "Hava kargo ile Aşkabat'a gönderim yapılır; varış havalimanında teslim alacak yakın veya firma bilgilendirilir."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi"
+      ],
+      "notes": [
+        "İstanbul - Aşkabat arasında uçuş ve kargo uygunluğu sınırlı olabilir; rezervasyon ve belge süresi birlikte planlanır.",
+        "Türkmenistan konsolosluğunun belge gereksinimleri güncel uygulamaya göre değişebilir; başlamadan önce listeyi teyit ederiz."
+      ]
+    },
+    "syria": {
+      "slug": "suriye",
+      "name": "Suriye",
+      "title": "Suriye - Türkiye Cenaze Nakli",
+      "description": "Suriye'ye cenaze nakli: Türkiye'de vefat eden Suriyelilerin Suriye'ye nakli, kara yolu ve sınır kapısı işlemleri, belgeler, Arapça iletişim.",
+      "intro": "İstanbul'da ve Türkiye genelinde yaşayan geniş bir Suriyeli topluluk vardır. Türkiye'de vefat eden Suriye vatandaşlarının cenazelerinin Suriye'ye nakli için ölüm belgesi, tahnit, tabut ve yol izin işlemlerini yürütürüz. Nakil çoğunlukla kara yolu ile yapılır; hangi sınır kapısının kullanılacağı ve geçiş işlemleri güncel duruma göre değişir. Arapça yazışma yapabiliriz.",
+      "process": [
+        "Ölüm belgesi ve Formül C düzenlenir; vefat edenin pasaportu, kimliği veya geçici koruma belgesi ile işlemler yapılır.",
+        "Dini yıkama, kefenleme ve tahnit yapılır; sızdırmaz tabut hazırlanır ve cenaze yol izin belgesi alınır.",
+        "Kara yolu ile sınır kapısına nakil planlanır; karşı tarafta teslim alacak yakın veya firma ile bilgiler paylaşılır. Hava yolu seçeneği duruma göre değerlendirilir."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu, kimliği veya geçici koruma belgesi",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi (gerekli görülen hâllerde)"
+      ],
+      "notes": [
+        "Sınır kapısı işlemleri ve geçiş koşulları güncel duruma göre değişir; başlamadan önce güncel bilgiyi teyit ederiz.",
+        "Suriye içinde varış şehrine nakil için karşı tarafta bir cenaze firması veya yakın ile teslim planı yapılır."
+      ]
+    },
+    "libya": {
+      "slug": "libya",
+      "name": "Libya",
+      "title": "Libya - Türkiye Cenaze Nakli",
+      "description": "Libya'ya cenaze nakli: Türkiye'de tedavi sırasında vefat eden Libya vatandaşlarının Trablus, Bingazi ve Misrata'ya nakli; konsolosluk, belgeler.",
+      "intro": "Libya'dan Türkiye'ye sağlık turizmi, eğitim ve ticaret amaçlı yoğun bir hareket vardır. Türkiye'de tedavi sırasında vefat eden Libya vatandaşlarının cenazelerinin Trablus, Bingazi, Misrata ve diğer şehirlere nakli için hastane, konsolosluk ve havayolu işlemlerini tek noktadan yürütürüz. Arapça yazışma yapabiliriz.",
+      "process": [
+        "Hastaneden ölüm belgesi alınır, Formül C düzenlenir; Libya konsolosluğunun nakil belgeleri takip edilir.",
+        "Dini yıkama, kefenleme ve tahnit yapılır; sızdırmaz tabut hazırlanır.",
+        "Hava kargo rezervasyonu yapılır; varış havalimanında teslim alacak yakın veya firma ile bilgiler paylaşılır."
+      ],
+      "documents": [
+        "Vefat edenin pasaportu",
+        "Ölüm belgesi ve Formül C",
+        "Tahnit belgesi, sızdırmaz tabut belgesi, cenaze yol izin belgesi",
+        "Konsolosluk cenaze nakil belgesi"
+      ],
+      "notes": [
+        "Sağlık turizmi kapsamında gelen hastalar için hastane ve aracı kuruluşla doğrudan çalışırız; masraf yazışmalarını takip ederiz.",
+        "Trablus, Bingazi ve Misrata uçuşlarında kargo uygunluğu değişebilir; uygun seçeneği birlikte belirleriz."
+      ]
+    },
+    "france": {
+      "slug": "fransa",
+      "name": "Fransa",
+      "title": "Fransa - Türkiye Cenaze Nakli",
+      "description": "Fransa'dan Türkiye'ye cenaze nakli: cenaze fonu, konsolosluk, havalimanında teslim, yurt içi nakil ve defin; Türkiye'den Fransa'ya nakil.",
+      "intro": "Fransa'da yaşayan Türk aileler için cenazenin Türkiye'ye getirilmesi ve defni ile Türkiye'de vefat eden Fransa'da yerleşik kişilerin Fransa'ya nakli için hizmet veririz. Fransa'daki cenaze fonu veya sigorta çoğunlukla nakli Türkiye'ye kadar üstlenir; biz havalimanından itibaren süreci devralırız. Türkiye ve Fransa, cenaze nakline ilişkin 1973 tarihli Strazburg Anlaşması'na taraftır; belgeler bu çerçevede düzenlenir.",
+      "process": [
+        "Fransa'dan Türkiye'ye: Fransa'daki cenaze firması veya fon ile uçuş ve belge bilgileri paylaşılır; cenazeyi İstanbul'da teslim alır, şehre nakleder ve defni koordine ederiz.",
+        "Türkiye'den Fransa'ya: Ölüm belgesi, Formül C, tahnit ve yol izin belgesi düzenlenir; Fransa'daki cenaze firmasıyla teslim planı yapılır ve cenaze hava kargo ile gönderilir."
+      ],
+      "documents": [
+        "Fransa'dan gelen cenaze için Fransa'da düzenlenen ölüm belgesi (acte de décès) ve Türk konsolosluğu nakil belgesi",
+        "Türkiye'den giden cenaze için Formül C, tahnit belgesi, cenaze yol izin belgesi ve Fransa'daki firmanın teslim yazısı"
+      ],
+      "notes": [
+        "Fransa'da cenaze fonu üyeliği varsa önce fonu arayın; anlaşmalı firma nakli başlatır. Kapsam dışı kalan yurt içi nakil ve defin işlerini biz yaparız.",
+        "Fransa'daki Türk cenaze firmalarıyla iş birliği içinde çalışırız; havalimanında teslim ve defin için tek muhatap oluruz."
+      ]
+    },
+    "belgium": {
+      "slug": "belcika",
+      "name": "Belçika",
+      "title": "Belçika - Türkiye Cenaze Nakli",
+      "description": "Belçika'dan Türkiye'ye cenaze nakli: cenaze fonu, konsolosluk, havalimanında teslim, yurt içi nakil ve defin; Türkiye'den Belçika'ya nakil.",
+      "intro": "Belçika'da yaşayan Türk aileler için cenazenin Türkiye'ye getirilmesi ve defni ile Türkiye'de vefat eden Belçika'da yerleşik kişilerin Belçika'ya nakli için hizmet veririz. Belçika'daki cenaze fonu veya sigorta çoğunlukla nakli Türkiye'ye kadar üstlenir; biz havalimanından itibaren süreci devralırız. Türkiye ve Belçika, cenaze nakline ilişkin 1973 tarihli Strazburg Anlaşması'na taraftır.",
+      "process": [
+        "Belçika'dan Türkiye'ye: Belçika'daki cenaze firması veya fon ile uçuş ve belge bilgileri paylaşılır; cenazeyi İstanbul'da teslim alır, şehre nakleder ve defni koordine ederiz.",
+        "Türkiye'den Belçika'ya: Ölüm belgesi, Formül C, tahnit ve yol izin belgesi düzenlenir; Belçika'daki cenaze firmasıyla teslim planı yapılır ve cenaze hava kargo ile gönderilir."
+      ],
+      "documents": [
+        "Belçika'dan gelen cenaze için Belçika'da düzenlenen ölüm belgesi ve Türk konsolosluğu nakil belgesi",
+        "Türkiye'den giden cenaze için Formül C, tahnit belgesi, cenaze yol izin belgesi ve Belçika'daki firmanın teslim yazısı"
+      ],
+      "notes": [
+        "Belçika'da cenaze fonu üyeliği varsa önce fonu arayın; anlaşmalı firma nakli başlatır. Kapsam dışı kalan yurt içi nakil ve defin işlerini biz yaparız.",
+        "Belçika'daki Türk cenaze firmalarıyla iş birliği içinde çalışırız; havalimanında teslim ve defin için tek muhatap oluruz."
+      ]
+    },
+    "austria": {
+      "slug": "avusturya",
+      "name": "Avusturya",
+      "title": "Avusturya - Türkiye Cenaze Nakli",
+      "description": "Avusturya'dan Türkiye'ye cenaze nakli: cenaze fonu, konsolosluk, havalimanında teslim, yurt içi nakil ve defin; Türkiye'den Avusturya'ya nakil.",
+      "intro": "Avusturya'da yaşayan Türk aileler için cenazenin Türkiye'ye getirilmesi ve defni ile Türkiye'de vefat eden Avusturya'da yerleşik kişilerin Avusturya'ya nakli için hizmet veririz. Avusturya'daki cenaze fonu veya sigorta çoğunlukla nakli Türkiye'ye kadar üstlenir; biz havalimanından itibaren süreci devralırız. Türkiye ve Avusturya, cenaze nakline ilişkin 1973 tarihli Strazburg Anlaşması'na taraftır.",
+      "process": [
+        "Avusturya'dan Türkiye'ye: Avusturya'daki cenaze firması veya fon ile uçuş ve belge bilgileri paylaşılır; cenazeyi İstanbul'da teslim alır, şehre nakleder ve defni koordine ederiz.",
+        "Türkiye'den Avusturya'ya: Ölüm belgesi, Formül C, tahnit ve yol izin belgesi düzenlenir; Avusturya'daki cenaze firmasıyla teslim planı yapılır ve cenaze hava kargo ile gönderilir."
+      ],
+      "documents": [
+        "Avusturya'dan gelen cenaze için Avusturya'da düzenlenen ölüm belgesi (Sterbeurkunde) ve Türk konsolosluğu nakil belgesi",
+        "Türkiye'den giden cenaze için Formül C, tahnit belgesi, cenaze yol izin belgesi ve Avusturya'daki firmanın teslim yazısı"
+      ],
+      "notes": [
+        "Avusturya'da cenaze fonu üyeliği varsa önce fonu arayın; anlaşmalı firma nakli başlatır. Kapsam dışı kalan yurt içi nakil ve defin işlerini biz yaparız.",
+        "Viyana'dan İstanbul'a doğrudan uçuş vardır; Avusturya'daki firmayla teslim saati ve belge listesi önceden paylaşılır."
+      ]
+    }
+  },
+  "form": {
+    "name": "Ad Soyad",
+    "phone": "Telefon",
+    "email": "E-posta (isteğe bağlı)",
+    "deathPlace": "Vefat yeri (ülke / şehir)",
+    "destination": "Cenazenin gideceği yer",
+    "message": "Mesajınız",
+    "company": "Firma adı",
+    "country": "Ülke",
+    "requestType": "Talep türü",
+    "requestTypes": {
+      "family": "Aile / bireysel",
+      "insurance": "Sigorta / asistans",
+      "funeralHome": "Cenaze firması / fon",
+      "hospital": "Hastane / sağlık kuruluşu",
+      "consulate": "Konsolosluk",
+      "other": "Diğer"
+    },
+    "consent": "KVKK aydınlatma metnini okudum; bilgilerimin bana dönüş yapılması amacıyla işlenmesini kabul ediyorum.",
+    "consentLink": "KVKK aydınlatma metni",
+    "submit": "Gönder",
+    "sending": "Gönderiliyor...",
+    "success": "Mesajınız alındı. En kısa sürede sizi arayacağız.",
+    "error": "Mesaj gönderilemedi. Lütfen bizi telefonla veya WhatsApp üzerinden arayın.",
+    "sensitiveNote": "Lütfen formda sağlık bilgisi veya vefat nedeni gibi hassas bilgileri paylaşmayın; bunları telefonda konuşuruz.",
+    "errors": {
+      "name": "Lütfen adınızı yazın.",
+      "phone": "Lütfen geçerli bir telefon numarası yazın.",
+      "email": "Lütfen geçerli bir e-posta adresi yazın.",
+      "message": "Lütfen kısa bir mesaj yazın.",
+      "consent": "Devam etmek için aydınlatma metnini kabul etmeniz gerekir.",
+      "rateLimit": "Çok sık deneme yapıldı. Lütfen birkaç dakika sonra tekrar deneyin veya bizi arayın."
+    }
+  },
+  "cookie": {
+    "title": "Çerez tercihleri",
+    "text": "Sitemiz zorunlu çerezler dışında çerez kullanmaz. Ziyaret ölçümü için kullanılan isteğe bağlı çerezleri kabul edebilir, reddedebilir veya yönetebilirsiniz.",
+    "accept": "Kabul et",
+    "reject": "Reddet",
+    "manage": "Yönet",
+    "save": "Kaydet",
+    "necessary": "Zorunlu çerezler",
+    "necessaryText": "Sitenin çalışması ve dil tercihiniz için gereklidir; kapatılamaz.",
+    "analytics": "Ölçüm çerezleri",
+    "analyticsText": "Hangi sayfaların ziyaret edildiğini anonim olarak ölçmek için kullanılır.",
+    "policyLink": "Çerez politikası"
+  },
+  "footer": {
+    "companyTitle": "Künye",
+    "linksTitle": "Sayfalar",
+    "legalTitle": "Yasal",
+    "kvkk": "KVKK Aydınlatma Metni",
+    "cookies": "Çerez Politikası",
+    "privacy": "Gizlilik Politikası",
+    "imprint": "Künye",
+    "copyright": "© {year} Doğu Batı Uluslararası Cenaze Hizmetleri. Tüm hakları saklıdır.",
+    "disclaimer": "Bu sitedeki süreler ve belge listeleri genel bilgi amaçlıdır; resmi kurumların güncel uygulamaları esastır."
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "text": "Aradığınız sayfa taşınmış veya kaldırılmış olabilir.",
+    "cta": "Anasayfaya dön"
+  },
+  "legal": {
+    "kvkk": {
+      "title": "KVKK Aydınlatma Metni",
+      "description": "6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında aydınlatma metni.",
+      "sections": [
+        {
+          "title": "Veri sorumlusu",
+          "text": "6698 sayılı Kişisel Verilerin Korunması Kanunu (\"KVKK\") uyarınca kişisel verileriniz, veri sorumlusu sıfatıyla Doğu Batı Uluslararası Cenaze Hizmetleri (\"Şirket\") tarafından aşağıda açıklanan kapsamda işlenmektedir. Şirket'in unvan, adres ve iletişim bilgileri Künye sayfasında yer alır."
+        },
+        {
+          "title": "İşlenen kişisel veriler",
+          "text": "İletişim formu, telefon ve WhatsApp üzerinden bize ilettiğiniz ad soyad, telefon numarası, e-posta adresi, mesaj içeriği ve talebinizle ilgili bilgiler (vefat yeri, gidilecek yer). Cenaze nakil hizmetinin yürütülmesi sırasında vefat eden kişiye ve yakınlarına ait kimlik, pasaport ve resmi belgelerdeki bilgiler; bu belgelerde yer alabilen sağlık bilgileri KVKK kapsamında özel nitelikli kişisel veridir ve yalnızca mevzuatın zorunlu kıldığı ölçüde işlenir."
+        },
+        {
+          "title": "İşleme amaçları ve hukuki sebep",
+          "text": "Kişisel verileriniz; talebinize dönüş yapılması, cenaze nakil hizmetinin planlanması ve yürütülmesi, resmi kurum, konsolosluk, havayolu ve gümrük işlemlerinin gerçekleştirilmesi, yasal yükümlülüklerin yerine getirilmesi ve iletişim amaçlarıyla; KVKK md. 5/2 kapsamında bir sözleşmenin kurulması veya ifası, hukuki yükümlülüğün yerine getirilmesi ve meşru menfaat hukuki sebeplerine dayanılarak; özel nitelikli veriler bakımından ise KVKK md. 6'daki şartlar çerçevesinde işlenir. İletişim formunda verdiğiniz onay, size dönüş yapılması amacıyla alınır."
+        },
+        {
+          "title": "Aktarım",
+          "text": "Verileriniz, hizmetin gerektirdiği ölçüde nüfus müdürlükleri, belediyeler, savcılıklar, konsolosluklar, havayolu ve kargo şirketleri, gümrük idaresi ve varış ülkesindeki cenaze firmaları ile paylaşılabilir. Bu paylaşımların bir kısmı yurt dışına aktarım niteliğindedir ve KVKK md. 9 kapsamındaki şartlara uygun olarak yapılır. Web sitesinin barındırma ve e-posta altyapısı için kullanılan hizmet sağlayıcılar Künye sayfasında belirtilir."
+        },
+        {
+          "title": "Saklama süresi",
+          "text": "Kişisel verileriniz, işleme amacının gerektirdiği süre ve ilgili mevzuatta öngörülen zamanaşımı süreleri boyunca saklanır; sürenin sonunda silinir, yok edilir veya anonim hâle getirilir."
+        },
+        {
+          "title": "Haklarınız",
+          "text": "KVKK md. 11 uyarınca; kişisel verilerinizin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme, işleme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme, aktarıldığı üçüncü kişileri bilme, eksik veya yanlış işlenmişse düzeltilmesini isteme, silinmesini veya yok edilmesini isteme, bu işlemlerin aktarıldığı üçüncü kişilere bildirilmesini isteme, otomatik sistemlerle analiz sonucu aleyhinize bir sonucun ortaya çıkmasına itiraz etme ve kanuna aykırı işleme nedeniyle zarara uğramanız hâlinde zararın giderilmesini talep etme haklarına sahipsiniz. Taleplerinizi Künye sayfasındaki adres veya e-posta üzerinden iletebilirsiniz; başvurular en geç 30 gün içinde sonuçlandırılır."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Çerez Politikası",
+      "description": "dogubaticenaze.com çerez politikası: hangi çerezler kullanılır, nasıl yönetilir.",
+      "sections": [
+        {
+          "title": "Çerez nedir?",
+          "text": "Çerezler, ziyaret ettiğiniz web sitesi tarafından tarayıcınıza kaydedilen küçük metin dosyalarıdır."
+        },
+        {
+          "title": "Kullandığımız çerezler",
+          "text": "Zorunlu çerezler: dil tercihinizin hatırlanması ve çerez tercihinizin saklanması için kullanılır; bu çerezler olmadan site düzgün çalışmaz. Ölçüm çerezleri: yalnızca onay vermeniz hâlinde, hangi sayfaların ziyaret edildiğini anonim olarak ölçmek için kullanılır. Pazarlama veya yeniden hedefleme çerezi kullanmıyoruz."
+        },
+        {
+          "title": "Tercihlerinizi yönetme",
+          "text": "Sayfanın altındaki çerez bildiriminden tercihlerinizi değiştirebilir, tarayıcı ayarlarından çerezleri silebilir veya engelleyebilirsiniz. Onayınızı istediğiniz zaman geri çekebilirsiniz."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Gizlilik Politikası",
+      "description": "dogubaticenaze.com gizlilik politikası.",
+      "sections": [
+        {
+          "title": "Genel",
+          "text": "Bu web sitesini ziyaret ettiğinizde ve bize ulaştığınızda paylaştığınız bilgiler yalnızca talebinize dönüş yapılması ve hizmetin yürütülmesi amacıyla kullanılır. Ayrıntılar KVKK Aydınlatma Metni'nde yer alır."
+        },
+        {
+          "title": "Üçüncü taraf bağlantılar",
+          "text": "Sitede WhatsApp ve harita gibi üçüncü taraf hizmetlere bağlantılar bulunur. Bu bağlantılara tıkladığınızda ilgili hizmetin kendi gizlilik kuralları geçerli olur."
+        },
+        {
+          "title": "Güvenlik",
+          "text": "Site HTTPS ile sunulur. İletişim formu verileri sunucu tarafında doğrulanır ve yalnızca yetkili kişilerin erişebildiği e-posta hesabına iletilir."
+        }
+      ]
+    },
+    "imprint": {
+      "title": "Künye",
+      "description": "Doğu Batı Uluslararası Cenaze Hizmetleri şirket bilgileri.",
+      "intro": "6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun ve ilgili yönetmelik uyarınca hizmet sağlayıcı bilgileri:",
+      "labels": {
+        "legalName": "Unvan",
+        "address": "Adres",
+        "phone": "Telefon",
+        "email": "E-posta",
+        "taxId": "Vergi dairesi / numarası",
+        "mersis": "MERSİS numarası",
+        "tradeRegistry": "Ticaret sicil numarası",
+        "kep": "KEP adresi",
+        "hosting": "Barındırma"
+      },
+      "pending": "Yayın öncesi tamamlanacak"
+    }
+  },
+  "reviews": {
+    "title": "Yorumlar",
+    "sourceLabel": "Kaynak",
+    "empty": "Henüz yayınlanmış yorum yok."
+  }
+}

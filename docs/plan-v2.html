@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>dogubaticenaze.com Web Sitesi Yenileme Planı v2.1</title>
+<style>
+  @page { size: A4; margin: 18mm 16mm 20mm 16mm; }
+  * { box-sizing: border-box; }
+  html { font-size: 10.5pt; }
+  body { font-family: "Segoe UI", "IBM Plex Sans", Arial, sans-serif; color: #1b1f23; line-height: 1.45; margin: 0; }
+  h1, h2, h3 { color: #0b3d3a; line-height: 1.2; }
+  h1 { font-size: 26pt; margin: 0 0 6pt; }
+  h2 { font-size: 15pt; margin: 22pt 0 8pt; padding-bottom: 4pt; border-bottom: 2px solid #d4af37; page-break-after: avoid; }
+  h3 { font-size: 11.5pt; margin: 14pt 0 5pt; page-break-after: avoid; }
+  p { margin: 0 0 7pt; }
+  ul, ol { margin: 0 0 8pt; padding-left: 18pt; }
+  li { margin-bottom: 3pt; }
+  table { width: 100%; border-collapse: collapse; margin: 6pt 0 10pt; font-size: 9.5pt; page-break-inside: auto; }
+  th, td { border: 1px solid #d7d4cb; padding: 4pt 6pt; vertical-align: top; text-align: left; }
+  th { background: #f0fdfa; color: #0b3d3a; font-weight: 600; }
+  tr { page-break-inside: avoid; }
+  code { font-family: Consolas, "Courier New", monospace; font-size: 9pt; background: #f7f6f2; padding: 0 3pt; border-radius: 3px; }
+  .cover { min-height: 240mm; display: flex; flex-direction: column; justify-content: space-between; page-break-after: always; }
+  .cover .brand { color: #8a6d1f; letter-spacing: .18em; text-transform: uppercase; font-size: 9pt; font-weight: 600; }
+  .cover .sub { font-size: 13pt; color: #3f4750; max-width: 150mm; }
+  .cover .meta { border-top: 1px solid #d7d4cb; padding-top: 8pt; font-size: 9.5pt; color: #3f4750; }
+  .cover .meta b { color: #0b3d3a; }
+  .callout { border: 1px solid #d4af37; background: #fbf6e6; padding: 8pt 10pt; border-radius: 6px; margin: 8pt 0 10pt; page-break-inside: avoid; }
+  .callout.teal { border-color: #0f766e; background: #f0fdfa; }
+  .ok { color: #0f766e; font-weight: 600; }
+  .warn { color: #8a6d1f; font-weight: 600; }
+  .no { color: #b42318; font-weight: 600; }
+  .small { font-size: 9pt; color: #5f6873; }
+  .toc ol { columns: 2; column-gap: 24pt; }
+  .toc li { break-inside: avoid; }
+  .page-break { page-break-before: always; }
+  .tag { display: inline-block; font-size: 8.5pt; padding: 1pt 6pt; border-radius: 999px; background: #e8f5f3; color: #0b3d3a; margin-right: 4pt; }
+</style>
+</head>
+<body>
+
+<section class="cover">
+  <div>
+    <div class="brand">dogubaticenaze.com</div>
+    <h1 style="margin-top:10pt">Web Sitesi Yenileme Planı<br>v2.1 — Karar ve Uygulama Belgesi</h1>
+    <p class="sub">Doğu Batı Uluslararası Cenaze Hizmetleri için altı dilli, arama motoru ve mevzuat uyumlu, telefon ve WhatsApp odaklı yeni web sitesi: alınan kararlar, uygulanan çözüm, doğrulama sonuçları ve yayına kadar kalan adımlar.</p>
+  </div>
+  <div class="meta">
+    <p><b>Tarih:</b> 19 Eylül 2026 &nbsp;·&nbsp; <b>Sürüm:</b> 2.1 (v2.0 aynı gün; 16 Eylül tarihli v1 analiz belgesinin yerine geçer) &nbsp;·&nbsp; <b>Durum:</b> Faz 1 + Faz 2 + Faz 3 kodu tamamlandı ve doğrulandı; yayın, sahibinden gelecek bilgilere ve avukat kontrolüne bağlı.</p>
+    <p><b>Proje klasörü:</b> <code>Downloads/dogubaticenaze-site</code> &nbsp;·&nbsp; <b>Teknoloji:</b> Next.js 16.3.5, next-intl 4.14.5, Tailwind CSS 4.3.3, TypeScript; yerleşik yönetim paneli (Vercel Blob veya yerel JSON deposu)</p>
+    <p class="small">Bu belge hukuki görüş değildir. Mevzuat bölümleri, siteyi doğru kurgulamak için yapılmış araştırmanın özetidir; yayından önce KVKK ve belediye izinleri konusunda bir avukatın kontrolü gerekir.</p>
+  </div>
+</section>
+
+<section class="toc">
+  <h2>İçindekiler</h2>
+  <ol>
+    <li>Yönetici özeti</li>
+    <li>v1'den v2'ye ne değişti</li>
+    <li>Hedefler ve başarı ölçütleri</li>
+    <li>Kapsam</li>
+    <li>Karar günlüğü</li>
+    <li>Hedef kitle ve konumlandırma</li>
+    <li>Bilgi mimarisi ve URL haritası</li>
+    <li>İçerik ilkeleri</li>
+    <li>Tasarım sistemi ve erişilebilirlik</li>
+    <li>Teknik mimari (uygulandığı hâliyle)</li>
+    <li>Arama motoru ve yapay zekâ görünürlüğü</li>
+    <li>Hukuki uyum: uygulanan ve bekleyen</li>
+    <li>Uygulama durumu ve doğrulama sonuçları</li>
+    <li>Sahibinden bekleyen bilgiler</li>
+    <li>Yayın planı ve takvim</li>
+    <li>Faz 2 ve 3 (tamamlandı) ve sonrası</li>
+    <li>Bakım, ölçüm ve güven unsurları</li>
+    <li>Riskler ve önlemler</li>
+    <li>Maliyet</li>
+    <li>Ek A: Dosya yapısı · Ek B: Kaynaklar</li>
+  </ol>
+</section>
+
+<h2>1. Yönetici özeti</h2>
+<p>v1 belgesi, ChatGPT tarafından hazırlanan kod planını madde madde doğrulamış ve önemli eksikler bulmuştu: iş tarafı (hedef kitle, içerik, hukuk, iletişim akışı) yoktu, teknik öneriler eskimişti, yapısal veri hatalıydı ve taslak görsel kanıtlanamayan iddialar içeriyordu. v2, bu bulguları kararlara dönüştürür ve kodu fiilen uygular. v2.1 ile plandaki <b>faz 2 ve faz 3 kalemleri de tamamlanmıştır</b>: yönetim paneli, Farsça ve Almanca, 16 ülke sayfası, maliyet rehberi, rehber yazıları, yorumlar, Müslüman olmayanlar için sayfa, indirilebilir belgeler ve dosya takip.</p>
+<div class="callout teal">
+  <p><b>Bugün itibarıyla hazır olanlar:</b> Next.js 16 üzerinde altı dilli (TR kök adres; EN, RU, DE; AR ve FA sağdan sola) site: 27 sayfa şablonu ve 16 ülke sayfası, derlemede 245 statik sayfa; çevrilmiş URL'ler; hreflang ve canonical; LocalBusiness/Service/BreadcrumbList/FAQPage/Article/Review yapısal verisi; KVKK uyumlu çerez onayı; iletişim ve kurumsal form; 301 yönlendirmeler; güvenlik başlıkları; site haritası ve robots. <b>Yönetim paneli</b> (<code>/admin</code>): şifreli giriş, şirket bilgileri, altı dilde metin düzenleme, yorumlar, rehber yazıları, dosya takip, kullanıcı yönetimi, ayarlar. Tip kontrolü, lint ve derleme temiz; panel akışı uçtan uca test edildi.</p>
+  <p><b>Yayın için eksik olanlar:</b> şirket künye bilgileri, kurumsal e-posta kutusu, gerçek fotoğraflar, kanıtlanabilir sayılar, çevirilerin anadili kontrolü, avukat onayı (KVKK/künye/belediye izni), barındırma hesabı ve alan adı yönlendirmesi.</p>
+</div>
+<p>Önerilen yön değişmedi: Türkçe ana dil kök adreste; TR + EN + RU + AR ile başlayıp FA ve DE eklenen; ülke/koridor sayfaları, "vefat oldu, ne yapmalıyım" rehberi ve kurumsal (B2B) sayfası olan; KVKK ve reklam mevzuatına uygun; telefon ve WhatsApp odaklı bir site.</p>
+
+<h2>2. v1'den v2'ye ne değişti</h2>
+<table>
+  <tr><th style="width:28%">Konu</th><th style="width:34%">v1 (16 Eylül)</th><th>v2 (19 Eylül)</th></tr>
+  <tr><td>Belgenin niteliği</td><td>Analiz ve öneri</td><td>Karar günlüğü + uygulanmış çözüm + doğrulama kaydı</td></tr>
+  <tr><td>Teknik seçenek</td><td>A (Next.js) veya B (WordPress) arasında bakım sorumluluğuna göre karar önerisi</td><td><b>A seçildi ve uygulandı.</b> Metinler tek JSON dosyasında; CMS (Sanity) ihtiyaç doğarsa faz 2'de bağlanır (bkz. Karar 5)</td></tr>
+  <tr><td>Diller</td><td>TR/EN/RU/AR (faz 1), FA/DE (faz 2)</td><td>Aynı; dört dil yazıldı, anadili kontrolü bekliyor</td></tr>
+  <tr><td>Site haritası</td><td>17 sayfa tipi önerisi</td><td>21 sayfa (7 ülke sayfası dahil) kodlandı; faz 2 sayfaları planda</td></tr>
+  <tr><td>Yapısal veri</td><td>Düzeltilmiş LocalBusiness örneği</td><td>LocalBusiness + Service + BreadcrumbList + FAQPage, her dilde üretiliyor</td></tr>
+  <tr><td>İddialar</td><td>"100+ ülke", "ruhsatlı" gibi ifadelere karşı uyarı</td><td>Kanıtlanamayan hiçbir iddia sitede yok; sayılar belgeye bağlı olarak <code>site.ts</code> üzerinden açılır</td></tr>
+  <tr><td>Takvim</td><td>8 haftalık geliştirme</td><td>Geliştirme tamamlandı; kalan takvim yalnızca bilgi toplama, kontrol ve yayın (bkz. Bölüm 15)</td></tr>
+  <tr><td>v2.1 eklemeleri</td><td>Faz 2/3 planlanmıştı</td><td>Yönetim paneli, FA/DE, 16 ülke, maliyet rehberi, rehber yazıları, yorumlar, Müslüman olmayanlar sayfası, indirilebilir belgeler, dosya takip uygulandı; teknik olmayan kullanım kılavuzu yazıldı</td></tr>
+</table>
+
+<h2>3. Hedefler ve başarı ölçütleri</h2>
+<table>
+  <tr><th>Hedef</th><th>Ölçüt</th><th>Nasıl ölçülür</th></tr>
+  <tr><td>Acil durumdaki aile 10 saniye içinde arayabilsin</td><td>Her sayfada aynı yerde telefon + WhatsApp; mobilde sabit çubuk</td><td>Ölçüm aracında "tel" ve "WhatsApp" tıklama olayları (dil ve sayfa kırılımı)</td></tr>
+  <tr><td>Yabancı müşteriye ulaşmak</td><td>EN/RU/AR sayfaların doğal aramadan ziyaret alması</td><td>Search Console: dil bazlı gösterim ve tıklama; 3. aydan itibaren aylık takip</td></tr>
+  <tr><td>Kurumsal iş ortağı kazanmak</td><td>Kurumsal formdan gelen talep sayısı</td><td>Form gönderimi olayları, e-posta kayıtları</td></tr>
+  <tr><td>Teknik kalite</td><td>LCP ≤ 2,5 sn, INP ≤ 200 ms, CLS ≤ 0,1 (mobil)</td><td>PageSpeed Insights, Search Console Core Web Vitals raporu</td></tr>
+  <tr><td>Güven</td><td>Google İşletme Profili'nde düzenli yorum; künye ve KVKK metinleri eksiksiz</td><td>Aylık gözden geçirme</td></tr>
+</table>
+
+<h2>4. Kapsam</h2>
+<h3>Faz 1 (uygulandı)</h3>
+<ul>
+  <li>Dört dilde 21 sayfa: anasayfa; hizmetler özeti; Türkiye'den yurt dışına, yurt dışından Türkiye'ye, transit, yurt içi nakil; evrak ve konsolosluk; süreç (7 adım); "vefat oldu, ne yapmalıyım" rehberi; ülkeler listesi ve 7 ülke sayfası (Almanya, Birleşik Krallık, Rusya, İran, Irak, Azerbaycan, Hollanda); tabut ve hazırlık; kurumsal iş ortakları; hakkımızda; iletişim; SSS; KVKK aydınlatma, çerez, gizlilik, künye.</li>
+  <li>Formlar, çerez onayı, SEO altyapısı, yönlendirmeler, güvenlik, erişilebilirlik, RTL.</li>
+</ul>
+<h3>Faz 2 ve 3 (v2.1 ile uygulandı)</h3>
+<ul>
+  <li>Farsça (/fa, sağdan sola, Vazirmatn yazı tipi) ve Almanca (/de, Almanca URL'ler).</li>
+  <li>9 ek ülke sayfası: Fransa, Belçika, Avusturya, Suudi Arabistan, Kazakistan, Özbekistan, Türkmenistan, Suriye, Libya (toplam 16 ülke, altı dilde).</li>
+  <li>Maliyet rehberi (fiyatı belirleyen kalemler; tahmini aralıklar panelden açılır, varsayılan kapalı), Müslüman olmayanlar için hizmetler, indirilebilir belgeler (evrak kontrol listesi ve vekâletname örneği, TR/EN PDF), rehber/blog (panelden yazılır), yorumlar bölümü (izinli), dosya takip ekranı (takip koduyla aşama görüntüleme).</li>
+  <li>Yönetim paneli: Sanity yerine yerleşik, hesap gerektirmeyen çözüm (Karar 5 güncellendi).</li>
+</ul>
+<h3>Kapsam dışı</h3>
+<ul>
+  <li>Google Ads / Meta kampanyaları; fotoğraf çekimi; çevirilerin anadili kontrolü; avukat onayı.</li>
+</ul>
+
+<h2>5. Karar günlüğü</h2>
+<table>
+  <tr><th style="width:4%">#</th><th style="width:26%">Karar</th><th>Gerekçe</th></tr>
+  <tr><td>1</td><td>Next.js 16.3 + next-intl 4.14 + Tailwind 4 (Seçenek A)</td><td>Site Claude destekli geliştirilip bakımı üstlenilecek. Hız, statik üretim (tüm sayfalar derlemede HTML'e dönüşür) ve çok dilli yönlendirme için en olgun yığın. v1'deki eskimiş sürümler (Next 14, middleware) düzeltildi: Next 16'da istek yakalayıcı <code>proxy.ts</code>, parametreler <code>await</code> edilir, resim <code>priority</code> yerine <code>preload</code>.</td></tr>
+  <tr><td>2</td><td>Türkçe kök adreste, diğer diller ön ekli; otomatik dil yönlendirmesi kapalı</td><td>Google'ın çok bölgeli site yönergesi. Googlebot çoğunlukla ABD'den ve dil başlığı olmadan tarar; otomatik yönlendirme taramayı bozar. Görünür dil seçici, bayrak yerine dil adlarıyla.</td></tr>
+  <tr><td>3</td><td>Çevrilmiş URL'ler (örn. <code>/en/repatriation-from-turkey</code>, <code>/ru/perevozka-tela-iz-turcii</code>); Arapça için Latin URL</td><td>Arama görünürlüğü ve paylaşılabilirlik. Arapça URL'ler WhatsApp'ta yüzde kodlu ve okunmaz göründüğü için İngilizce slug tercih edildi.</td></tr>
+  <tr><td>4</td><td>Kanıtlanamayan hiçbir iddia yok</td><td>Ticari Reklam Yönetmeliği ve güven. "100+ ülke", "ruhsatlı", "en hızlı" ifadeleri kaldırıldı. Kuruluş yılı ve nakil sayısı belge gelene kadar gizli; gelince tek dosyadan açılır.</td></tr>
+  <tr><td>5</td><td>Yerleşik yönetim paneli (harici CMS yok)</td><td>Sahibi teknik değil; harici bir CMS hesabı, API anahtarı ve ayrı bir arayüz ek yük olurdu. Panel sitenin içinde çalışır, tek JSON belgesinde veri tutar (Vercel'de Blob, sunucuda dosya), metinleri dil dil düzenletir ve orijinale döndürebilir. Varsayılan metinler kodda kalır; panel yalnızca farkları saklar.</td></tr>
+  <tr><td>6</td><td>Yapay zekâ görseli kullanılmadı; hero dekoratif desen</td><td>Sektörde güven gerçek fotoğrafla kurulur. Araç, ofis ve ekip çekimi yapılınca değiştirilir.</td></tr>
+  <tr><td>7</td><td>Telefon ve WhatsApp birinci öncelik; form ikinci</td><td>Kederli ziyaretçi telefonla gelir. Mobilde sabit Ara/WhatsApp çubuğu; her dilde ayrı hazır WhatsApp mesajı.</td></tr>
+  <tr><td>8</td><td>Dil desteği dürüst ifade edildi</td><td>"Türkçe ve İngilizce telefon desteği; diğer diller WhatsApp'tan yazılı" ifadesi kullanıldı. Ekip yapısı netleşince güncellenir.</td></tr>
+  <tr><td>9</td><td>Ölçüm çerezsiz ve onaya bağlı</td><td>Plausible yalnızca "ölçüm çerezleri" onayından sonra yüklenir. Google Analytics ve reklam pikselleri faz 1'de yok.</td></tr>
+  <tr><td>10</td><td>Yasal sayfalar dizine kapalı (<code>noindex</code>), takip edilebilir</td><td>Arama sonuçlarında hizmet sayfalarının öne çıkması için.</td></tr>
+  <tr><td>11</td><td>301 yönlendirmeler gerçek 301 olarak</td><td>Next.js'in <code>permanent: true</code> seçeneği 308 döndürür; arama sinyallerinin aktarımı için <code>statusCode: 301</code> kullanıldı. <code>/tr</code> ön ekli adresler de köke yönlendirilir (çift içerik önlemi).</td></tr>
+</table>
+
+<h2>6. Hedef kitle ve konumlandırma</h2>
+<p>Ziyaretçi çoğu zaman acil ve kederli biridir; telefondan girer, kısa ve net bilgi ister. Sigorta, asistans ve konsolosluk gibi kurumsal ziyaretçiler ise süreç güvencesi ve tek muhatap arar. Site iki kitleyi ayrı ayrı karşılar.</p>
+<table>
+  <tr><th>Kitle</th><th>İhtiyaç</th><th>Sitede karşılığı</th></tr>
+  <tr><td>Türkiye'deki aileler (yakını yurt dışında vefat eden)</td><td>Cenazeyi getirmek, evrak, maliyet, fon/sigorta</td><td>Yurt dışından Türkiye'ye sayfası, ülke sayfaları, SSS</td></tr>
+  <tr><td>Türkiye'de vefat eden yabancıların yakınları (turist, sağlık turisti)</td><td>Kendi dilinde hızlı, güvenilir yardım</td><td>EN/RU/AR rehber, Türkiye'den yurt dışına sayfası, ülke sayfaları</td></tr>
+  <tr><td>Türkiye'de yaşayan yabancılar (Rus, İranlı, Iraklı, Suriyeli, Azeri)</td><td>Memlekete nakil, konsolosluk</td><td>Koridor sayfaları, Rusça/Arapça içerik</td></tr>
+  <tr><td>Yurt dışındaki Türk diasporası</td><td>Havalimanında teslim, yurt içi nakil, defin</td><td>Almanya ve Hollanda sayfaları, cenaze fonu açıklaması</td></tr>
+  <tr><td>Kurumsal: sigorta, asistans, cenaze firmaları, hastaneler, konsolosluklar</td><td>Tek muhatap, yazılı süreç, hızlı dönüş</td><td>Kurumsal sayfa ve ayrı form; İngilizce ve Rusça yazışma</td></tr>
+</table>
+<p class="small">Pazar verileri (2025 turist sayıları, ikamet izni istatistikleri, rakip analizi) v1 belgesinde ayrıntılıdır; kararları değiştirmediği için burada tekrarlanmadı. Farklılaşma fırsatı korunuyor: Türkiye merkezli rakiplerin neredeyse hiçbiri ülke ülke süreç ve kendi dilinde "ilk ne yapmalıyım" rehberi sunmuyor.</p>
+
+<h2>7. Bilgi mimarisi ve URL haritası</h2>
+<table>
+  <tr><th>Sayfa</th><th>TR (kök)</th><th>EN</th><th>RU</th><th>AR</th></tr>
+  <tr><td>Anasayfa</td><td><code>/</code></td><td><code>/en</code></td><td><code>/ru</code></td><td><code>/ar</code></td></tr>
+  <tr><td>Hizmetler</td><td><code>/hizmetler</code></td><td><code>/en/services</code></td><td><code>/ru/uslugi</code></td><td><code>/ar/services</code></td></tr>
+  <tr><td>Türkiye'den yurt dışına</td><td><code>/yurt-disina-cenaze-nakli</code></td><td><code>/en/repatriation-from-turkey</code></td><td><code>/ru/perevozka-tela-iz-turcii</code></td><td><code>/ar/repatriation-from-turkey</code></td></tr>
+  <tr><td>Yurt dışından Türkiye'ye</td><td><code>/yurt-disindan-turkiyeye-cenaze-nakli</code></td><td><code>/en/repatriation-to-turkey</code></td><td><code>/ru/perevozka-tela-v-turciyu</code></td><td><code>/ar/repatriation-to-turkey</code></td></tr>
+  <tr><td>Transit</td><td><code>/transit-cenaze-nakli</code></td><td><code>/en/transit-repatriation</code></td><td><code>/ru/tranzitnaya-perevozka</code></td><td><code>/ar/transit-repatriation</code></td></tr>
+  <tr><td>Yurt içi nakil</td><td><code>/yurt-ici-cenaze-nakli</code></td><td><code>/en/domestic-transfer</code></td><td><code>/ru/perevozka-po-turcii</code></td><td><code>/ar/domestic-transfer</code></td></tr>
+  <tr><td>Evrak ve konsolosluk</td><td><code>/evrak-ve-konsolosluk</code></td><td><code>/en/documents-and-consulate</code></td><td><code>/ru/dokumenty-i-konsulstvo</code></td><td><code>/ar/documents-and-consulate</code></td></tr>
+  <tr><td>Süreç</td><td><code>/surec</code></td><td><code>/en/process</code></td><td><code>/ru/process</code></td><td><code>/ar/process</code></td></tr>
+  <tr><td>Vefat oldu, ne yapmalıyım?</td><td><code>/vefat-oldu-ne-yapmaliyim</code></td><td><code>/en/someone-died-in-turkey</code></td><td><code>/ru/smert-v-turcii-chto-delat</code></td><td><code>/ar/someone-died-in-turkey</code></td></tr>
+  <tr><td>Ülkeler (liste)</td><td><code>/ulkeler</code></td><td><code>/en/countries</code></td><td><code>/ru/strany</code></td><td><code>/ar/countries</code></td></tr>
+  <tr><td>Ülke (örnek: Almanya)</td><td><code>/ulkeler/almanya</code></td><td><code>/en/countries/germany</code></td><td><code>/ru/strany/germaniya</code></td><td><code>/ar/countries/germany</code></td></tr>
+  <tr><td>Tabut ve hazırlık</td><td><code>/tabut-ve-hazirlik</code></td><td><code>/en/coffins-and-preparation</code></td><td><code>/ru/groby-i-podgotovka</code></td><td><code>/ar/coffins-and-preparation</code></td></tr>
+  <tr><td>Kurumsal</td><td><code>/kurumsal</code></td><td><code>/en/partners</code></td><td><code>/ru/partneram</code></td><td><code>/ar/partners</code></td></tr>
+  <tr><td>Hakkımızda</td><td><code>/hakkimizda</code></td><td><code>/en/about</code></td><td><code>/ru/o-nas</code></td><td><code>/ar/about</code></td></tr>
+  <tr><td>İletişim</td><td><code>/iletisim</code></td><td><code>/en/contact</code></td><td><code>/ru/kontakty</code></td><td><code>/ar/contact</code></td></tr>
+  <tr><td>SSS</td><td><code>/sss</code></td><td><code>/en/faq</code></td><td><code>/ru/faq</code></td><td><code>/ar/faq</code></td></tr>
+  <tr><td>KVKK / çerez / gizlilik / künye</td><td><code>/kvkk-aydinlatma-metni</code>, <code>/cerez-politikasi</code>, <code>/gizlilik-politikasi</code>, <code>/kunye</code></td><td colspan="3"><code>/privacy-notice</code>, <code>/cookie-policy</code>, <code>/privacy-policy</code>, <code>/imprint</code> (dil ön ekiyle)</td></tr>
+</table>
+<p><b>Eski adresler:</b> <code>/index.html → /</code>, <code>/aboutus.html → /hakkimizda</code>, <code>/services.html → /hizmetler</code>, <code>/gallery.html → /hakkimizda</code>, <code>/contact.html → /iletisim</code>, <code>/tr/* → /*</code> (tümü 301).</p>
+
+<h3>Anasayfa kurgusu (uygulandı)</h3>
+<ol>
+  <li>Üst bar: logo, menü, dil adlarıyla seçici, belirgin "7/24 Ara" düğmesi; klavye için "içeriğe geç" bağlantısı.</li>
+  <li>Hero: net başlık, tek cümle güvence, üç düğme (Ara, WhatsApp, Teklif İste), güven şeridi (7/24, tek noktadan koordinasyon, soğutmalı araç).</li>
+  <li>Acil kutusu: "Yakınınız az önce mi vefat etti? İlk 3 adım" + rehber bağlantısı (masaüstünde hero'nun yanında, mobilde hemen altında).</li>
+  <li>Üç ana yol kartı; 7 adımlı süreç (kompakt, her adımda "sizden istenen" ve "tahmini süre"); destek hizmetleri ızgarası.</li>
+  <li>Hizmet verilen ülkeler (yalnızca sayfası olanlar + "listede yoksa arayın"); "Neden biz" (kanıtlanabilir 4 madde); kurumsal şerit; 5 SSS; iletişim + form; alt bilgi künye ve yasal bağlantılar; mobilde sabit Ara/WhatsApp çubuğu.</li>
+</ol>
+<p class="small">Bilinçli olarak eklenmeyenler: yorumlar bölümü (gerçek ve izinli Google yorumları toplanınca eklenecek), istatistik sayaçları (belge gelince), bayrak duvarı.</p>
+
+<h2>8. İçerik ilkeleri</h2>
+<ul>
+  <li>Sakin, saygılı, kısa cümleler; satış dili ve abartı yok; korku veya acıyı kullanan başlık yok.</li>
+  <li>Her hizmet sayfasında sabit üçlü: <b>ne olacak / sizden ne lazım / ne kadar sürer</b>; süreler "genellikle" diye ve resmi kurumlara bağlı olduğu notuyla verilir.</li>
+  <li>"Devlet öder", "THY ücretsiz taşır" gibi ifadeler yok. Doğru ifade: "Masraflar genellikle aile, sigorta veya cenaze fonu tarafından karşılanır; kapsamı birlikte kontrol ederiz."</li>
+  <li>Fiyat: faz 1'de "fiyatı belirleyen kalemler + ücretsiz yazılı teklif"; faz 2'de avukat onayıyla başlangıç aralıkları.</li>
+  <li>Belediyelerin ücretsiz yurt içi hizmetine karşı fark açıkça anlatılır: hız, evrak takibi, yabancı dil, uluslararası koordinasyon.</li>
+  <li>Yerelleştirme: RU'da "груз 200", AR'da resmi Modern Standart Arapça, EN'de Birleşik Krallık cenaze sektörü terminolojisi ("repatriation", "embalming", "zinc-lined sealed coffin", "Formule C"). Makine çevirisi tek başına yayınlanmaz; anadili kontrolü şarttır.</li>
+  <li>Kremasyon hizmeti vaat edilmez (Türkiye'de imkân yok); bulaşıcı hastalık kaynaklı vefatta 1 yıl nakil yasağı SSS/evrak sayfasında belirtilir.</li>
+</ul>
+
+<h2>9. Tasarım sistemi ve erişilebilirlik</h2>
+<table>
+  <tr><th>Öğe</th><th>Karar</th></tr>
+  <tr><td>Renk</td><td>Koyu turkuaz zemin <code>#0B3D3A</code>/<code>#134E4A</code>, turkuaz vurgu <code>#0F766E</code>, altın <code>#D4AF37</code> yalnızca koyu zemin üstünde düğme ve süsleme; beyaz zeminde metin için koyu altın <code>#8A6D1F</code> (4,9:1). Altın zemin üstünde beyaz yazı kullanılmadı.</td></tr>
+  <tr><td>Yazı tipi</td><td>IBM Plex Sans (Latin, Latin-ext, Kiril) ve IBM Plex Sans Arabic; <code>next/font</code> ile sunucudan servis edilir, Google'a istek gitmez.</td></tr>
+  <tr><td>RTL</td><td>Arapça sayfalarda <code>html dir="rtl"</code>; mantıksal CSS sınıfları (<code>ps/pe</code>, <code>start/end</code>); oklar aynalanır; telefon numaraları <code>dir="ltr"</code>.</td></tr>
+  <tr><td>WCAG 2.2 AA</td><td>Metin kontrastı ≥ 4,5:1; tıklanabilir alanlar ≥ 44 px; görünür odak çizgisi; form etiketleri; "içeriğe geç"; azaltılmış hareket tercihi; telefon ve WhatsApp her sayfada aynı yerde (3.2.6 tutarlı yardım).</td></tr>
+  <tr><td>Performans</td><td>Hero'da video/slider yok, resim yok (dekoratif CSS gradyan); tüm sayfalar statik HTML; tek istemci bileşenleri: menü, dil seçici, çerez, form.</td></tr>
+</table>
+
+<h2>10. Teknik mimari (uygulandığı hâliyle)</h2>
+<table>
+  <tr><th>Katman</th><th>Uygulama</th></tr>
+  <tr><td>Çatı</td><td>Next.js 16.3.5 App Router, TypeScript, Turbopack; Node 20.9+. Tüm sayfalar <code>generateStaticParams</code> ile derlemede üretilir (SSG).</td></tr>
+  <tr><td>Çok dil</td><td>next-intl 4.14.5: <code>routing.ts</code> (diller, <code>localePrefix: "as-needed"</code>, <code>localeDetection: false</code>, çevrilmiş <code>pathnames</code>), <code>request.ts</code>, <code>navigation.ts</code>, <code>proxy.ts</code>. Mesaj dosyaları tipli (<code>global.d.ts</code>); yapı eşitliği script ile kontrol edilir.</td></tr>
+  <tr><td>İçerik</td><td><code>messages/{tr,en,ru,ar,fa,de}.json</code> varsayılan metinler; <code>src/config/site.ts</code> varsayılan telefon/adres/künye. Panelden yapılan değişiklikler bunların üstüne yazılır.</td></tr>
+  <tr><td>Yönetim paneli</td><td><code>/admin</code>: ilk açılışta yönetici oluşturma; scrypt ile hashlenmiş şifre; HMAC imzalı 14 günlük oturum çerezi; 6 hatalı giriş → 15 dakika kilit. Bölümler: şirket bilgileri, site metinleri (dil × bölüm, orijinale döndürme), yorumlar (izin ve yayın işaretleri), rehber yazıları (basit biçimlendirme), dosya takip (takip kodu, aşama geçmişi), kullanıcılar ve şifre, ayarlar (fiyat aralığı, yorumlar, dosya takip anahtarları). Her kayıt statik sayfaları yeniler.</td></tr>
+  <tr><td>Veri deposu</td><td>Tek JSON belgesi: <code>BLOB_READ_WRITE_TOKEN</code> varsa Vercel Blob, yoksa <code>data/store.json</code> (<code>DATA_DIR</code> ile taşınabilir). Yedekleme: dosyanın kopyası (<code>3-Yedekle.bat</code>).</td></tr>
+  <tr><td>Form</td><td>Sunucu aksiyonu: alan doğrulama, gizli bal küpü, IP başına 10 dakikada 5 deneme sınırı, kontrol karakteri temizliği, hassas veri istenmez; Cloudflare Turnstile anahtar girilirse etkin; Resend ile e-posta (anahtar yoksa sunucu günlüğüne yazar). Aile ve kurumsal varyantı.</td></tr>
+  <tr><td>SEO</td><td>Her sayfada canonical, dört dil + x-default hreflang (HTML ve HTTP <code>Link</code> başlığı), Open Graph (1200×630 görsel), <code>sitemap.xml</code> (hreflang'lı 104 URL), <code>robots.txt</code> (yapay zekâ tarayıcıları engellenmez).</td></tr>
+  <tr><td>Yapısal veri</td><td>Anasayfa: LocalBusiness (7/24, adres, hizmet kataloğu, ülkeler) + FAQPage; hizmet ve ülke sayfaları: Service; iç sayfalar: BreadcrumbList. <code>FuneralService</code> türü kullanılmadı (schema.org'da yok).</td></tr>
+  <tr><td>Güvenlik</td><td>HSTS (preload), nosniff, X-Frame-Options, Referrer-Policy, Permissions-Policy; <code>X-Powered-By</code> kapalı; JSON-LD'de <code>&lt;</code> kaçışı.</td></tr>
+  <tr><td>Çerez ve ölçüm</td><td>Kabul/Reddet/Yönet eşit görünürlükte; tercih 6 ay saklanır; Plausible yalnızca onaydan sonra yüklenir.</td></tr>
+  <tr><td>Barındırma</td><td>Öneri: Vercel Pro (Hobby ticari kullanıma kapalı), fonksiyon bölgesi <code>fra1</code>. Alternatif: Türkiye'de VPS + Nginx. KVKK yurt dışı aktarım değerlendirmesi avukatla.</td></tr>
+</table>
+
+<h2>11. Arama motoru ve yapay zekâ görünürlüğü</h2>
+<ul>
+  <li>Yapay zekâ aramalarında görünmenin yolu iyi SEO ile aynı: gerçek, ayrıntılı, özgün içerik ve taranabilir sayfalar. <code>llms.txt</code> eklenmedi (Google kullanmadığını açıkladı); istenirse küçük ve yalnızca doğrulanmış bilgilerle eklenebilir.</li>
+  <li>Google İşletme Profili en kritik yerel sinyal: ad, adres, telefon sitedekiyle birebir aynı olmalı; yorum toplanmalı; profil bağlantısı <code>site.ts → sameAs</code> alanına girilmeli.</li>
+  <li>Konsolosluk firma listelerine başvuru (Almanya listesi mevcut; İngiltere, Hollanda, Rusya araştırılmalı) hem güven hem müşteri kaynağı.</li>
+  <li>Anahtar ifadeler sayfa başlık ve açıklamalarına işlendi: "yurt dışı cenaze nakli", "yurt dışından cenaze getirme", "repatriation from Turkey", "what to do if someone dies in Turkey", "перевозка тела из Турции", "груз 200", "نقل الجثمان من تركيا".</li>
+  <li>SSS zengin sonuçları artık gösterilmiyor; FAQPage verisi yine de içerik anlamı için tutuldu.</li>
+</ul>
+
+<h2>12. Hukuki uyum: uygulanan ve bekleyen</h2>
+<table>
+  <tr><th style="width:24%">Konu</th><th>Durum</th><th>Not</th></tr>
+  <tr><td>Site künyesi (6563 s. Kanun md. 3)</td><td class="warn">Kısmen</td><td>Sayfa ve alanlar hazır; unvan, MERSİS/vergi no, sicil no, KEP sahibinden bekleniyor; boş alanlar "yayın öncesi tamamlanacak" görünür.</td></tr>
+  <tr><td>KVKK aydınlatma metni (md. 10)</td><td class="warn">Taslak</td><td>Dört dilde yazıldı; özel nitelikli veri (belgelerdeki sağlık bilgisi) ve yurt dışına aktarım (md. 9) bölümleri avukat kontrolü gerektirir.</td></tr>
+  <tr><td>Çerez onayı (KVKK Çerez Rehberi 2022)</td><td class="ok">Uygulandı</td><td>Eşit görünürlükte üç seçenek; ölçüm onaydan önce çalışmaz; pazarlama çerezi yok.</td></tr>
+  <tr><td>Formda veri minimizasyonu</td><td class="ok">Uygulandı</td><td>Sağlık/vefat nedeni istenmez; not olarak uyarılır; e-posta isteğe bağlı.</td></tr>
+  <tr><td>Yurt dışına veri aktarımı</td><td class="warn">Avukat kararı</td><td>Vercel (AB bölgesi), Resend, WhatsApp aktarım sayılır. Alternatif Türkiye barındırma hazır (VPS).</td></tr>
+  <tr><td>VERBİS</td><td class="warn">Avukata sorulacak</td><td>Muafiyet eşikleri (50 çalışan / 100 milyon TL; özel nitelikli veri ana faaliyetse 10 / 10 milyon) firmaya göre değerlendirilmeli.</td></tr>
+  <tr><td>Reklam iddiaları (Ticari Reklam Yön.)</td><td class="ok">Uygulandı</td><td>Belgesiz iddia, kurum logosu, "ruhsatlı" ifadesi yok; IATA logosu yok ("IATA yetkili acenteler aracılığıyla" ifadesi).</td></tr>
+  <tr><td>Faaliyet izni ve soğutmalı araç belgesi</td><td class="warn">Belge bekleniyor</td><td>Belge gelince "hakkımızda" ve "neden biz" metinleri güçlendirilebilir.</td></tr>
+  <tr><td>Ticari elektronik ileti</td><td class="ok">Uygulandı</td><td>Site tanıtım mesajı göndermez; form onayı yalnızca dönüş amacıyla.</td></tr>
+  <tr><td>Mesafeli sözleşme</td><td class="warn">Süreç kuralı</td><td>Telefon/WhatsApp ile anlaşılan işlerde yazılı teklif ve kalıcı veri saklayıcıda sözleşme; operasyon prosedürü olarak sahibine iletilecek.</td></tr>
+  <tr><td>Kremasyon, nakli yasak hastalıklar</td><td class="ok">Uygulandı</td><td>Evrak sayfası ve SSS'de doğru bilgi.</td></tr>
+</table>
+
+<h2>13. Uygulama durumu ve doğrulama sonuçları</h2>
+<table>
+  <tr><th>Kontrol</th><th>Sonuç</th><th>Kanıt</th></tr>
+  <tr><td>TypeScript tip kontrolü</td><td class="ok">Temiz</td><td><code>tsc --noEmit</code> çıkış kodu 0</td></tr>
+  <tr><td>ESLint (Next core-web-vitals + TypeScript)</td><td class="ok">Temiz</td><td>0 hata, 0 uyarı</td></tr>
+  <tr><td>Üretim derlemesi</td><td class="ok">Başarılı</td><td>Next.js 16.3.5; 21 sayfa × 4 dil statik üretildi; proxy etkin</td></tr>
+  <tr><td>Eski adres yönlendirmeleri</td><td class="ok">301</td><td><code>/index.html, /aboutus.html, /services.html, /gallery.html, /tr, /tr/iletisim</code> → doğru hedefler</td></tr>
+  <tr><td>Rota durum kodları</td><td class="ok">200 / 404</td><td>TR kök, <code>/en</code>, <code>/ru</code>, <code>/ar</code>, çevrilmiş iç sayfalar 200; bilinmeyen adres 404 (yerelleştirilmiş sayfa)</td></tr>
+  <tr><td>hreflang ve canonical</td><td class="ok">Doğru</td><td>Her sayfada 4 dil + x-default; ülke sayfalarında dil başına farklı slug (örn. <code>/ulkeler/almanya</code> ↔ <code>/ru/strany/germaniya</code>); HTTP <code>Link</code> başlığı da üretiliyor</td></tr>
+  <tr><td>RTL</td><td class="ok">Doğru</td><td><code>/ar</code>: <code>lang="ar" dir="rtl"</code>; menü, kartlar ve oklar aynalanmış (ekran görüntüsüyle doğrulandı)</td></tr>
+  <tr><td>Yapısal veri</td><td class="ok">Mevcut</td><td>Anasayfada LocalBusiness, OfferCatalog (4 Service), 8 Country, FAQPage (5 soru)</td></tr>
+  <tr><td>Güvenlik başlıkları</td><td class="ok">Mevcut</td><td>HSTS, nosniff, X-Frame-Options, Referrer-Policy, Permissions-Policy</td></tr>
+  <tr><td>Site haritası ve robots</td><td class="ok">Mevcut</td><td>104 URL, her biri hreflang alternatifleriyle; robots sitemap ve host satırlı</td></tr>
+  <tr><td>Görsel kontrol</td><td class="ok">Yapıldı</td><td>Masaüstü TR, mobil TR, masaüstü AR, EN hizmet, RU iletişim ekran görüntüleri alındı; mobilde yatay taşma yok</td></tr>
+  <tr><td>Yönetim paneli (uçtan uca, puppeteer)</td><td class="ok">Geçti</td><td>İlk kurulum → giriş → WhatsApp/telefon/kuruluş yılı değişikliği TR, AR ve DE sayfalarında görüldü → metin düzenleme ve orijinale döndürme → yorum ekleme (anasayfada görünüyor) → rehber yazısı (liste ve sayfa) → dosya oluşturma ve kodla sorgulama → ikinci yönetici, çıkış, yanlış şifre reddi, giriş → oturumsuz erişim engeli</td></tr>
+  <tr><td>Altı dil yapısal eşitlik</td><td class="ok">Doğru</td><td>en/ru/ar/fa/de mesaj dosyaları tr ile birebir aynı anahtar yapısında</td></tr>
+  <tr><td>Form gönderimi</td><td class="warn">Kısmen</td><td>Doğrulama ve hata mesajları test edildi; e-posta teslimi Resend anahtarı girilince canlıda test edilecek</td></tr>
+  <tr><td>Core Web Vitals</td><td class="warn">Yayında ölçülecek</td><td>Statik sayfalar, resimsiz hero ve sunucudan yazı tipi ile hedeflerin altında kalması beklenir; PageSpeed ile teyit</td></tr>
+</table>
+
+<h2>14. Sahibinden bekleyen bilgiler</h2>
+<p>Bunlar netleşmeden yayına çıkılmamalı; her biri sitedeki bir alanın dayanağıdır. Belgelerin fotoğrafı yeterlidir.</p>
+<table>
+  <tr><th style="width:4%">#</th><th style="width:30%">Bilgi</th><th>Sitede nereye gider</th><th style="width:16%">Öncelik</th></tr>
+  <tr><td>1</td><td>Şirket türü, tam unvan, vergi dairesi/no, MERSİS, ticaret sicil no, KEP</td><td>Künye, KVKK metni, LocalBusiness</td><td class="no">Zorunlu</td></tr>
+  <tr><td>2</td><td><code>info@dogubaticenaze.com</code> posta kutusunun açılması</td><td>İletişim, künye, form teslimi</td><td class="no">Zorunlu</td></tr>
+  <tr><td>3</td><td>Belediye izni / protokol, iş yeri ruhsatı, araç ve soğutma belgesi</td><td>Hakkımızda; "ruhsatlı" ifadesinin açılması</td><td class="no">Zorunlu (avukat)</td></tr>
+  <tr><td>4</td><td>Kuruluş yılı; bugüne kadar nakil sayısı; hizmet verilen ülke sayısı (belgeyle)</td><td><code>site.ts → facts</code>; hero güven şeridi, hakkımızda</td><td class="warn">Önemli</td></tr>
+  <tr><td>5</td><td>Ekipte gerçekten konuşulan diller; gece hangi dilde cevap verilebildiği</td><td>"Dil desteği" notu, kurumsal sayfa</td><td class="warn">Önemli</td></tr>
+  <tr><td>6</td><td>Araç, ofis, ekip fotoğrafları</td><td>Hero, hakkımızda, tabut sayfası</td><td class="warn">Önemli</td></tr>
+  <tr><td>7</td><td>Google İşletme Profili bağlantısı, sosyal hesaplar, ofis koordinatları</td><td><code>sameAs</code>, <code>geo</code>, harita</td><td class="warn">Önemli</td></tr>
+  <tr><td>8</td><td>Tahnit kim yapıyor, çinko tabut tedarik/lehim, IATA acentesi / Turkish Cargo kanalı</td><td>Süreç ve tabut sayfalarının doğrulanması</td><td>Kontrol</td></tr>
+  <tr><td>9</td><td>En sık koridorlar; sigorta/asistans/hastane/fon anlaşmaları</td><td>Ülke sayfalarının önceliği; kurumsal sayfa referansları</td><td>Kontrol</td></tr>
+  <tr><td>10</td><td>Müşteri izniyle kullanılabilecek teşekkür mesajları, Google yorumları</td><td>Yorumlar bölümü (faz 2)</td><td>İsteğe bağlı</td></tr>
+  <tr><td>11</td><td>Çalışan sayısı ve yıllık bilanço (VERBİS için)</td><td>Avukat değerlendirmesi</td><td>Kontrol</td></tr>
+</table>
+
+<h2>15. Yayın planı ve takvim</h2>
+<table>
+  <tr><th style="width:12%">Hafta</th><th style="width:26%">Aşama</th><th>Çıktı</th></tr>
+  <tr><td>1</td><td>Bilgi toplama</td><td>Bölüm 14'teki 1–7 numaralı bilgiler; posta kutusu; avukat randevusu; fotoğraf çekimi planı</td></tr>
+  <tr><td>1–2</td><td>Anadili kontrolü</td><td>EN, RU, AR metinlerin anadili konuşan kişilerce düzeltilmesi (mesaj dosyaları üzerinden)</td></tr>
+  <tr><td>2</td><td>Hukuki kontrol</td><td>KVKK aydınlatma, çerez, künye, yurt dışı aktarım kararı, belediye izni ifadeleri</td></tr>
+  <tr><td>2</td><td>İçerik güncellemesi</td><td>Künye ve kanıtlanabilir sayıların girilmesi; fotoğrafların eklenmesi; gerekiyorsa metin düzeltmeleri</td></tr>
+  <tr><td>3</td><td>Altyapı</td><td>GitHub deposu; Vercel Pro (fra1) veya Türkiye VPS; Resend ve Turnstile anahtarları; Plausible; alan adı DNS</td></tr>
+  <tr><td>3</td><td>Yayın öncesi test</td><td>Canlı ortamda form teslimi, 301'ler, PageSpeed, Rich Results Test, mobil test; eski site yedeklenir</td></tr>
+  <tr><td>3–4</td><td>Yayın</td><td>DNS geçişi; Search Console doğrulama ve site haritası; İşletme Profili eşitleme; konsolosluk listelerine başvuru</td></tr>
+  <tr><td>5+</td><td>İzleme</td><td>Haftalık Search Console ve olay raporu; ilk ay sonunda içerik düzeltmeleri</td></tr>
+</table>
+<div class="callout"><p><b>Yayın kriteri:</b> Bölüm 14'teki "zorunlu" maddeler tamam, avukat onayı alınmış, en az bir anadili kontrolü yapılmış, Vercel Blob (veya sunucuda DATA_DIR) bağlanmış ve canlıda form e-postası ulaşıyor olmalı. Adım adım yayın rehberi: <code>docs/Kullanim_Kilavuzu.pdf</code>.</p></div>
+
+<h2>16. Faz 2 ve 3 (tamamlandı) ve sonrası</h2>
+<p>Aşağıdaki tablo v2.0'daki planı gösterir; <b>"Durum"</b> sütunu v2.1 ile eklenmiştir.</p>
+<table>
+  <tr><th>Öğe</th><th>Kapsam</th><th>Ön koşul</th><th>Durum</th></tr>
+  <tr><td>Farsça (/fa) ve Almanca (/de)</td><td>Mevcut yapıya iki dil eklemek: routing, mesaj dosyası, yazı tipi (Farsça için Arapça aile yeterli)</td><td>Çeviri kaynağı; telefonda destek gerçekliği</td><td class="ok">Uygulandı; anadili kontrolü bekliyor</td></tr>
+  <tr><td>Maliyet rehberi</td><td>Fiyatı belirleyen kalemler + başlangıç aralıkları ve dahil olanlar</td><td>Avukat onayı (fiyat etiketi ve mesafeli sözleşme)</td><td class="ok">Sayfa hazır; aralıklar panelden açılır (varsayılan kapalı)</td></tr>
+  <tr><td>Blog / rehberler</td><td>"Antalya'da vefat eden bir yakın için ne yapılır" gibi arama odaklı yazılar; şehir sayfaları</td><td>İçerik takvimi</td><td class="ok">Panelden yazılıyor (Rehber bölümü)</td></tr>
+  <tr><td>Ek ülke sayfaları</td><td>Suudi Arabistan, Kazakistan, Özbekistan, Türkmenistan, Suriye, Libya, Fransa, Belçika, Avusturya</td><td>Gerçek deneyim olan koridorlar</td><td class="ok">9 ülke eklendi (16 toplam)</td></tr>
+  <tr><td>Müslüman olmayanlar için sayfa</td><td>Hristiyan, Yahudi ve diğer inançlara uygun hazırlık</td><td>Operasyon teyidi</td><td class="ok">Uygulandı</td></tr>
+  <tr><td>Yorumlar</td><td>İzinli ve doğrulanabilir Google yorumları</td><td>İşletme Profili'nde yorum birikmesi</td><td class="ok">Panelden ekleniyor (izin şartıyla)</td></tr>
+  <tr><td>İndirilebilir belgeler</td><td>Vekâletname örneği, evrak kontrol listesi (PDF)</td><td>Avukat onayı</td><td class="ok">TR/EN PDF hazır</td></tr>
+  <tr><td>CMS (Sanity)</td><td>Metinlerin panelden düzenlenmesi; aynı anahtar yapısı</td><td>Sahibinin düzenleme ihtiyacı</td><td class="ok">Yerleşik panel ile karşılandı</td></tr>
+  <tr><td>Dosya takip ekranı (faz 3)</td><td>Kurumsal ortaklar için nakil durumu</td><td>Operasyon sistemi</td><td class="ok">Uygulandı (kod ile sorgulama)</td></tr>
+</table>
+
+<h2>17. Bakım, ölçüm ve güven unsurları</h2>
+<ul>
+  <li><b>Aylık:</b> bağımlılık güncellemesi (Next.js güvenlik bültenleri takip), Search Console kontrolü, olay raporu (tel/WhatsApp/form tıklamaları, dil kırılımı), yorum toplama.</li>
+  <li><b>6 ayda bir:</b> mevzuat ve evrak listelerinin kontrolü (konsolosluk kuralları değişebilir), KVKK metinlerinin gözden geçirilmesi.</li>
+  <li><b>Güven yol haritası:</b> İşletme Profili + yorumlar (hemen); kuruluş yılı, gerçek sayılar, ekip fotoğrafı (hemen); konsolosluk listelerine başvuru (kısa vade); FIAT-IFTA / EFFS üyeliği (orta vade); ISO 9001 (uzun vade).</li>
+  <li><b>Yanıt süresi:</b> Sitede süre vaadi yok; "en kısa sürede" ifadesi kullanıldı. Ölçülebilir bir süre yazılacaksa (örn. 15 dakika) gerçekten uygulanmalı.</li>
+</ul>
+
+<h2>18. Riskler ve önlemler</h2>
+<table>
+  <tr><th>Risk</th><th>Etki</th><th>Önlem</th></tr>
+  <tr><td>Belgelenemeyen iddia</td><td>Reklam cezası, güven kaybı</td><td>Sitede yok; her yeni iddia için belge dosyada tutulur</td></tr>
+  <tr><td>Hatalı çeviri</td><td>Yabancı ailede güven kaybı</td><td>Anadili kontrolü yayın kriteri</td></tr>
+  <tr><td>KVKK aktarım ihlali</td><td>İdari para cezası</td><td>Avukat görüşü; veri minimizasyonu; AB/Türkiye barındırma seçeneği hazır</td></tr>
+  <tr><td>Sunulan dilde telefonda cevap verilememesi</td><td>Kaçan müşteri, kötü yorum</td><td>Dürüst dil notu; ekip kapasitesine göre güncelleme</td></tr>
+  <tr><td>İçeriğin güncel kalmaması</td><td>Yanlış evrak bilgisi</td><td>Tek dosyada içerik; 6 aylık kontrol</td></tr>
+  <tr><td>Geliştiricinin ayrılması</td><td>Site güncellenemez</td><td>README, belgelenmiş yapı, standart yığın; gerekirse Sanity veya Seçenek B'ye geçiş</td></tr>
+  <tr><td>Eski adreslerin kaybı</td><td>Arama görünürlüğü düşer</td><td>301'ler uygulandı ve test edildi</td></tr>
+  <tr><td>Spam form</td><td>Zaman kaybı</td><td>Bal küpü, hız sınırı, Turnstile</td></tr>
+</table>
+
+<h2>19. Maliyet</h2>
+<table>
+  <tr><th>Kalem</th><th>Eylül 2026 bilinen fiyat</th></tr>
+  <tr><td>Vercel Pro</td><td>Geliştirici başı aylık 20 $ (kullanım kredisi dahil); alternatif Türkiye VPS aylık ≈ 10–25 $</td></tr>
+  <tr><td>Resend e-posta</td><td>Ücretsiz plan 3.000 e-posta/ay</td></tr>
+  <tr><td>Cloudflare Turnstile, Plausible</td><td>Turnstile ücretsiz; Plausible aylık ≈ 9 $ veya kendi sunucuda Umami ücretsiz</td></tr>
+  <tr><td>Sanity CMS (faz 2)</td><td>Ücretsiz plan yeterli</td></tr>
+  <tr><td>Alan adı, çeviri kontrolü, avukat, fotoğraf</td><td>Teklif alınarak netleşir</td></tr>
+</table>
+
+<h2 class="page-break">Ek A: Dosya yapısı</h2>
+<table>
+  <tr><th>Yol</th><th>İçerik</th></tr>
+  <tr><td><code>messages/{tr,en,ru,ar,fa,de}.json</code></td><td>Varsayılan metinler; yapı altı dosyada eşit</td></tr>
+  <tr><td><code>src/app/admin/…</code>, <code>src/lib/admin/…</code>, <code>src/lib/store.ts</code>, <code>src/lib/auth.ts</code>, <code>src/lib/site.ts</code></td><td>Yönetim paneli, aksiyonlar, veri deposu, kimlik doğrulama, panel ayarlarıyla birleştirilmiş site bilgisi</td></tr>
+  <tr><td><code>1-Kurulum.bat</code>, <code>2-Baslat.bat</code>, <code>3-Yedekle.bat</code>, <code>docs/Kullanim_Kilavuzu.pdf</code></td><td>Teknik olmayan kullanıcı için başlatıcılar ve kılavuz</td></tr>
+  <tr><td><code>src/config/site.ts</code></td><td>Telefonlar, WhatsApp, e-posta, adres, künye, kanıtlanabilir sayılar, ülke listesi</td></tr>
+  <tr><td><code>src/i18n/routing.ts, request.ts, navigation.ts</code>; <code>src/proxy.ts</code></td><td>Diller, çevrilmiş URL'ler, istek yakalayıcı</td></tr>
+  <tr><td><code>src/app/[locale]/…</code></td><td>Yerleşim ve 27 sayfa şablonu (klasör adı iç anahtar, ziyaretçi çevrilmiş adresi görür)</td></tr>
+  <tr><td><code>src/app/sitemap.ts, robots.ts</code></td><td>Site haritası ve robots</td></tr>
+  <tr><td><code>src/components/…</code></td><td>Header, Footer, MobileBar, LanguageSwitcher, CookieConsent, ContactForm, ProcessSteps, ServicePage, LegalPage, UI ilkelleri, ikonlar, JSON-LD</td></tr>
+  <tr><td><code>src/lib/seo.ts, countries.ts, params.ts, actions/contact.ts</code></td><td>Metadata/JSON-LD yardımcıları, ülke slug eşlemesi, parametre doğrulama, form sunucu aksiyonu</td></tr>
+  <tr><td><code>next.config.ts</code></td><td>next-intl eklentisi, 301 yönlendirmeler, güvenlik başlıkları</td></tr>
+  <tr><td><code>.env.example</code>, <code>README.md</code>, <code>tasks/todo.md</code></td><td>Ortam değişkenleri, kurulum ve yayın rehberi, görev kaydı</td></tr>
+</table>
+
+<h2>Ek B: Başlıca kaynaklar</h2>
+<ul class="small">
+  <li>Next.js 16 yükseltme rehberi: https://nextjs.org/docs/app/guides/upgrading/version-16 · next-intl yönlendirme: https://next-intl.dev/docs/routing/configuration · Tailwind v4: https://tailwindcss.com/docs/upgrade-guide</li>
+  <li>schema.org LocalBusiness: https://schema.org/LocalBusiness · Google LocalBusiness yapısal veri: https://developers.google.com/search/docs/appearance/structured-data/local-business · Google çok bölgeli siteler ve dile göre uyarlanan sayfalar: https://developers.google.com/search/docs/specialty/international/</li>
+  <li>web.dev Core Web Vitals: https://web.dev/articles/vitals · WCAG 2.2: https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/</li>
+  <li>Vercel adil kullanım ve fiyatlar: https://vercel.com/docs/limits/fair-use-guidelines · https://vercel.com/pricing · Sanity: https://www.sanity.io/pricing</li>
+  <li>Cenaze Nakil ve Defin İşlemleri Yönetmeliği (Lexpera) · Strazburg Anlaşması (1973) · Kanun 1887 (TBMM) · Konsolosluk cenaze nakil işlemleri: https://www.konsolosluk.gov.tr/Procedure/ShowProcedure/8 · e-Devlet Formül C · GOV.UK Türkiye'de vefat rehberi: https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-turkey</li>
+  <li>KVKK yurt dışına aktarım rehberi: https://www.kvkk.gov.tr/Icerik/8142/ · KVKK Çerez Rehberi (2022) · Ticari Reklam ve Haksız Ticari Uygulamalar Yönetmeliği (Lexpera) · Meta kişisel özellikler politikası · Google Ads kişiselleştirilmiş reklam politikası</li>
+  <li>Turkish Cargo cenaze taşımacılığı · THY vefat durumunda hizmetler · FIAT-IFTA aktif üyeler: https://thanos.org · Alman Konsolosluğu Türkiye cenaze firmaları listesi: https://tuerkei.diplo.de</li>
+  <li>Rakipler: funeralservicesturkey.com (Concordia), taksimcenazeisleri.com, cenazetasima.com, rosyinternational.co.uk</li>
+</ul>
+
+</body>
+</html>

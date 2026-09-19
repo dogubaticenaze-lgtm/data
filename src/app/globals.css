@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens. Palette follows the approved draft (deep teal + gold) with the
+ * WCAG 2.2 AA corrections from the plan: gold is decorative on dark grounds only;
+ * gold-700 (#8A6D1F) is the only gold allowed for text on white (4.9:1).
+ */
+@theme {
+  --color-teal-50: #f0fdfa;
+  --color-teal-100: #ccfbf1;
+  --color-teal-200: #99f6e4;
+  --color-teal-600: #0d9488;
+  --color-teal-700: #0f766e;
+  --color-teal-800: #115e59;
+  --color-teal-900: #134e4a;
+  --color-teal-950: #0b3d3a;
+
+  --color-gold-100: #f7efd2;
+  --color-gold-300: #e6cf7a;
+  --color-gold-400: #d4af37;
+  --color-gold-500: #b8860b;
+  --color-gold-700: #8a6d1f;
+
+  --color-ink: #1b1f23;
+  --color-ink-soft: #3f4750;
+  --color-muted: #5f6873;
+  --color-paper: #f7f6f2;
+  --color-line: #e5e3dc;
+
+  --color-whatsapp: #128c7e;
+
+  --font-sans: var(--font-plex), "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-arabic: var(--font-plex-arabic), "Segoe UI", Tahoma, system-ui, sans-serif;
+
+  --radius-card: 1rem;
+  --shadow-card: 0 1px 2px rgb(27 31 35 / 0.04), 0 8px 24px -12px rgb(19 78 74 / 0.25);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-white text-ink font-sans antialiased;
+    font-feature-settings: "kern", "liga";
+  }
+  [data-font="arabic"] body {
+    font-family: var(--font-arabic);
+  }
+  [data-font="persian"] body {
+    font-family: var(--font-vazir), var(--font-arabic);
+  }
+  h1, h2, h3, h4 {
+    @apply font-semibold tracking-tight text-balance;
+  }
+  p {
+    @apply text-pretty;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-gold-500;
+  }
+  ::selection {
+    background: var(--color-teal-100);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+  }
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  .btn-outline,
+  .btn-whatsapp,
+  .btn-ghost-light {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-2.5 text-base font-semibold transition-colors;
+  }
+  .btn-primary {
+    @apply bg-gold-400 text-teal-950 hover:bg-gold-300;
+  }
+  .btn-secondary {
+    @apply bg-teal-700 text-white hover:bg-teal-800;
+  }
+  .btn-outline {
+    @apply border border-teal-700 text-teal-900 hover:bg-teal-50;
+  }
+  .btn-whatsapp {
+    @apply bg-whatsapp text-white hover:bg-teal-800;
+  }
+  .btn-ghost-light {
+    @apply border border-white/40 text-white hover:bg-white/10;
+  }
+  .prose-site {
+    @apply text-[1.0625rem] leading-relaxed text-ink-soft;
+  }
+  .prose-site p + p {
+    @apply mt-4;
+  }
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.18em] text-gold-700;
+  }
+  .card {
+    @apply rounded-card border border-line bg-white p-6 shadow-card;
+  }
+  .list-check > li {
+    @apply relative ps-7;
+  }
+  .list-check > li::before {
+    content: "";
+    @apply absolute start-0 top-[0.55em] size-4 rounded-full bg-teal-100;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='none' stroke='%230f766e' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' d='M4 8.5l2.5 2.5L12 5.5'/%3E%3C/svg%3E");
+    background-size: 12px;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}

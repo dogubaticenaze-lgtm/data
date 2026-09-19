@@ -1,0 +1,1161 @@
+{
+  "meta": {
+    "siteName": "Doğu Batı International Funeral Services",
+    "defaultTitle": "Doğu Batı International Funeral Services | Internationale Überführung Verstorbener, Istanbul",
+    "defaultDescription": "Überführung Verstorbener aus der Türkei ins Ausland, aus dem Ausland in die Türkei und im Transit. Dokumente, Konsulat, Einbalsamierung und Luftfracht aus einer Hand. Telefon und WhatsApp rund um die Uhr.",
+    "titleTemplate": "%s | Doğu Batı Funeral"
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "outbound": "Aus der Türkei ins Ausland",
+    "inbound": "Aus dem Ausland in die Türkei",
+    "transit": "Transitüberführung",
+    "domestic": "Überführung innerhalb der Türkei",
+    "documents": "Dokumente und Konsulat",
+    "process": "Ablauf",
+    "guide": "Was tun nach einem Todesfall?",
+    "countries": "Länder",
+    "coffins": "Sarg und Vorbereitung",
+    "partners": "Für Unternehmen",
+    "about": "Über uns",
+    "faq": "Häufige Fragen",
+    "contact": "Kontakt",
+    "menu": "Menü",
+    "close": "Schließen",
+    "language": "Sprache",
+    "skipToContent": "Zum Inhalt springen",
+    "costGuide": "Kostenübersicht",
+    "nonMuslim": "Für Nichtmuslime",
+    "downloads": "Downloads",
+    "guides": "Ratgeber",
+    "tracking": "Vorgang verfolgen"
+  },
+  "common": {
+    "callNow": "Jetzt anrufen",
+    "call247": "Rund um die Uhr anrufen",
+    "whatsapp": "WhatsApp",
+    "whatsappMessage": "Guten Tag, ich benötige Informationen zur Überführung eines Verstorbenen.",
+    "requestQuote": "Angebot anfordern",
+    "learnMore": "Details",
+    "readGuide": "Ratgeber lesen",
+    "allCountries": "Alle Länder",
+    "contactUs": "Kontakt aufnehmen",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "address": "Adresse",
+    "hours": "Erreichbarkeit",
+    "hoursValue": "24 Stunden, 7 Tage die Woche",
+    "openInMaps": "In Karten öffnen",
+    "breadcrumbHome": "Startseite",
+    "whatToExpect": "Was geschieht?",
+    "whatWeNeed": "Was wir von Ihnen benötigen",
+    "howLong": "Wie lange dauert es?",
+    "included": "Enthaltene Leistungen",
+    "notIncluded": "Gesondert zu klären",
+    "step": "Schritt",
+    "estimated": "Geschätzte Dauer",
+    "youProvide": "Von Ihnen benötigt",
+    "disclaimerTimes": "Die angegebenen Zeiten sind übliche Richtwerte; sie hängen von der Bearbeitungsdauer bei Behörden, Fluggesellschaft und Konsulat ab. Bei Obduktion, staatsanwaltschaftlichem Verfahren oder Feiertagen verlängert sich die Dauer.",
+    "disclaimerCost": "Die Kosten werden in der Regel von der Familie, einer Versicherung oder der Sterbekasse (Bestattungsfonds) getragen, bei der der Verstorbene Mitglied war. Den Leistungsumfang prüfen wir gemeinsam im ersten Gespräch; ein schriftliches Angebot ist kostenlos.",
+    "languagesNote": "Telefonischer Support auf Türkisch und Englisch; auf Deutsch schriftlich per WhatsApp.",
+    "verifiedOnly": "Auf dieser Website finden Sie nur Angaben, die belegt werden können.",
+    "download": "Herunterladen",
+    "readMore": "Weiterlesen",
+    "backToList": "Zurück zur Übersicht",
+    "publishedOn": "Veröffentlicht am",
+    "updatedOn": "Aktualisiert am"
+  },
+  "home": {
+    "heroEyebrow": "Internationale Überführung Verstorbener, mit Sitz in Istanbul",
+    "heroTitle": "Überführung Verstorbener aus der Türkei in die Welt und aus der Welt in die Türkei",
+    "heroSubtitle": "Wir koordinieren Dokumente, Konsulat, Einbalsamierung und Luftfracht aus einer Hand. Sie erreichen uns Tag und Nacht; im ersten Gespräch erklären wir Ihnen klar, was geschieht, was wir von Ihnen benötigen und wie lange es voraussichtlich dauert.",
+    "trust1": "Telefon und WhatsApp rund um die Uhr",
+    "trust2": "Koordination aus einer Hand",
+    "trust3": "Kühlfahrzeug für die Überführung",
+    "pathsTitle": "Wie können wir Ihnen helfen?",
+    "pathsSubtitle": "Wählen Sie den Weg, der zu Ihrer Situation passt; auf jeder Seite finden Sie Ablauf, benötigte Dokumente und geschätzte Dauer.",
+    "path1Title": "Aus der Türkei ins Ausland",
+    "path1Text": "Ein Angehöriger ist in der Türkei verstorben und soll in die Heimat überführt werden.",
+    "path2Title": "Aus dem Ausland in die Türkei",
+    "path2Text": "Ein Angehöriger ist im Ausland verstorben und soll in der Türkei beigesetzt werden.",
+    "path3Title": "Transit zwischen Ländern",
+    "path3Text": "Der Verstorbene wird über Istanbul von einem Land in ein anderes überführt.",
+    "urgentTitle": "Ist Ihr Angehöriger gerade verstorben?",
+    "urgentText": "Nehmen Sie sich einen Moment. Die ersten drei Schritte:",
+    "urgent1": "Ist der Tod im Krankenhaus eingetreten, bitten Sie um die Ausstellung der Sterbeurkunde (Todesbescheinigung); zu Hause rufen Sie die 112 an.",
+    "urgent2": "Halten Sie den Ausweis oder Reisepass des Verstorbenen bereit.",
+    "urgent3": "Rufen Sie uns an; alles Weitere gehen wir gemeinsam Schritt für Schritt durch.",
+    "urgentCta": "Schritt-für-Schritt-Anleitung",
+    "processTitle": "Wie läuft der Ablauf?",
+    "processSubtitle": "Sieben Schritte. Bei jedem Schritt sagen wir Ihnen, was wir von Ihnen benötigen und wie lange es in der Regel dauert.",
+    "supportTitle": "Ergänzende Leistungen",
+    "support1Title": "Dokumente und Konsulat",
+    "support1Text": "Sterbeurkunde, mehrsprachige Sterbeurkunde (Formule C), Leichenpass (Transportgenehmigung), konsularische Genehmigung.",
+    "support2Title": "Einbalsamierung und Sarg",
+    "support2Text": "Luftdicht verschlossener Zinksarg für den Lufttransport und Einbalsamierungsbescheinigung.",
+    "support3Title": "Fluggesellschaft und Zoll",
+    "support3Text": "Frachtbuchung und Luftfrachtbrief über IATA-zugelassene Agenten.",
+    "support4Title": "Überführung innerhalb der Türkei",
+    "support4Text": "Überführung zwischen Städten im Kühlfahrzeug und Koordination der Beisetzung.",
+    "countriesTitle": "Länder, in denen wir tätig sind",
+    "countriesSubtitle": "Für jedes Land gibt es eine eigene Seite mit Ablauf, Dokumenten und Hinweisen. Für nicht aufgeführte Länder rufen Sie uns an; im ersten Gespräch klären wir, was möglich ist.",
+    "whyTitle": "Warum Doğu Batı?",
+    "why1Title": "Ein Ansprechpartner",
+    "why1Text": "Wir führen die Gespräche mit Krankenhaus, Staatsanwaltschaft, Standesamt, Konsulat, Fluggesellschaft und Zoll; Sie sprechen mit einer Person.",
+    "why2Title": "Klare Information",
+    "why2Text": "Bei jedem Schritt sagen wir Ihnen vorab, was geschieht, was wir von Ihnen benötigen und wie lange es voraussichtlich dauert. Ein schriftliches Angebot ist kostenlos.",
+    "why3Title": "Kühlkette",
+    "why3Text": "Der Verstorbene wird im Kühlfahrzeug abgeholt; die Kühlkette bleibt bis zur Überführung erhalten.",
+    "why4Title": "Erfahrung mit Familien aus dem Ausland",
+    "why4Text": "Wir betreuen Todesfälle von Touristen, Patienten in medizinischer Behandlung und in der Türkei lebenden Ausländern; schriftlich kommunizieren wir auf Englisch und Russisch.",
+    "partnersTitle": "Ihr Partner in Istanbul für Versicherungen, Assistance-Unternehmen und Bestattungsunternehmen",
+    "partnersText": "Wir arbeiten mit Krankenhäusern, Konsulaten, Versicherungen und Assistance-Unternehmen zusammen. Für die Übernahme am Flughafen, die Überführung innerhalb der Türkei, die Dokumentenabwicklung und die Koordination der Beisetzung steht eine eigene Kontaktlinie für Unternehmen bereit.",
+    "partnersCta": "Seite für Unternehmen",
+    "faqTitle": "Häufig gestellte Fragen",
+    "faqCta": "Alle Fragen",
+    "contactTitle": "Kontakt aufnehmen",
+    "contactText": "Unsere Telefon- und WhatsApp-Linie ist Tag und Nacht erreichbar. Wenn Sie das Formular ausfüllen, rufen wir Sie so schnell wie möglich zurück.",
+    "reviewsTitle": "Stimmen von Familien und Geschäftspartnern",
+    "reviewsSubtitle": "Es werden nur Bewertungen veröffentlicht, für die eine Einwilligung vorliegt und die überprüfbar sind.",
+    "factsFounded": "Gründungsjahr",
+    "factsTransfers": "Durchgeführte Überführungen",
+    "factsCountries": "Betreute Länder"
+  },
+  "process": {
+    "steps": [
+      {
+        "title": "Erstes Gespräch und Aufnahme der Angaben",
+        "text": "Wenn Sie uns anrufen, erfragen wir, wo der Tod eingetreten ist, welche Staatsangehörigkeit der Verstorbene hatte und wohin die Überführung erfolgen soll. Im selben Gespräch erklären wir den Ablauf und die geschätzte Dauer.",
+        "need": "Sterbeort, Ausweis- oder Passdaten des Verstorbenen, Telefonnummer des Angehörigen, der als Ansprechpartner dient",
+        "time": "Am selben Tag"
+      },
+      {
+        "title": "Sterbeurkunde und behördliche Schritte",
+        "text": "Die Sterbeurkunde wird vom Krankenhaus oder vom Amtsarzt der Gemeinde ausgestellt. Bei einem Fall für die Staatsanwaltschaft begleiten wir das Verfahren und, falls erforderlich, die Obduktion.",
+        "need": "Ausweis oder Reisepass des Verstorbenen",
+        "time": "In der Regel 1 Tag; länger bei staatsanwaltschaftlichem Verfahren"
+      },
+      {
+        "title": "Abholung des Verstorbenen und Kühlkette",
+        "text": "Der Verstorbene wird mit unserem Kühlfahrzeug vom Sterbeort abgeholt und zur Vorbereitung der Überführung in die Leichenhalle gebracht.",
+        "need": "Nachweis der Verwandtschaft oder Vollmacht für die Freigabe",
+        "time": "Am selben Tag, sobald die Urkunde vorliegt"
+      },
+      {
+        "title": "Vorbereitung: Waschung, Einbalsamierung, Sarg",
+        "text": "Die rituelle Waschung und das Einhüllen in das Totentuch (Kefen) erfolgen entsprechend Glauben und Konfession des Verstorbenen. Für die internationale Überführung wird eine Einbalsamierung durchgeführt und ein luftdicht verschlossener Zinksarg für den Lufttransport vorbereitet.",
+        "need": "Kurze Angaben zu den religiösen Wünschen der Familie",
+        "time": "In der Regel 1 Tag"
+      },
+      {
+        "title": "Konsulat und Überführungsdokumente",
+        "text": "Die mehrsprachige Sterbeurkunde (Formule C), der Leichenpass (Transportgenehmigung), die Einbalsamierungsbescheinigung und die konsularische Genehmigung des Ziellandes werden eingeholt.",
+        "need": "Falls erforderlich Vollmacht; Angaben zur Person, die den Verstorbenen im Zielland in Empfang nimmt",
+        "time": "In der Regel 1-3 Werktage; abhängig vom Konsulat"
+      },
+      {
+        "title": "Flugbuchung und Zoll",
+        "text": "Die Frachtbuchung erfolgt über einen IATA-zugelassenen Agenten, der Luftfrachtbrief (AWB) wird ausgestellt und die Zollabfertigung abgeschlossen. Wird ein Ticket für eine Begleitperson gewünscht, helfen wir dabei.",
+        "need": "Zielflughafen und Angaben zum empfangenden Bestattungsunternehmen oder zur empfangenden Person",
+        "time": "1-2 Tage, je nach Flugverfügbarkeit"
+      },
+      {
+        "title": "Übergabe und Koordination der Beisetzung",
+        "text": "Am Zielflughafen wird der Verstorbene der von der Familie benannten Person oder dem Bestattungsunternehmen übergeben. Bei Überführungen in die Türkei koordinieren wir den Bestattungsort und die Formalitäten bei der Gemeinde.",
+        "need": "Gewünschter Bestattungsort",
+        "time": "Am Tag der Ankunft"
+      }
+    ]
+  },
+  "pages": {
+    "services": {
+      "title": "Unsere Leistungen",
+      "description": "Internationale Überführung und Überführung innerhalb der Türkei, Dokumente und konsularische Formalitäten, Einbalsamierung und Sargvorbereitung, Koordination der Beisetzung.",
+      "intro": "Unsere Kernleistung ist die internationale Überführung Verstorbener. Die dazugehörigen Leistungen rund um Dokumente, Vorbereitung und Koordination bieten wir ebenfalls aus einer Hand an.",
+      "otherTitle": "Weitere Leistungen",
+      "other": [
+        "Rituelle Waschung, Einhüllen in das Totentuch und Ausrichtung der Trauerfeier entsprechend Glauben und Konfession",
+        "Beschaffung einer Grabstätte sowie Umbettung an einen anderen Ort",
+        "Flughafentransfer und Hilfe bei der Unterkunft für Angehörige",
+        "Flugtickets für eine Begleitperson",
+        "Übersetzung von Dokumenten, Begleitung bei Notar und Apostille"
+      ]
+    },
+    "outbound": {
+      "title": "Überführung Verstorbener aus der Türkei ins Ausland",
+      "description": "Dokumente, Ablauf und geschätzte Dauer für die Überführung eines in der Türkei verstorbenen Angehörigen in die Heimat. Dokumente, Einbalsamierung, Sarg und Luftfracht aus einer Hand.",
+      "intro": "Ist ein Angehöriger verstorben, der sich als Tourist, Patient, Arbeitnehmer oder mit Wohnsitz in der Türkei aufhielt, überführen wir ihn in seine Heimat. Wir übernehmen alle behördlichen und logistischen Schritte vom Sterbeort bis zum Zielflughafen und halten Sie in jeder Phase auf dem Laufenden.",
+      "expect": [
+        "Unabhängig vom Sterbeort (Krankenhaus, Hotel, Wohnung) holen wir den Verstorbenen im Kühlfahrzeug ab.",
+        "Um Sterbeurkunde, mehrsprachige Sterbeurkunde (Formule C), Leichenpass (Transportgenehmigung) und konsularische Genehmigung kümmern wir uns.",
+        "Es wird eine Einbalsamierung durchgeführt; ein luftdicht verschlossener Zinksarg wird nach den Regeln des internationalen Lufttransports vorbereitet.",
+        "Flugbuchung, Luftfrachtbrief und Zollabfertigung werden abgeschlossen.",
+        "Wir übermitteln der Familie oder dem Bestattungsunternehmen vor Ort die Angaben, die für die Übernahme am Zielflughafen benötigt werden."
+      ],
+      "need": [
+        "Reisepass des Verstorbenen (oder Ausweis und Aufenthaltstitel)",
+        "Name und Telefonnummer des Angehörigen, der in der Türkei und im Zielland erreichbar ist",
+        "Angaben zur Person oder zum Bestattungsunternehmen, das den Verstorbenen im Zielland in Empfang nimmt",
+        "Falls vorhanden: Versicherungspolice oder Mitgliedschaft in einer Sterbekasse (Bestattungsfonds)"
+      ],
+      "time": "Bei vollständigen Dokumenten in der Regel 2-4 Tage. Staatsanwaltschaftliches Verfahren, Obduktion, Arbeitstage des Konsulats und Flugverfügbarkeit können die Dauer verlängern.",
+      "included": [
+        "Abholung des Verstorbenen und Kühlkette",
+        "Waschung und Einhüllen in das Totentuch (auf Wunsch), Einbalsamierung und Einbalsamierungsbescheinigung",
+        "Luftdicht verschlossener Zinksarg für die internationale Überführung",
+        "Sterbeurkunde, Formule C und Leichenpass (Transportgenehmigung)",
+        "Konsularische Formalitäten und Übersetzung",
+        "Flugbuchung, Luftfrachtbrief, Zoll",
+        "Anlieferung zum Flughafen"
+      ],
+      "notIncluded": [
+        "Luftfrachtgebühr (abhängig von Land und Gewicht; im Angebot als eigene Position ausgewiesen)",
+        "Leistungen des Bestattungsunternehmens und Beisetzung im Zielland",
+        "Flugticket für eine Begleitperson (auf Wunsch organisieren wir es)"
+      ],
+      "costTitle": "Was den Preis bestimmt",
+      "costText": "Der Preis hängt vom Zielland, der Luftfrachtgebühr, den Konsulatsgebühren, der Sargart und der Entfernung des Sterbeorts von Istanbul ab. Im ersten Gespräch gehen wir diese Positionen gemeinsam durch und erstellen ein kostenloses schriftliches Angebot."
+    },
+    "inbound": {
+      "title": "Überführung Verstorbener aus dem Ausland in die Türkei",
+      "description": "Einen im Ausland verstorbenen Angehörigen in die Türkei überführen: konsularische Formalitäten, Übernahme am Flughafen, Überführung innerhalb der Türkei und Koordination der Beisetzung.",
+      "intro": "Möchten Sie einen im Ausland verstorbenen Angehörigen in die Türkei überführen, koordinieren wir beide Seiten: Wir stehen mit dem Bestattungsunternehmen oder dem türkischen Konsulat im Sterbeland in Kontakt, übernehmen den Verstorbenen in Istanbul, überführen ihn in die Stadt der Beisetzung und erledigen die Formalitäten bei der Gemeinde.",
+      "expect": [
+        "Wir nehmen Kontakt zum Bestattungsunternehmen, zur Sterbekasse oder zur Versicherung im Sterbeland auf.",
+        "Wir kümmern uns um die Überführungsdokumente des türkischen Konsulats und die für die Einreise in die Türkei erforderlichen Unterlagen.",
+        "Wir übernehmen den Verstorbenen am Flughafen Istanbul und schließen die Zollabfertigung ab.",
+        "Wir überführen den Verstorbenen im Kühlfahrzeug in die Stadt der Beisetzung und koordinieren die Friedhofsformalitäten mit der Gemeinde.",
+        "Auf Wunsch der Familie helfen wir bei der Organisation des Totengebets und der Beisetzung."
+      ],
+      "need": [
+        "Türkischer Ausweis oder Reisepass des Verstorbenen und die im Sterbeland ausgestellte Sterbeurkunde",
+        "Kontaktdaten des Bestattungsunternehmens, der Versicherung oder der Sterbekasse im Sterbeland (falls vorhanden)",
+        "Stadt der Beisetzung und gewünschter Friedhof",
+        "Angaben zum Angehörigen, der den Verstorbenen in der Türkei in Empfang nimmt"
+      ],
+      "time": "Sobald die Formalitäten im Sterbeland abgeschlossen sind, dauern Übernahme, Überführung und Beisetzung in der Türkei in der Regel 1-2 Tage. Die Dauer der Formalitäten im Ausland ist je nach Land unterschiedlich.",
+      "fundTitle": "Sterbekasse und Versicherung",
+      "fundText": "Familien in Europa sind häufig Mitglied einer Sterbekasse (Bestattungsfonds) oder versichert. In diesem Fall führt der Vertragsbestatter der Sterbekasse die Überführung bis in die Türkei durch; wir übernehmen ab dem Flughafen die Übernahme, die Überführung innerhalb der Türkei und die Beisetzung. Den Leistungsumfang prüfen wir gemeinsam."
+    },
+    "transit": {
+      "title": "Transitüberführung Verstorbener",
+      "description": "Überführung Verstorbener zwischen Ländern über Istanbul: Umschlag der Fracht, Zoll und Dokumentenabwicklung.",
+      "intro": "Muss ein Verstorbener von einem Land über Istanbul in ein anderes Land überführt werden, übernehmen wir beim Umschlag die Zoll- und Frachtabwicklung. Diese Leistung wird meist von Bestattungsunternehmen, Versicherungen und Assistance-Unternehmen im Ausland angefragt.",
+      "expect": [
+        "Wir stimmen Dokumente und Flugplan mit dem Unternehmen im Abgangsland ab.",
+        "Wir begleiten die Zoll- und Frachtabwicklung beim Umschlag in Istanbul.",
+        "Ist zwischen den Flügen eine Wartezeit erforderlich, bleibt die Kühlkette erhalten.",
+        "Wir übermitteln Luftfrachtbrief und Flugdaten an das Unternehmen im Zielland."
+      ],
+      "need": [
+        "Im Abgangsland ausgestellte Sterbeurkunde, Einbalsamierungsbescheinigung und Leichenpass (laissez-passer)",
+        "Konsularische Dokumente, die die Einreisebestimmungen des Ziellandes erfüllen",
+        "Kontaktdaten der Unternehmen im Abgangs- und im Zielland"
+      ],
+      "time": "Abhängig von der Flugverbindung; die Umschlagsformalitäten werden in der Regel am selben Tag abgeschlossen."
+    },
+    "domestic": {
+      "title": "Überführung innerhalb der Türkei und zwischen Städten",
+      "description": "Überführung Verstorbener zwischen Städten innerhalb der Türkei: Kühlfahrzeug, Genehmigungen der Gemeinden und Koordination der Beisetzung.",
+      "intro": "Ist eine Überführung in eine andere Stadt innerhalb der Türkei erforderlich, transportieren wir den Verstorbenen in unserem Kühlfahrzeug und kümmern uns um die Transportgenehmigungen der Gemeinde und die Beisetzungsformalitäten. Auch die Überführung eines aus dem Ausland ankommenden Verstorbenen vom Flughafen in die Stadt der Beisetzung gehört zu dieser Leistung.",
+      "expect": [
+        "Sterbeurkunde und Transportgenehmigung der Gemeinde werden eingeholt.",
+        "Der Verstorbene wird im Kühlfahrzeug abgeholt und in die Zielstadt gebracht.",
+        "Friedhofs- und Beisetzungsformalitäten in der Zielstadt werden mit der Gemeinde koordiniert."
+      ],
+      "need": [
+        "Ausweis des Verstorbenen",
+        "Stadt der Beisetzung und Angaben zum Friedhof",
+        "Ein Angehöriger als Ansprechpartner in der Zielstadt"
+      ],
+      "time": "Sind die Dokumente vorhanden, fahren wir meist am selben Tag los; je nach Entfernung erfolgt die Übergabe innerhalb eines Tages.",
+      "municipalNote": "Die Gemeinden in der Türkei bieten im Inland kostenlose Bestattungsleistungen an. Was wir zusätzlich bieten, sind Schnelligkeit, Dokumentenabwicklung, fremdsprachige Betreuung und die Abwicklung aller mit einer internationalen Überführung verbundenen Schritte aus einer Hand."
+    },
+    "documents": {
+      "title": "Dokumente und konsularische Formalitäten",
+      "description": "Dokumente für die Überführung Verstorbener aus der und in die Türkei: Sterbeurkunde, Formule C, Leichenpass, Einbalsamierungsbescheinigung, konsularische Genehmigung, Luftfrachtbrief.",
+      "intro": "Die Dokumente sind der zeitaufwendigste Teil einer internationalen Überführung. Die folgenden Listen zeigen den allgemeinen Rahmen; je nach Zielland können zusätzliche Dokumente verlangt werden. Welche Dokumente in Ihrem Fall erforderlich sind, stellen wir im ersten Gespräch individuell zusammen.",
+      "outboundTitle": "Für einen aus der Türkei zu überführenden Verstorbenen",
+      "outbound": [
+        "Sterbeurkunde (ausgestellt vom Krankenhaus oder vom Amtsarzt der Gemeinde; über e-Devlet überprüfbar)",
+        "Mehrsprachige Sterbeurkunde (Formule C), ausgestellt vom Standesamt (Nüfus Müdürlüğü)",
+        "Leichenpass (Transportgenehmigung), ausgestellt von der Gemeinde",
+        "Einbalsamierungsbescheinigung",
+        "Protokoll über den luftdicht verschlossenen Zinksarg",
+        "Überführungsgenehmigung des Konsulats des Ziellandes (je nach Land unterschiedlich)",
+        "Luftfrachtbrief (AWB), ausgestellt von der Frachtabteilung der Fluggesellschaft",
+        "Bei staatsanwaltschaftlichen Fällen: Bestattungsfreigabe der Staatsanwaltschaft"
+      ],
+      "inboundTitle": "Für einen in die Türkei zu überführenden Verstorbenen",
+      "inbound": [
+        "Im Sterbeland ausgestellte Sterbeurkunde mit Übersetzung",
+        "Überführungsdokument des türkischen Konsulats",
+        "Einbalsamierungsbescheinigung und Bescheinigung über den luftdicht verschlossenen Zinksarg",
+        "Luftfrachtbrief",
+        "Genehmigung der Gemeinde für die Beisetzung in der Türkei"
+      ],
+      "consulateTitle": "Der konsularische Ablauf",
+      "consulateText": "Die Türkei ist Vertragsstaat des Straßburger Übereinkommens über die Leichenbeförderung von 1973. Für Vertragsstaaten ist der Leichenpass (laissez-passer) das maßgebliche Dokument; für andere Länder gelten die Regeln des jeweiligen Konsulats. Konsulatstermin, Gebühren und Übersetzungen übernehmen wir.",
+      "restrictionsTitle": "Gut zu wissen",
+      "restrictions": [
+        "Ist der Tod durch bestimmte Infektionskrankheiten wie Cholera, Pest, Pocken, Milzbrand, Lepra oder Rotz eingetreten, ist eine Überführung nach türkischem Recht für ein Jahr nicht zulässig.",
+        "In der Türkei ist keine Feuerbestattung (Kremation) möglich.",
+        "Wird eine Vollmacht benötigt, organisieren wir den Notartermin; Angehörige im Ausland können die Vollmacht auch bei einem türkischen Konsulat erteilen."
+      ]
+    },
+    "process": {
+      "title": "Der Ablauf Schritt für Schritt",
+      "description": "Die sieben Schritte einer Überführung; bei jedem Schritt die von Ihnen benötigten Angaben und Dokumente sowie die geschätzte Dauer.",
+      "intro": "Die folgenden sieben Schritte zeigen den allgemeinen Ablauf einer internationalen Überführung. Für jeden Schritt sehen Sie, welche Angaben und Dokumente benötigt werden und wie lange er in der Regel dauert."
+    },
+    "guide": {
+      "title": "Todesfall in der Türkei: Was ist zu tun?",
+      "description": "Die ersten Schritte, wenn ein Angehöriger in der Türkei verstorben ist: Sterbeurkunde, Ausweis, wen Sie anrufen, worauf Sie achten sollten.",
+      "intro": "Dieser Ratgeber richtet sich an Familien, die in einem Moment der Trauer Entscheidungen treffen müssen. Er ist bewusst kurz und einfach gehalten. Sie können uns in jeder Phase anrufen.",
+      "sections": [
+        {
+          "title": "Wenn der Tod im Krankenhaus eingetreten ist",
+          "items": [
+            "Das Krankenhaus stellt die Sterbeurkunde (Todesbescheinigung) aus; bitten Sie um eine Kopie.",
+            "Die Aufbewahrungszeit in der Leichenhalle des Krankenhauses ist begrenzt; rufen Sie uns für die Überführung an, wir holen den Verstorbenen im Kühlfahrzeug ab.",
+            "Halten Sie Ausweis oder Reisepass des Verstorbenen und, falls vorhanden, die Versicherungsdaten bereit."
+          ]
+        },
+        {
+          "title": "Wenn der Tod zu Hause, im Hotel oder unterwegs eingetreten ist",
+          "items": [
+            "Rufen Sie die 112 an; ein Arzt kommt und stellt den Tod fest. Liegen keine verdächtigen Umstände vor, stellt der Amtsarzt der Gemeinde die Sterbeurkunde aus.",
+            "Bei einem Fall für die Staatsanwaltschaft beginnt deren Verfahren; dann kann eine Obduktion angeordnet werden und die Dauer verlängert sich. Auch in dieser Phase sind wir an Ihrer Seite.",
+            "Für den Transport des Verstorbenen ist ein amtliches Dokument erforderlich; ohne dieses Dokument darf der Verstorbene nicht abgeholt werden."
+          ]
+        },
+        {
+          "title": "Wenn der Verstorbene eine ausländische Staatsangehörigkeit hatte",
+          "items": [
+            "Das Konsulat seines Landes muss informiert werden; auf Wunsch übernehmen wir dieses Gespräch.",
+            "Gibt es eine Reise- oder Krankenversicherung oder ein Assistance-Unternehmen, suchen Sie die Police heraus; die Kosten der Überführung sind häufig abgedeckt.",
+            "Möchten Sie den Verstorbenen in die Heimat überführen, gelten die Schritte auf der Seite 'Aus der Türkei ins Ausland'."
+          ]
+        },
+        {
+          "title": "Wenn Ihr Angehöriger im Ausland verstorben ist",
+          "items": [
+            "Rufen Sie das türkische Konsulat in dem betreffenden Land an oder rufen Sie uns an; die Korrespondenz mit dem Konsulat können wir übernehmen.",
+            "Besteht eine Mitgliedschaft in einer Sterbekasse (Bestattungsfonds) oder eine Versicherung, übernimmt der Vertragsbestatter der Sterbekasse die Überführung bis in die Türkei.",
+            "Zu Übernahme in der Türkei, Überführung in die Stadt und Beisetzung finden Sie Informationen auf der Seite 'Aus dem Ausland in die Türkei'."
+          ]
+        }
+      ],
+      "dontTitle": "Was Sie nicht tun sollten",
+      "dont": [
+        "Transportieren Sie den Verstorbenen nicht ohne amtliches Dokument.",
+        "Trennen Sie Ausweis oder Reisepass nicht vom Verstorbenen; sie werden für die Formalitäten benötigt.",
+        "Arbeiten Sie nicht mit Personen zusammen, die einen Preis nur mündlich nennen und kein schriftliches Angebot vorlegen."
+      ],
+      "cta": "Wenn Sie unsicher sind, was zu tun ist, rufen Sie uns an; wir beantworten Ihre Fragen und machen uns, falls nötig, auf den Weg."
+    },
+    "countries": {
+      "title": "Länder, in denen wir tätig sind",
+      "description": "Überführung Verstorbener Land für Land: Ablauf, Dokumente, Konsulat und Hinweise. Deutschland, Vereinigtes Königreich, Russland, Iran, Irak, Aserbaidschan, Niederlande.",
+      "intro": "Für die folgenden Länder haben wir den Ablauf der Überführung auf eigenen Seiten beschrieben. Für ein nicht aufgeführtes Land rufen Sie uns an; im ersten Gespräch klären wir, was möglich ist und wie der Ablauf aussieht.",
+      "notListed": "Nicht aufgeführt?",
+      "notListedText": "Rufen Sie uns an; im ersten Gespräch klären wir, was möglich ist.",
+      "sectionProcess": "Ablauf für dieses Land",
+      "sectionDocs": "Dokumente",
+      "sectionNotes": "Hinweise"
+    },
+    "coffins": {
+      "title": "Sarg und Vorbereitung",
+      "description": "Luftdicht verschlossene Zinksärge für die internationale Überführung, Einbalsamierung, rituelle Waschung und Totentuch.",
+      "intro": "Für den internationalen Lufttransport muss der Verstorbene einbalsamiert und in einem luftdicht verschlossenen Zinksarg befördert werden. Der Sarg wird nach den Wünschen der Familie und den Vorschriften des Ziellandes ausgewählt; wir erläutern die geeigneten, würdevollen Möglichkeiten, ohne den Preis in den Vordergrund zu stellen.",
+      "items": [
+        {
+          "title": "Luftdicht verschlossener Überführungssarg",
+          "text": "Verlöteter Zinksarg, der den Vorschriften der Fluggesellschaft und des Ziellandes entspricht. Der Sarg wird in einer Luftfrachtkiste befördert."
+        },
+        {
+          "title": "Einbalsamierung (Thanatopraxie)",
+          "text": "Für die internationale Überführung vorgeschrieben; sie wird von qualifiziertem Personal durchgeführt und bescheinigt."
+        },
+        {
+          "title": "Rituelle Waschung und Totentuch",
+          "text": "Waschung, Einhüllen in das Totentuch und Gebet werden entsprechend Glauben und Konfession der Familie ausgerichtet. Auch für nichtmuslimische Familien erfolgt die Vorbereitung nach ihrem Glauben."
+        },
+        {
+          "title": "Kühlkette",
+          "text": "Vom Zeitpunkt der Abholung bis zur Überführung bleibt der Verstorbene im Kühlfahrzeug und unter Leichenhallenbedingungen."
+        }
+      ]
+    },
+    "partners": {
+      "title": "Geschäftspartner",
+      "description": "Partner in Istanbul für Versicherungen, Assistance-Unternehmen, Bestattungsunternehmen im Ausland, Krankenhäuser und Konsulate. Übergabe am Flughafen, Überführung innerhalb der Türkei, Dokumente, Beisetzung.",
+      "intro": "Für Versicherungen und Assistance-Unternehmen, Bestattungsunternehmen und Sterbekassen im Ausland, Krankenhäuser und Konsulate sind wir Ihr Partner vor Ort in Istanbul. Wir arbeiten mit einem festen Ansprechpartner, einem schriftlich festgelegten Ablauf und regelmäßigen Statusmeldungen.",
+      "forTitle": "Mit wem wir arbeiten",
+      "for": [
+        "Versicherungen und Assistance-Unternehmen: Überführung von in der Türkei verstorbenen Versicherten",
+        "Bestattungsunternehmen und Sterbekassen im Ausland: Übernahme in der Türkei, Überführung innerhalb der Türkei und Beisetzung",
+        "Krankenhäuser und Anbieter im Medizintourismus: Betreuung der Angehörigen und zügige Überführung",
+        "Konsulate: Unterstützung vor Ort bei Todesfällen ihrer Staatsangehörigen"
+      ],
+      "offerTitle": "Was wir bieten",
+      "offer": [
+        "Ein Ansprechpartner und Verfolgung je Vorgang",
+        "Schriftliches Angebot mit Aufstellung aller Kostenpositionen",
+        "Schriftliche Kommunikation auf Englisch und Russisch",
+        "Übernahme und Übergabe am Flughafen",
+        "Scannen und Weitergabe von Dokumenten (KVKK-konform)",
+        "Erreichbarkeit rund um die Uhr"
+      ],
+      "cta": "Kontakt für Unternehmen",
+      "formNote": "Bitte geben Sie bei Anfragen von Unternehmen im Formular Firmenname, Land und Art der Anfrage an; wir antworten noch am selben Werktag."
+    },
+    "about": {
+      "title": "Über uns",
+      "description": "Doğu Batı Uluslararası Cenaze Hizmetleri: Unternehmen für die Überführung Verstorbener ins Ausland und aus dem Ausland, mit Sitz in Gaziosmanpaşa, Istanbul.",
+      "intro": "Doğu Batı Uluslararası Cenaze Hizmetleri ist ein Unternehmen für die Überführung Verstorbener mit Sitz in Gaziosmanpaşa, Istanbul. Unsere Hauptaufgabe ist die Überführung von Ausländern in ihre Heimat, die während eines touristischen, beruflichen oder medizinischen Aufenthalts oder als Einwohner in der Türkei verstorben sind, sowie die Rückführung und Beisetzung türkischer Staatsangehöriger, die im Ausland verstorben sind.",
+      "valuesTitle": "Wie wir arbeiten",
+      "values": [
+        {
+          "title": "Respekt",
+          "text": "Der Verstorbene wird in jeder Phase mit Respekt und nach den religiösen Vorschriften befördert."
+        },
+        {
+          "title": "Klarheit",
+          "text": "Wir sagen Ihnen von Anfang an, was geschieht, was wir von Ihnen benötigen und wie lange es voraussichtlich dauert. Sie erhalten ein schriftliches Angebot."
+        },
+        {
+          "title": "Erreichbarkeit",
+          "text": "Unsere Telefon- und WhatsApp-Linie ist Tag und Nacht erreichbar."
+        },
+        {
+          "title": "Zusammenarbeit mit Institutionen",
+          "text": "Wir arbeiten mit Krankenhäusern, Konsulaten, Versicherungen und Vereinen zusammen."
+        }
+      ],
+      "fleetTitle": "Fahrzeug und Team",
+      "fleetText": "Das Fahrzeug, das wir für Überführungen einsetzen, ist gekühlt und isoliert. Unser Team arbeitet auf Türkisch und Englisch; in anderen Sprachen kommunizieren wir schriftlich über WhatsApp.",
+      "documentsTitle": "Zulassungen und Mitgliedschaften",
+      "documentsText": "Unsere Betriebsgenehmigungen und Nachweise stellen wir Geschäftspartnern auf Anfrage zur Verfügung."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Kontakt zu Doğu Batı Uluslararası Cenaze Hizmetleri: Telefon rund um die Uhr, WhatsApp, Kontaktformular und Adresse in Gaziosmanpaşa, Istanbul.",
+      "intro": "In dringenden Fällen sind Telefon oder WhatsApp der schnellste Weg. Wenn Sie das Formular ausfüllen, rufen wir Sie so schnell wie möglich zurück.",
+      "formTitle": "Schreiben Sie uns",
+      "corporateTitle": "Anfragen von Unternehmen",
+      "mapTitle": "Unser Büro"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Häufige Fragen zu Kosten und Dauer der Überführung, benötigten Dokumenten, Versicherung und Sterbekasse, Vollmacht und Konsulat.",
+      "items": [
+        {
+          "q": "Wie lange dauert die Überführung aus der Türkei ins Ausland?",
+          "a": "Bei vollständigen Dokumenten in der Regel 2-4 Tage. Staatsanwaltschaftliches Verfahren, Obduktion, Arbeitstage des Konsulats und Flugverfügbarkeit können die Dauer verlängern. Im ersten Gespräch nennen wir Ihnen eine Einschätzung für Ihre Situation."
+        },
+        {
+          "q": "Wer trägt die Kosten?",
+          "a": "Die Kosten werden in der Regel von der Familie, einer Versicherung oder der Sterbekasse (Bestattungsfonds) getragen, bei der der Verstorbene Mitglied war. Besteht eine Reise-, Kranken- oder Assistance-Versicherung, ist die Überführung häufig abgedeckt. Den Leistungsumfang prüfen wir gemeinsam."
+        },
+        {
+          "q": "Wie wird der Preis ermittelt?",
+          "a": "Zielland, Luftfrachtgebühr, Konsulatsgebühren, Sargart und die Entfernung des Sterbeorts von Istanbul bestimmen den Preis. Erstgespräch und schriftliches Angebot sind kostenlos; im Angebot wird jede Position einzeln ausgewiesen."
+        },
+        {
+          "q": "Welche Dokumente werden benötigt?",
+          "a": "Die Grunddokumente sind Sterbeurkunde, mehrsprachige Sterbeurkunde (Formule C), Leichenpass (Transportgenehmigung), Einbalsamierungsbescheinigung und die Genehmigung des Konsulats des Ziellandes. Je nach Land können zusätzliche Dokumente verlangt werden. Die ausführliche Liste finden Sie auf der Seite Dokumente und Konsulat."
+        },
+        {
+          "q": "Wer erledigt die Formalitäten, wenn meine Familie nicht vor Ort sein kann?",
+          "a": "Mit einer Vollmacht können wir die Formalitäten für Sie erledigen. Angehörige im Ausland können die Vollmacht auch bei einem türkischen Konsulat erteilen. Über Übergabe und Dokumente informieren wir Sie regelmäßig."
+        },
+        {
+          "q": "Wie wird der Verstorbene im Flugzeug befördert?",
+          "a": "Der einbalsamierte Verstorbene wird in einem luftdicht verschlossenen Zinksarg in einer Luftfrachtkiste im Frachtraum des Flugzeugs befördert. Die Buchung erfolgt über einen IATA-zugelassenen Agenten."
+        },
+        {
+          "q": "Kann eine Begleitperson im selben Flugzeug reisen?",
+          "a": "In den meisten Fällen ja; die Begleitperson kann als Passagier auf demselben Flug reisen. Beim Ticketkauf helfen wir. Einige Fluggesellschaften gewähren Begleitpersonen einen Nachlass; die aktuellen Bedingungen klären wir mit der Fluggesellschaft."
+        },
+        {
+          "q": "Ist in der Türkei eine Feuerbestattung möglich?",
+          "a": "Nein. In der Türkei ist keine Feuerbestattung (Kremation) möglich. Für Familien, die eine Feuerbestattung wünschen, wird der Verstorbene in die Heimat überführt."
+        },
+        {
+          "q": "Betreuen Sie auch nichtmuslimische Verstorbene?",
+          "a": "Ja. Die Vorbereitung erfolgt nach dem jeweiligen Glauben, und die Überführung läuft auf dieselbe Weise ab. Für eine religiöse Zeremonie helfen wir auf Wunsch der Familie, den Kontakt zur jeweiligen Gemeinde herzustellen."
+        },
+        {
+          "q": "Erreiche ich Sie auch nachts oder am Wochenende?",
+          "a": "Ja. Unsere Telefon- und WhatsApp-Linie ist 24 Stunden, 7 Tage die Woche erreichbar."
+        }
+      ]
+    },
+    "costGuide": {
+      "title": "Kostenübersicht für die Überführung Verstorbener",
+      "description": "Was den Preis einer Überführung ins Ausland und aus dem Ausland bestimmt, geschätzte Spannen, enthaltene Leistungen und wer die Kosten trägt.",
+      "intro": "Für eine Überführung gibt es keinen Einheitspreis; der Gesamtbetrag hängt vom Zielland, der Luftfrachtgebühr, den Konsulatsgebühren und der Sargart ab. Diese Seite soll Ihnen helfen zu verstehen, wofür Sie bezahlen, bevor Sie ein Angebot einholen. Erstgespräch und schriftliches Angebot sind kostenlos.",
+      "itemsTitle": "Was den Preis bestimmt",
+      "items": [
+        {
+          "title": "Luftfrachtgebühr",
+          "text": "Wird von der Fluggesellschaft nach Zielland, Flugroute und Gesamtgewicht einschließlich Sarg festgelegt. Sie ist die größte und am stärksten schwankende Position der Gesamtkosten und wird im Angebot gesondert ausgewiesen."
+        },
+        {
+          "title": "Einbalsamierung und Vorbereitung",
+          "text": "Die für die internationale Überführung vorgeschriebene Einbalsamierung, Waschung und Totentuch, Einbalsamierungsbescheinigung."
+        },
+        {
+          "title": "Luftdicht verschlossener Zinksarg",
+          "text": "Verlöteter Zinksarg für die internationale Überführung samt Luftfrachtkiste. Die Sargart hängt von den Wünschen der Familie und den Vorschriften des Ziellandes ab."
+        },
+        {
+          "title": "Amtliche Dokumente und Konsulat",
+          "text": "Mehrsprachige Sterbeurkunde (Formule C), Leichenpass (Transportgenehmigung), Übersetzung, Notar- und Konsulatsgebühren. Die Gebühren sind je nach Land unterschiedlich."
+        },
+        {
+          "title": "Überführung innerhalb der Türkei",
+          "text": "Überführung im Kühlfahrzeug vom Sterbeort nach Istanbul oder vom Flughafen in die Stadt der Beisetzung; wird nach Entfernung berechnet."
+        },
+        {
+          "title": "Leistungen im Zielland",
+          "text": "Übernahme am Flughafen, Bestattungsunternehmen vor Ort, Friedhofs- und Beisetzungsgebühren; diese werden vom Unternehmen im Zielland berechnet und sind nicht Teil unseres Angebots."
+        }
+      ],
+      "rangesTitle": "Geschätzte Spannen",
+      "rangesNote": "Die folgenden Spannen dienen nur der Orientierung; für jeden Vorgang wird ein schriftliches Angebot erstellt. Luftfrachtgebühren und Behördengebühren können sich ändern.",
+      "ranges": [
+        {
+          "route": "Aus der Türkei nach Europa (Deutschland, Niederlande, Belgien, Frankreich, Österreich, Vereinigtes Königreich)",
+          "range": "In der Regel 2.500 - 5.000 EUR"
+        },
+        {
+          "route": "Aus der Türkei nach Russland, in den Kaukasus und nach Zentralasien",
+          "range": "In der Regel 2.000 - 4.500 EUR"
+        },
+        {
+          "route": "Aus der Türkei in den Nahen Osten und nach Nordafrika",
+          "range": "In der Regel 1.800 - 4.000 EUR"
+        },
+        {
+          "route": "Aus dem Ausland in die Türkei (Übernahme am Flughafen, Überführung innerhalb der Türkei, Koordination der Beisetzung)",
+          "range": "In der Regel 500 - 1.500 EUR"
+        },
+        {
+          "route": "Überführung zwischen Städten innerhalb der Türkei",
+          "range": "Nach Entfernung; schriftliches Angebot"
+        }
+      ],
+      "whoPaysTitle": "Wer trägt die Kosten?",
+      "whoPays": [
+        "Besteht eine Reise-, Kranken- oder Assistance-Versicherung, sind die Überführungskosten häufig abgedeckt; wir korrespondieren direkt mit der Versicherung.",
+        "Familien in Europa sind häufig Mitglied einer Sterbekasse (Bestattungsfonds); die Sterbekasse übernimmt über ihren Vertragsbestatter die Überführung bis in die Türkei.",
+        "Besteht weder Versicherung noch Sterbekasse, trägt die Familie die Kosten. Die Zahlung erfolgt nach Bestätigung des schriftlichen Angebots und wird belegt.",
+        "Für im Ausland verstorbene türkische Staatsangehörige gibt es keine allgemeine Regelung einer kostenlosen staatlichen Überführung; die Konsulate beraten, übernehmen die Kosten aber nicht."
+      ],
+      "includedTitle": "In unserem Angebot enthalten",
+      "included": [
+        "Abholung des Verstorbenen und Kühlkette",
+        "Waschung, Totentuch, Einbalsamierung und Einbalsamierungsbescheinigung",
+        "Luftdicht verschlossener Zinksarg und Luftfrachtkiste",
+        "Sterbeurkunde, Formule C und Leichenpass (Transportgenehmigung)",
+        "Konsularische Formalitäten und Übersetzung",
+        "Flugbuchung, Luftfrachtbrief und Zoll",
+        "Anlieferung zum Flughafen und Übermittlung der Übergabedaten"
+      ],
+      "cta": "Rufen Sie uns für ein kostenloses schriftliches Angebot an oder füllen Sie das Formular aus; noch am selben Tag senden wir Ihnen eine Aufstellung aller Positionen."
+    },
+    "nonMuslim": {
+      "title": "Bestattungsleistungen für Nichtmuslime",
+      "description": "Für in der Türkei verstorbene Christen, Juden und Angehörige anderer Glaubensrichtungen: Vorbereitung nach dem Glauben, Koordination der Zeremonie und Überführung in die Heimat.",
+      "intro": "Wir betreuen in der Türkei verstorbene Menschen jeden Glaubens. Vorbereitung und Überführung richten sich nach dem Glauben und den Wünschen der Familie; für eine religiöse Zeremonie helfen wir, den Kontakt zur jeweiligen Gemeinde, Kirche oder Synagoge herzustellen.",
+      "sections": [
+        {
+          "title": "Für christliche Familien",
+          "items": [
+            "Vorbereitung und Einkleidung des Verstorbenen erfolgen nach den Wünschen der Familie; die Einbalsamierung ist für die internationale Überführung vorgeschrieben.",
+            "Wir helfen, den Kontakt zu Kirchen und Gemeinden in Istanbul für Trauerfeier und Gebet herzustellen.",
+            "Für die Überführung in die Heimat wird der Sarg nach den Wünschen der Familie und den Vorschriften des Ziellandes ausgewählt."
+          ]
+        },
+        {
+          "title": "Für jüdische Familien",
+          "items": [
+            "Die Vorbereitung erfolgt in Abstimmung mit der von der Familie benannten Gemeinde (Chewra Kadischa).",
+            "Für eine zügige Überführung werden die Dokumentenverfahren vorrangig bearbeitet.",
+            "Wir helfen, den Kontakt zur Gemeinde in Istanbul herzustellen."
+          ]
+        },
+        {
+          "title": "Andere Glaubensrichtungen und konfessionslose Familien",
+          "items": [
+            "Die Wünsche der Familie sind maßgeblich; eine religiöse Zeremonie ist nicht erforderlich.",
+            "Eine Feuerbestattung ist in der Türkei nicht möglich; für Familien, die eine Feuerbestattung wünschen, wird der Verstorbene in die Heimat überführt und die Abstimmung mit dem Unternehmen vor Ort übernommen."
+          ]
+        }
+      ],
+      "notesTitle": "Gut zu wissen",
+      "notes": [
+        "In der Türkei ist keine Feuerbestattung (Kremation) möglich.",
+        "Ist eine Beisetzung in der Türkei gewünscht, gibt es in Istanbul nichtmuslimische Friedhöfe; die Grabstätte wird mit der jeweiligen Gemeinde und der Stadtverwaltung abgestimmt.",
+        "Die Konsulate führen meist Listen von Bestattungsunternehmen für ihre Staatsangehörigen; der Ablauf wird in Abstimmung mit dem Konsulat durchgeführt."
+      ]
+    },
+    "downloads": {
+      "title": "Dokumente zum Herunterladen",
+      "description": "Checkliste der Dokumente für die Überführung und Muster einer Vollmacht; als PDF auf Türkisch und Englisch.",
+      "intro": "Die folgenden Dokumente dienen der Information und sind kostenlos. Das Vollmachtsmuster muss vor einem Notar oder Konsulat errichtet werden; rufen Sie uns vor der Verwendung an.",
+      "items": [
+        {
+          "title": "Checkliste der Dokumente",
+          "text": "Einseitige Liste der Dokumente, die für die Überführung aus der Türkei ins Ausland und aus dem Ausland in die Türkei benötigt werden.",
+          "files": [
+            {
+              "label": "PDF auf Türkisch",
+              "href": "/downloads/evrak-kontrol-listesi-tr.pdf"
+            },
+            {
+              "label": "PDF auf Englisch",
+              "href": "/downloads/evrak-kontrol-listesi-en.pdf"
+            }
+          ]
+        },
+        {
+          "title": "Vollmachtsmuster",
+          "text": "Entwurf einer Vollmacht für die Überführungsformalitäten, wenn die Familie nicht vor Ort sein kann. Wird bei einem Notar oder Konsulat errichtet.",
+          "files": [
+            {
+              "label": "PDF auf Türkisch",
+              "href": "/downloads/vekaletname-ornegi-tr.pdf"
+            },
+            {
+              "label": "PDF auf Englisch",
+              "href": "/downloads/vekaletname-ornegi-en.pdf"
+            }
+          ]
+        }
+      ],
+      "note": "Die Dokumente sind auf dem Stand von September 2026. Maßgeblich ist die aktuelle Praxis der zuständigen Behörden."
+    },
+    "guides": {
+      "title": "Ratgeber und Beiträge",
+      "description": "Ratgeber zu Überführung, Dokumenten, Konsulat und den nötigen Schritten nach Städten.",
+      "intro": "Kurze Ratgeber zu Situationen, die uns häufig begegnen. Finden Sie Ihre Frage hier nicht, rufen Sie uns an.",
+      "empty": "In dieser Sprache wurden noch keine Beiträge veröffentlicht.",
+      "relatedTitle": "Verwandte Seiten"
+    },
+    "tracking": {
+      "title": "Vorgangsverfolgung",
+      "description": "Fragen Sie mit Ihrem Verfolgungscode den aktuellen Stand Ihres Überführungsvorgangs ab.",
+      "intro": "Geben Sie den Ihnen mitgeteilten Verfolgungscode ein und sehen Sie, in welcher Phase sich Ihr Vorgang befindet. Haben Sie keinen Code oder ist der Stand nicht aktuell, rufen Sie uns an.",
+      "codeLabel": "Verfolgungscode",
+      "codePlaceholder": "z. B. DB-2026-0142",
+      "submit": "Abfragen",
+      "notFound": "Unter diesem Code wurde kein Vorgang gefunden. Prüfen Sie den Code oder rufen Sie uns an.",
+      "routeLabel": "Strecke",
+      "statusLabel": "Status",
+      "updatedLabel": "Letzte Aktualisierung",
+      "historyLabel": "Verlauf",
+      "statuses": {
+        "received": "Vorgang angelegt",
+        "documents": "Dokumente werden vorbereitet",
+        "preparation": "Verstorbener wird vorbereitet",
+        "consulate": "Konsulat und Überführungsdokumente",
+        "flight": "Flug geplant / unterwegs",
+        "delivered": "Übergeben"
+      },
+      "privacyNote": "Auf dieser Seite werden keine personenbezogenen Daten angezeigt; es sind nur Vorgangscode, Strecke und Phase zu sehen."
+    }
+  },
+  "countries": {
+    "germany": {
+      "slug": "deutschland",
+      "name": "Deutschland",
+      "title": "Deutschland - Türkei: Überführung Verstorbener",
+      "description": "Überführung Verstorbener von Deutschland in die Türkei und von der Türkei nach Deutschland: Sterbekasse, Konsulat, Übernahme am Flughafen, Koordination der Beisetzung.",
+      "intro": "Deutschland - Türkei ist eine der meistgenutzten Strecken für die Überführung Verstorbener. Türkische Familien in Deutschland sind meist Mitglied einer Sterbekasse oder eines Bestattungsfonds, etwa bei einem religiösen Verband; in diesem Fall führt der Vertragsbestatter der Sterbekasse die Überführung von Deutschland bis in die Türkei durch. Wir übernehmen am Flughafen Istanbul, überführen den Verstorbenen in die Stadt der Beisetzung und erledigen die Formalitäten bei der Gemeinde. Auch die Überführung von in der Türkei verstorbenen Personen mit Wohnsitz in Deutschland nach Deutschland gehört zu unseren Leistungen.",
+      "process": [
+        "Von Deutschland in die Türkei: Wir stimmen Flug- und Dokumentendaten mit dem Bestatter oder der Sterbekasse in Deutschland ab; wir übernehmen den Verstorbenen am Flughafen Istanbul, überführen ihn in die Stadt der Beisetzung und koordinieren die Beisetzung.",
+        "Von der Türkei nach Deutschland: Sterbeurkunde, mehrsprachige Sterbeurkunde (Formule C), Einbalsamierungsbescheinigung und Leichenpass (Transportgenehmigung) werden ausgestellt; mit dem Bestattungsunternehmen in Deutschland wird ein Übergabeplan vereinbart und der Verstorbene per Luftfracht überführt."
+      ],
+      "documents": [
+        "Für einen aus Deutschland ankommenden Verstorbenen: die deutsche Sterbeurkunde und das Überführungsdokument des türkischen Konsulats",
+        "Für einen aus der Türkei überführten Verstorbenen: Formule C, Einbalsamierungsbescheinigung, Leichenpass (Transportgenehmigung) und Übernahmebestätigung des Bestattungsunternehmens in Deutschland"
+      ],
+      "notes": [
+        "Besteht in Deutschland eine Mitgliedschaft in einer Sterbekasse oder einem Bestattungsfonds, rufen Sie zuerst dort an; der Vertragsbestatter leitet die Überführung ein. Die nicht abgedeckten Leistungen, also die Überführung innerhalb der Türkei und die Beisetzung, übernehmen wir.",
+        "Wir arbeiten mit türkischen Bestattungsunternehmen in Deutschland zusammen; für die Übergabe am Flughafen und die Beisetzung sind wir Ihr einziger Ansprechpartner."
+      ]
+    },
+    "united-kingdom": {
+      "slug": "vereinigtes-koenigreich",
+      "name": "Vereinigtes Königreich",
+      "title": "Vereinigtes Königreich - Türkei: Überführung Verstorbener",
+      "description": "Überführung in der Türkei verstorbener britischer Staatsangehöriger in ihre Heimat und Überführung aus dem Vereinigten Königreich in die Türkei: Versicherung, Konsulat, Dokumente.",
+      "intro": "Wir überführen britische Staatsangehörige, die im Urlaub oder während einer Behandlung in der Türkei verstorben sind, in ihre Heimat und bringen im Vereinigten Königreich verstorbene Angehörige in die Türkei. Die Reiseversicherung deckt die Überführungskosten häufig ab; wir korrespondieren direkt mit Versicherung und Assistance-Unternehmen.",
+      "process": [
+        "Von der Türkei ins Vereinigte Königreich: Sterbeurkunde und mehrsprachige Sterbeurkunde (Formule C) werden ausgestellt, die Einbalsamierung durchgeführt, ein luftdicht verschlossener Zinksarg vorbereitet, die erforderliche Korrespondenz mit dem britischen Konsulat abgeschlossen und der Verstorbene per Luftfracht überführt.",
+        "Vom Vereinigten Königreich in die Türkei: Mit dem dortigen Bestattungsunternehmen werden Dokumente und Flugplan abgestimmt; wir übernehmen den Verstorbenen in Istanbul und koordinieren Überführung und Beisetzung."
+      ],
+      "documents": [
+        "In der Türkei ausgestellte Sterbeurkunde mit englischer Übersetzung",
+        "Formule C, Einbalsamierungsbescheinigung, Protokoll über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Genehmigung der Versicherung oder des Assistance-Unternehmens (falls zutreffend)"
+      ],
+      "notes": [
+        "Für die Übernahme im Vereinigten Königreich muss ein dortiges Bestattungsunternehmen beauftragt werden; auf Wunsch wählen wir es gemeinsam mit Ihrer Versicherung aus.",
+        "Die britische Botschaft veröffentlicht einen Leitfaden für Todesfälle in der Türkei; der Ablauf richtet sich nach diesem Leitfaden."
+      ]
+    },
+    "russia": {
+      "slug": "russland",
+      "name": "Russland",
+      "title": "Russland - Türkei: Überführung Verstorbener",
+      "description": "Überführung in der Türkei verstorbener russischer Staatsangehöriger nach Russland: 'Gruz 200', Konsulat, Dokumente, Fluggesellschaft.",
+      "intro": "Russland ist der größte Herkunftsmarkt für Besucher der Türkei, und in der Türkei lebt eine große russischsprachige Gemeinschaft. Für die Überführung in der Türkei verstorbener russischer Staatsangehöriger nach Russland (auf Russisch als 'Gruz 200' bekannt) übernehmen wir Konsulat, Einbalsamierung, Sarg und Flugabwicklung. Schriftlich kommunizieren wir auch auf Russisch.",
+      "process": [
+        "Sterbeurkunde und mehrsprachige Sterbeurkunde (Formule C) werden ausgestellt; die Überführungsdokumente des russischen Generalkonsulats werden eingeholt.",
+        "Die Einbalsamierung wird durchgeführt, ein luftdicht verschlossener Zinksarg vorbereitet und die Luftfracht gebucht.",
+        "Die Angaben werden mit dem Bestattungsunternehmen oder dem Angehörigen geteilt, der den Verstorbenen am Zielflughafen in Russland übernimmt."
+      ],
+      "documents": [
+        "Reisepass des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument"
+      ],
+      "notes": [
+        "Für die Übernahme in Russland kann ein Bestattungsunternehmen in der Zielstadt erforderlich sein; wir stellen den Kontakt zu Unternehmen her, mit denen wir zusammenarbeiten.",
+        "Die Flugmöglichkeiten sind je nach Stadt unterschiedlich; bei Umsteigeverbindungen werden Kühlkette und Dokumentenfluss durchgehend begleitet."
+      ]
+    },
+    "iran": {
+      "slug": "iran",
+      "name": "Iran",
+      "title": "Iran - Türkei: Überführung Verstorbener",
+      "description": "Überführung in der Türkei verstorbener iranischer Staatsangehöriger in den Iran und Überführung aus dem Iran in die Türkei: Konsulat, Dokumente, Land- und Luftweg.",
+      "intro": "Der Iran gehört zu den Ländern mit den meisten Besuchern in der Türkei; auch die iranische Gemeinschaft in Istanbul ist groß. Für die Überführung in der Türkei verstorbener iranischer Staatsangehöriger nach Teheran und in andere Städte übernehmen wir Konsulat, Einbalsamierung, Sarg und Flugabwicklung. Eine Überführung auf dem Landweg wird im Einzelfall geprüft.",
+      "process": [
+        "Sterbeurkunde und mehrsprachige Sterbeurkunde (Formule C) werden ausgestellt; die Überführungsdokumente des iranischen Generalkonsulats werden eingeholt.",
+        "Rituelle Waschung und Totentuch erfolgen nach der Konfession der Familie; die Einbalsamierung wird durchgeführt und ein luftdicht verschlossener Zinksarg vorbereitet.",
+        "Der Verstorbene wird per Luftfracht nach Teheran oder in die betreffende Stadt überführt; der übernehmende Angehörige oder das Bestattungsunternehmen wird informiert."
+      ],
+      "documents": [
+        "Reisepass des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument"
+      ],
+      "notes": [
+        "Unsere persische Seite ist in Vorbereitung; bis dahin kommunizieren wir auf Englisch oder Türkisch.",
+        "Ist eine Überführung auf dem Landweg möglich, vergleichen wir beide Optionen nach Dauer und Kosten."
+      ]
+    },
+    "iraq": {
+      "slug": "irak",
+      "name": "Irak",
+      "title": "Irak - Türkei: Überführung Verstorbener",
+      "description": "Überführung irakischer Staatsangehöriger, die während einer Behandlung oder eines Besuchs in der Türkei verstorben sind, nach Bagdad, Erbil und in andere Städte: Konsulat, Dokumente, Fluggesellschaft.",
+      "intro": "Aus dem Irak reisen viele Menschen zur medizinischen Behandlung und zu Besuchen in die Türkei. Für die Überführung in der Türkei verstorbener irakischer Staatsangehöriger nach Bagdad, Erbil, Basra und in andere Städte übernehmen wir Krankenhaus, Konsulat und Flugabwicklung aus einer Hand. Über unsere arabische Seite ist eine schriftliche Kommunikation möglich.",
+      "process": [
+        "Die Sterbeurkunde wird vom Krankenhaus eingeholt und die mehrsprachige Sterbeurkunde (Formule C) ausgestellt; die Überführungsdokumente des irakischen Konsulats werden begleitet.",
+        "Rituelle Waschung, Totentuch und Einbalsamierung werden durchgeführt; ein luftdicht verschlossener Zinksarg wird vorbereitet.",
+        "Die Luftfracht wird gebucht; die Angaben werden mit dem Angehörigen oder Bestattungsunternehmen geteilt, das den Verstorbenen am Zielflughafen übernimmt."
+      ],
+      "documents": [
+        "Reisepass des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument"
+      ],
+      "notes": [
+        "Bei Patienten, die zur medizinischen Behandlung gekommen sind, arbeiten wir direkt mit dem Krankenhaus und der vermittelnden Agentur zusammen.",
+        "Die Frachtverfügbarkeit auf Flügen nach Erbil und Bagdad kann schwanken; die passende Option legen wir gemeinsam fest."
+      ]
+    },
+    "azerbaijan": {
+      "slug": "aserbaidschan",
+      "name": "Aserbaidschan",
+      "title": "Aserbaidschan - Türkei: Überführung Verstorbener",
+      "description": "Überführung in der Türkei verstorbener aserbaidschanischer Staatsangehöriger nach Baku und Überführung aus Aserbaidschan in die Türkei: Dokumente, Konsulat, Fluggesellschaft.",
+      "intro": "Zwischen Aserbaidschan und der Türkei gibt es einen regen Austausch durch Besuche, Behandlungen und Wohnsitze. Wir überführen in der Türkei verstorbene aserbaidschanische Staatsangehörige nach Baku und in andere Städte und bringen in Aserbaidschan verstorbene Angehörige in die Türkei. Die Kommunikation ist auf Türkisch möglich.",
+      "process": [
+        "Sterbeurkunde und mehrsprachige Sterbeurkunde (Formule C) werden ausgestellt; die Überführungsdokumente des aserbaidschanischen Konsulats werden eingeholt.",
+        "Rituelle Waschung, Totentuch und Einbalsamierung werden durchgeführt; ein luftdicht verschlossener Zinksarg wird vorbereitet.",
+        "Der Verstorbene wird per Luftfracht nach Baku überführt; der übernehmende Angehörige oder das Bestattungsunternehmen wird informiert."
+      ],
+      "documents": [
+        "Reisepass oder Ausweis des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument"
+      ],
+      "notes": [
+        "Zwischen Istanbul und Baku gibt es tägliche Flüge; bei vollständigen Dokumenten ist der Ablauf in der Regel kurz.",
+        "Wird ein in Aserbaidschan verstorbener Angehöriger in die Türkei überführt, wird mit dem dortigen Bestattungsunternehmen ein Übergabeplan vereinbart."
+      ]
+    },
+    "netherlands": {
+      "slug": "niederlande",
+      "name": "Niederlande",
+      "title": "Niederlande - Türkei: Überführung Verstorbener",
+      "description": "Überführung Verstorbener von den Niederlanden in die Türkei: Sterbekasse und Versicherung, Übernahme am Flughafen, Überführung innerhalb der Türkei und Beisetzung; Überführung von der Türkei in die Niederlande.",
+      "intro": "Für türkische Familien in den Niederlanden überführen wir den Verstorbenen zur Beisetzung in die Türkei und bringen in der Türkei verstorbene Personen mit Wohnsitz in den Niederlanden zurück in die Niederlande. Die Sterbekasse oder Versicherung in den Niederlanden übernimmt die Überführung meist bis in die Türkei; wir übernehmen den Ablauf ab dem Flughafen.",
+      "process": [
+        "Von den Niederlanden in die Türkei: Flug- und Dokumentendaten werden mit dem Bestattungsunternehmen oder der Sterbekasse in den Niederlanden abgestimmt; wir übernehmen den Verstorbenen in Istanbul, überführen ihn in die Stadt der Beisetzung und koordinieren die Beisetzung.",
+        "Von der Türkei in die Niederlande: Sterbeurkunde, mehrsprachige Sterbeurkunde (Formule C), Einbalsamierungsbescheinigung und Leichenpass (Transportgenehmigung) werden ausgestellt; mit dem Bestattungsunternehmen in den Niederlanden wird ein Übergabeplan vereinbart."
+      ],
+      "documents": [
+        "In den Niederlanden ausgestellte Sterbeurkunde und Überführungsdokument des türkischen Konsulats (für einen aus den Niederlanden ankommenden Verstorbenen)",
+        "Formule C, Einbalsamierungsbescheinigung, Leichenpass (Transportgenehmigung) (für einen aus der Türkei überführten Verstorbenen)"
+      ],
+      "notes": [
+        "Besteht eine Mitgliedschaft in einer Sterbekasse, rufen Sie zuerst dort an; die nicht abgedeckten Leistungen, also Überführung innerhalb der Türkei und Beisetzung, übernehmen wir.",
+        "Eine niederländische Seite haben wir nicht; wir kommunizieren auf Englisch oder Türkisch."
+      ]
+    },
+    "saudi-arabia": {
+      "slug": "saudi-arabien",
+      "name": "Saudi-Arabien",
+      "title": "Saudi-Arabien - Türkei: Überführung Verstorbener",
+      "description": "Überführung in Saudi-Arabien verstorbener Angehöriger in die Türkei und Überführung von der Türkei nach Dschidda und Riad: Konsulat, Dokumente, Fluggesellschaft.",
+      "intro": "Zwischen Saudi-Arabien und der Türkei gibt es einen regen Austausch durch Hadsch, Umra, Arbeit und Besuche. Wer während Hadsch oder Umra verstirbt, wird in der Regel dort beigesetzt; wünscht die Familie eine Überführung in die Türkei, wird der Ablauf mit den saudischen Behörden und dem türkischen Konsulat abgestimmt. Zu unseren Leistungen gehören die Rückführung türkischer Staatsangehöriger, die in Saudi-Arabien arbeiten oder leben, sowie die Überführung in der Türkei verstorbener saudischer Staatsangehöriger nach Dschidda, Riad und in andere Städte.",
+      "process": [
+        "Von Saudi-Arabien in die Türkei: Mit dem dortigen Bestattungsunternehmen, dem Arbeitgeber oder dem Angehörigen werden Dokumente und Flugplan abgestimmt; das Überführungsdokument des türkischen Konsulats wird eingeholt. Wir übernehmen den Verstorbenen in Istanbul, überführen ihn in die Stadt der Beisetzung und koordinieren die Beisetzung.",
+        "Von der Türkei nach Saudi-Arabien: Sterbeurkunde und mehrsprachige Sterbeurkunde (Formule C) werden ausgestellt; die Überführungsdokumente des saudi-arabischen Konsulats werden eingeholt. Rituelle Waschung, Totentuch und Einbalsamierung werden durchgeführt, ein luftdicht verschlossener Zinksarg vorbereitet und der Verstorbene per Luftfracht nach Dschidda oder Riad überführt."
+      ],
+      "documents": [
+        "Reisepass des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument"
+      ],
+      "notes": [
+        "Wird für eine während Hadsch oder Umra verstorbene Person eine Überführung in die Türkei gewünscht, nehmen wir Kontakt mit der Reiseleitung der Gruppe und dem türkischen Konsulat auf; die Umsetzung hängt von der Entscheidung der örtlichen Behörden ab.",
+        "Von Istanbul gibt es Direktflüge nach Dschidda und Riad; für andere Städte sind die Flugmöglichkeiten je nach Stadt unterschiedlich."
+      ]
+    },
+    "kazakhstan": {
+      "slug": "kasachstan",
+      "name": "Kasachstan",
+      "title": "Kasachstan - Türkei: Überführung Verstorbener",
+      "description": "Überführung nach Kasachstan: Überführung in der Türkei verstorbener kasachischer Staatsangehöriger nach Almaty und Astana; Konsulat, Dokumente, Fluggesellschaft.",
+      "intro": "Zwischen Kasachstan und der Türkei gibt es einen regen Austausch durch Handel, Studium, Behandlung und Wohnsitz; in Istanbul lebt eine kasachische Gemeinschaft. Wir überführen in der Türkei verstorbene kasachische Staatsangehörige nach Almaty, Astana und in andere Städte und bringen in Kasachstan verstorbene Angehörige in die Türkei. Die Kommunikation ist auf Türkisch und Russisch möglich.",
+      "process": [
+        "Sterbeurkunde und mehrsprachige Sterbeurkunde (Formule C) werden ausgestellt; die Überführungsdokumente des kasachischen Konsulats werden eingeholt.",
+        "Rituelle Waschung, Totentuch und Einbalsamierung werden durchgeführt; ein luftdicht verschlossener Zinksarg wird vorbereitet.",
+        "Der Verstorbene wird per Luftfracht nach Almaty oder Astana überführt; der übernehmende Angehörige oder das Bestattungsunternehmen am Zielflughafen wird informiert."
+      ],
+      "documents": [
+        "Reisepass des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument"
+      ],
+      "notes": [
+        "Von Istanbul gibt es Direktflüge nach Almaty und Astana; für andere Städte werden Umsteigeverbindungen geprüft.",
+        "Für die Übernahme in Kasachstan kann ein Bestattungsunternehmen in der Zielstadt erforderlich sein; wir stellen den Kontakt zu Unternehmen her, mit denen wir zusammenarbeiten."
+      ]
+    },
+    "uzbekistan": {
+      "slug": "usbekistan",
+      "name": "Usbekistan",
+      "title": "Usbekistan - Türkei: Überführung Verstorbener",
+      "description": "Überführung nach Usbekistan: Überführung in der Türkei verstorbener usbekischer Staatsangehöriger nach Taschkent und in andere Städte; Konsulat, Dokumente, Fluggesellschaft.",
+      "intro": "Aus Usbekistan kommen viele Menschen zum Arbeiten, zum Studium, für Handel und zur Behandlung in die Türkei; die usbekische Gemeinschaft in Istanbul ist groß. Für die Überführung in der Türkei verstorbener usbekischer Staatsangehöriger nach Taschkent und in andere Städte übernehmen wir Konsulat, Einbalsamierung, Sarg und Flugabwicklung. Die Kommunikation ist auf Türkisch und Russisch möglich.",
+      "process": [
+        "Sterbeurkunde und mehrsprachige Sterbeurkunde (Formule C) werden ausgestellt; die Überführungsdokumente des usbekischen Konsulats werden eingeholt.",
+        "Rituelle Waschung, Totentuch und Einbalsamierung werden durchgeführt; ein luftdicht verschlossener Zinksarg wird vorbereitet.",
+        "Der Verstorbene wird per Luftfracht nach Taschkent oder in die betreffende Stadt überführt; der übernehmende Angehörige oder das Bestattungsunternehmen wird informiert."
+      ],
+      "documents": [
+        "Reisepass des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument"
+      ],
+      "notes": [
+        "Von Istanbul gibt es Direktflüge nach Taschkent; für andere Städte sind die Flugmöglichkeiten je nach Stadt unterschiedlich.",
+        "Bei in der Türkei beschäftigten usbekischen Staatsangehörigen werden Dokumente und Kosten gemeinsam mit dem Arbeitgeber oder den Angehörigen geplant."
+      ]
+    },
+    "turkmenistan": {
+      "slug": "turkmenistan",
+      "name": "Turkmenistan",
+      "title": "Turkmenistan - Türkei: Überführung Verstorbener",
+      "description": "Überführung nach Turkmenistan: Überführung in der Türkei verstorbener turkmenischer Staatsangehöriger nach Aschgabat; Konsulat, Dokumente, Fluggesellschaft, Kommunikation auf Russisch.",
+      "intro": "Aus Turkmenistan kommen Menschen zum Studium, zur Behandlung und zum Arbeiten in die Türkei; zudem lebt eine turkmenische Gemeinschaft in der Türkei. Für die Überführung in der Türkei verstorbener turkmenischer Staatsangehöriger nach Aschgabat und in andere Städte übernehmen wir Konsulat, Einbalsamierung, Sarg und Flugabwicklung. Die Kommunikation ist auf Türkisch und Russisch möglich.",
+      "process": [
+        "Sterbeurkunde und mehrsprachige Sterbeurkunde (Formule C) werden ausgestellt; die Überführungsdokumente des turkmenischen Konsulats werden eingeholt.",
+        "Rituelle Waschung, Totentuch und Einbalsamierung werden durchgeführt; ein luftdicht verschlossener Zinksarg wird vorbereitet.",
+        "Der Verstorbene wird per Luftfracht nach Aschgabat überführt; der übernehmende Angehörige oder das Bestattungsunternehmen am Zielflughafen wird informiert."
+      ],
+      "documents": [
+        "Reisepass des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument"
+      ],
+      "notes": [
+        "Flug- und Frachtverfügbarkeit zwischen Istanbul und Aschgabat können begrenzt sein; Buchung und Dokumentenfristen werden gemeinsam geplant.",
+        "Die Dokumentenanforderungen des turkmenischen Konsulats können sich je nach aktueller Praxis ändern; vor Beginn bestätigen wir die Liste."
+      ]
+    },
+    "syria": {
+      "slug": "syrien",
+      "name": "Syrien",
+      "title": "Syrien - Türkei: Überführung Verstorbener",
+      "description": "Überführung nach Syrien: Überführung in der Türkei verstorbener Syrer nach Syrien, Landweg und Grenzformalitäten, Dokumente, Kommunikation auf Arabisch.",
+      "intro": "In Istanbul und in der gesamten Türkei lebt eine große syrische Gemeinschaft. Für die Überführung in der Türkei verstorbener syrischer Staatsangehöriger nach Syrien übernehmen wir Sterbeurkunde, Einbalsamierung, Sarg und Leichenpass. Die Überführung erfolgt meist auf dem Landweg; welcher Grenzübergang genutzt wird und wie die Grenzformalitäten ablaufen, hängt von der aktuellen Lage ab. Schriftlich kommunizieren wir auch auf Arabisch.",
+      "process": [
+        "Sterbeurkunde und mehrsprachige Sterbeurkunde (Formule C) werden ausgestellt; die Formalitäten erfolgen mit Reisepass, Ausweis oder Dokument über den vorübergehenden Schutz des Verstorbenen.",
+        "Rituelle Waschung, Totentuch und Einbalsamierung werden durchgeführt; ein luftdicht verschlossener Zinksarg wird vorbereitet und der Leichenpass (Transportgenehmigung) eingeholt.",
+        "Die Überführung auf dem Landweg zum Grenzübergang wird geplant; die Angaben werden mit dem Angehörigen oder Bestattungsunternehmen auf der anderen Seite geteilt. Der Luftweg wird je nach Situation geprüft."
+      ],
+      "documents": [
+        "Reisepass, Ausweis oder Dokument über den vorübergehenden Schutz des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument (falls erforderlich)"
+      ],
+      "notes": [
+        "Grenzformalitäten und Übergangsbedingungen ändern sich mit der aktuellen Lage; vor Beginn holen wir aktuelle Informationen ein.",
+        "Für die Überführung innerhalb Syriens in die Zielstadt wird mit einem Bestattungsunternehmen oder Angehörigen auf der anderen Seite ein Übergabeplan vereinbart."
+      ]
+    },
+    "libya": {
+      "slug": "libyen",
+      "name": "Libyen",
+      "title": "Libyen - Türkei: Überführung Verstorbener",
+      "description": "Überführung nach Libyen: Überführung libyscher Staatsangehöriger, die während einer Behandlung in der Türkei verstorben sind, nach Tripolis, Bengasi und Misrata; Konsulat, Dokumente.",
+      "intro": "Aus Libyen reisen viele Menschen zur medizinischen Behandlung, zum Studium und für Handel in die Türkei. Für die Überführung libyscher Staatsangehöriger, die während einer Behandlung in der Türkei verstorben sind, nach Tripolis, Bengasi, Misrata und in andere Städte übernehmen wir Krankenhaus, Konsulat und Flugabwicklung aus einer Hand. Schriftlich kommunizieren wir auch auf Arabisch.",
+      "process": [
+        "Die Sterbeurkunde wird vom Krankenhaus eingeholt und die mehrsprachige Sterbeurkunde (Formule C) ausgestellt; die Überführungsdokumente des libyschen Konsulats werden begleitet.",
+        "Rituelle Waschung, Totentuch und Einbalsamierung werden durchgeführt; ein luftdicht verschlossener Zinksarg wird vorbereitet.",
+        "Die Luftfracht wird gebucht; die Angaben werden mit dem Angehörigen oder Bestattungsunternehmen geteilt, das den Verstorbenen am Zielflughafen übernimmt."
+      ],
+      "documents": [
+        "Reisepass des Verstorbenen",
+        "Sterbeurkunde und Formule C",
+        "Einbalsamierungsbescheinigung, Bescheinigung über den luftdicht verschlossenen Zinksarg, Leichenpass (Transportgenehmigung)",
+        "Konsularisches Überführungsdokument"
+      ],
+      "notes": [
+        "Bei Patienten, die zur medizinischen Behandlung gekommen sind, arbeiten wir direkt mit dem Krankenhaus und der vermittelnden Agentur zusammen; die Kostenkorrespondenz begleiten wir.",
+        "Die Frachtverfügbarkeit auf Flügen nach Tripolis, Bengasi und Misrata kann schwanken; die passende Option legen wir gemeinsam fest."
+      ]
+    },
+    "france": {
+      "slug": "frankreich",
+      "name": "Frankreich",
+      "title": "Frankreich - Türkei: Überführung Verstorbener",
+      "description": "Überführung Verstorbener von Frankreich in die Türkei: Sterbekasse, Konsulat, Übernahme am Flughafen, Überführung innerhalb der Türkei und Beisetzung; Überführung von der Türkei nach Frankreich.",
+      "intro": "Für türkische Familien in Frankreich überführen wir den Verstorbenen zur Beisetzung in die Türkei und bringen in der Türkei verstorbene Personen mit Wohnsitz in Frankreich zurück nach Frankreich. Die Sterbekasse oder Versicherung in Frankreich übernimmt die Überführung meist bis in die Türkei; wir übernehmen den Ablauf ab dem Flughafen. Die Türkei und Frankreich sind Vertragsstaaten des Straßburger Übereinkommens über die Leichenbeförderung von 1973; die Dokumente werden in diesem Rahmen ausgestellt.",
+      "process": [
+        "Von Frankreich in die Türkei: Flug- und Dokumentendaten werden mit dem Bestattungsunternehmen oder der Sterbekasse in Frankreich abgestimmt; wir übernehmen den Verstorbenen in Istanbul, überführen ihn in die Stadt der Beisetzung und koordinieren die Beisetzung.",
+        "Von der Türkei nach Frankreich: Sterbeurkunde, mehrsprachige Sterbeurkunde (Formule C), Einbalsamierungsbescheinigung und Leichenpass (Transportgenehmigung) werden ausgestellt; mit dem Bestattungsunternehmen in Frankreich wird ein Übergabeplan vereinbart und der Verstorbene per Luftfracht überführt."
+      ],
+      "documents": [
+        "Für einen aus Frankreich ankommenden Verstorbenen: die in Frankreich ausgestellte Sterbeurkunde (acte de décès) und das Überführungsdokument des türkischen Konsulats",
+        "Für einen aus der Türkei überführten Verstorbenen: Formule C, Einbalsamierungsbescheinigung, Leichenpass (Transportgenehmigung) und Übernahmebestätigung des Bestattungsunternehmens in Frankreich"
+      ],
+      "notes": [
+        "Besteht in Frankreich eine Mitgliedschaft in einer Sterbekasse, rufen Sie zuerst dort an; der Vertragsbestatter leitet die Überführung ein. Die nicht abgedeckten Leistungen, also Überführung innerhalb der Türkei und Beisetzung, übernehmen wir.",
+        "Wir arbeiten mit türkischen Bestattungsunternehmen in Frankreich zusammen; für die Übergabe am Flughafen und die Beisetzung sind wir Ihr einziger Ansprechpartner."
+      ]
+    },
+    "belgium": {
+      "slug": "belgien",
+      "name": "Belgien",
+      "title": "Belgien - Türkei: Überführung Verstorbener",
+      "description": "Überführung Verstorbener von Belgien in die Türkei: Sterbekasse, Konsulat, Übernahme am Flughafen, Überführung innerhalb der Türkei und Beisetzung; Überführung von der Türkei nach Belgien.",
+      "intro": "Für türkische Familien in Belgien überführen wir den Verstorbenen zur Beisetzung in die Türkei und bringen in der Türkei verstorbene Personen mit Wohnsitz in Belgien zurück nach Belgien. Die Sterbekasse oder Versicherung in Belgien übernimmt die Überführung meist bis in die Türkei; wir übernehmen den Ablauf ab dem Flughafen. Die Türkei und Belgien sind Vertragsstaaten des Straßburger Übereinkommens über die Leichenbeförderung von 1973.",
+      "process": [
+        "Von Belgien in die Türkei: Flug- und Dokumentendaten werden mit dem Bestattungsunternehmen oder der Sterbekasse in Belgien abgestimmt; wir übernehmen den Verstorbenen in Istanbul, überführen ihn in die Stadt der Beisetzung und koordinieren die Beisetzung.",
+        "Von der Türkei nach Belgien: Sterbeurkunde, mehrsprachige Sterbeurkunde (Formule C), Einbalsamierungsbescheinigung und Leichenpass (Transportgenehmigung) werden ausgestellt; mit dem Bestattungsunternehmen in Belgien wird ein Übergabeplan vereinbart und der Verstorbene per Luftfracht überführt."
+      ],
+      "documents": [
+        "Für einen aus Belgien ankommenden Verstorbenen: die in Belgien ausgestellte Sterbeurkunde und das Überführungsdokument des türkischen Konsulats",
+        "Für einen aus der Türkei überführten Verstorbenen: Formule C, Einbalsamierungsbescheinigung, Leichenpass (Transportgenehmigung) und Übernahmebestätigung des Bestattungsunternehmens in Belgien"
+      ],
+      "notes": [
+        "Besteht in Belgien eine Mitgliedschaft in einer Sterbekasse, rufen Sie zuerst dort an; der Vertragsbestatter leitet die Überführung ein. Die nicht abgedeckten Leistungen, also Überführung innerhalb der Türkei und Beisetzung, übernehmen wir.",
+        "Wir arbeiten mit türkischen Bestattungsunternehmen in Belgien zusammen; für die Übergabe am Flughafen und die Beisetzung sind wir Ihr einziger Ansprechpartner."
+      ]
+    },
+    "austria": {
+      "slug": "oesterreich",
+      "name": "Österreich",
+      "title": "Österreich - Türkei: Überführung Verstorbener",
+      "description": "Überführung Verstorbener von Österreich in die Türkei: Sterbekasse, Konsulat, Übernahme am Flughafen, Überführung innerhalb der Türkei und Beisetzung; Überführung von der Türkei nach Österreich.",
+      "intro": "Für türkische Familien in Österreich überführen wir den Verstorbenen zur Beisetzung in die Türkei und bringen in der Türkei verstorbene Personen mit Wohnsitz in Österreich zurück nach Österreich. Die Sterbekasse (Bestattungsfonds) oder Versicherung in Österreich übernimmt die Überführung meist bis in die Türkei; wir übernehmen den Ablauf ab dem Flughafen. Die Türkei und Österreich sind Vertragsstaaten des Straßburger Übereinkommens über die Leichenbeförderung von 1973.",
+      "process": [
+        "Von Österreich in die Türkei: Flug- und Dokumentendaten werden mit dem Bestattungsunternehmen oder der Sterbekasse in Österreich abgestimmt; wir übernehmen den Verstorbenen in Istanbul, überführen ihn in die Stadt der Beisetzung und koordinieren die Beisetzung.",
+        "Von der Türkei nach Österreich: Sterbeurkunde, mehrsprachige Sterbeurkunde (Formule C), Einbalsamierungsbescheinigung und Leichenpass (Transportgenehmigung) werden ausgestellt; mit dem Bestattungsunternehmen in Österreich wird ein Übergabeplan vereinbart und der Verstorbene per Luftfracht überführt."
+      ],
+      "documents": [
+        "Für einen aus Österreich ankommenden Verstorbenen: die österreichische Sterbeurkunde und das Überführungsdokument des türkischen Konsulats",
+        "Für einen aus der Türkei überführten Verstorbenen: Formule C, Einbalsamierungsbescheinigung, Leichenpass (Transportgenehmigung) und Übernahmebestätigung des Bestattungsunternehmens in Österreich"
+      ],
+      "notes": [
+        "Besteht in Österreich eine Mitgliedschaft in einer Sterbekasse (Bestattungsfonds), rufen Sie zuerst dort an; der Vertragsbestatter leitet die Überführung ein. Die nicht abgedeckten Leistungen, also Überführung innerhalb der Türkei und Beisetzung, übernehmen wir.",
+        "Von Wien nach Istanbul gibt es Direktflüge; Übergabezeit und Dokumentenliste werden vorab mit dem Bestattungsunternehmen in Österreich abgestimmt."
+      ]
+    }
+  },
+  "form": {
+    "name": "Vor- und Nachname",
+    "phone": "Telefon",
+    "email": "E-Mail (optional)",
+    "deathPlace": "Sterbeort (Land / Stadt)",
+    "destination": "Zielort der Überführung",
+    "message": "Ihre Nachricht",
+    "company": "Firmenname",
+    "country": "Land",
+    "requestType": "Art der Anfrage",
+    "requestTypes": {
+      "family": "Familie / Privatperson",
+      "insurance": "Versicherung / Assistance",
+      "funeralHome": "Bestattungsunternehmen / Sterbekasse",
+      "hospital": "Krankenhaus / Gesundheitseinrichtung",
+      "consulate": "Konsulat",
+      "other": "Sonstiges"
+    },
+    "consent": "Ich habe die KVKK-Datenschutzhinweise gelesen und bin damit einverstanden, dass meine Angaben verarbeitet werden, damit Sie mich kontaktieren können.",
+    "consentLink": "KVKK-Datenschutzhinweise",
+    "submit": "Senden",
+    "sending": "Wird gesendet...",
+    "success": "Ihre Nachricht ist eingegangen. Wir rufen Sie so schnell wie möglich an.",
+    "error": "Die Nachricht konnte nicht gesendet werden. Bitte rufen Sie uns telefonisch oder über WhatsApp an.",
+    "sensitiveNote": "Bitte geben Sie im Formular keine sensiblen Informationen wie Gesundheitsdaten oder die Todesursache an; diese besprechen wir am Telefon.",
+    "errors": {
+      "name": "Bitte geben Sie Ihren Namen ein.",
+      "phone": "Bitte geben Sie eine gültige Telefonnummer ein.",
+      "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+      "message": "Bitte schreiben Sie eine kurze Nachricht.",
+      "consent": "Um fortzufahren, müssen Sie die Datenschutzhinweise akzeptieren.",
+      "rateLimit": "Zu viele Versuche. Bitte versuchen Sie es in einigen Minuten erneut oder rufen Sie uns an."
+    }
+  },
+  "cookie": {
+    "title": "Cookie-Einstellungen",
+    "text": "Unsere Website verwendet außer den unbedingt erforderlichen Cookies keine Cookies. Die optionalen Cookies zur Reichweitenmessung können Sie akzeptieren, ablehnen oder verwalten.",
+    "accept": "Akzeptieren",
+    "reject": "Ablehnen",
+    "manage": "Verwalten",
+    "save": "Speichern",
+    "necessary": "Erforderliche Cookies",
+    "necessaryText": "Für den Betrieb der Website und Ihre Spracheinstellung erforderlich; können nicht deaktiviert werden.",
+    "analytics": "Statistik-Cookies",
+    "analyticsText": "Dienen dazu, anonym zu messen, welche Seiten besucht werden.",
+    "policyLink": "Cookie-Richtlinie"
+  },
+  "footer": {
+    "companyTitle": "Impressum",
+    "linksTitle": "Seiten",
+    "legalTitle": "Rechtliches",
+    "kvkk": "KVKK-Datenschutzhinweise",
+    "cookies": "Cookie-Richtlinie",
+    "privacy": "Datenschutzerklärung",
+    "imprint": "Impressum",
+    "copyright": "© {year} Doğu Batı Uluslararası Cenaze Hizmetleri. Alle Rechte vorbehalten.",
+    "disclaimer": "Die Zeitangaben und Dokumentenlisten auf dieser Website dienen der allgemeinen Information; maßgeblich ist die aktuelle Praxis der zuständigen Behörden."
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "text": "Die gesuchte Seite wurde möglicherweise verschoben oder entfernt.",
+    "cta": "Zur Startseite"
+  },
+  "legal": {
+    "kvkk": {
+      "title": "KVKK-Datenschutzhinweise",
+      "description": "Datenschutzhinweise nach dem KVKK (türkisches Datenschutzgesetz Nr. 6698).",
+      "sections": [
+        {
+          "title": "Verantwortlicher",
+          "text": "Nach dem KVKK (türkisches Datenschutzgesetz Nr. 6698) werden Ihre personenbezogenen Daten von Doğu Batı Uluslararası Cenaze Hizmetleri (das \"Unternehmen\") als Verantwortlichem in dem nachfolgend beschriebenen Umfang verarbeitet. Firmenname, Anschrift und Kontaktdaten des Unternehmens finden Sie im Impressum."
+        },
+        {
+          "title": "Verarbeitete personenbezogene Daten",
+          "text": "Vor- und Nachname, Telefonnummer, E-Mail-Adresse, Nachrichteninhalt und Angaben zu Ihrer Anfrage (Sterbeort, Zielort), die Sie uns über das Kontaktformular, per Telefon oder über WhatsApp übermitteln. Im Rahmen der Überführung die Angaben zum Verstorbenen und zu seinen Angehörigen aus Ausweisen, Reisepässen und amtlichen Dokumenten; in diesen Dokumenten enthaltene Gesundheitsdaten sind nach dem KVKK personenbezogene Daten besonderer Kategorie und werden nur in dem gesetzlich zwingend erforderlichen Umfang verarbeitet."
+        },
+        {
+          "title": "Zwecke und Rechtsgrundlage",
+          "text": "Ihre personenbezogenen Daten werden verarbeitet, um Ihre Anfrage zu beantworten, die Überführung zu planen und durchzuführen, die Formalitäten bei Behörden, Konsulaten, Fluggesellschaften und Zoll zu erledigen, gesetzliche Pflichten zu erfüllen und mit Ihnen zu kommunizieren. Rechtsgrundlagen nach Art. 5 Abs. 2 KVKK sind der Abschluss oder die Erfüllung eines Vertrags, die Erfüllung einer rechtlichen Verpflichtung und das berechtigte Interesse; Daten besonderer Kategorie werden unter den Voraussetzungen des Art. 6 KVKK verarbeitet. Die im Kontaktformular erteilte Einwilligung wird eingeholt, damit wir Sie kontaktieren können."
+        },
+        {
+          "title": "Weitergabe",
+          "text": "Soweit die Leistung es erfordert, können Ihre Daten an Standesämter (Nüfus Müdürlüğü), Gemeinden, Staatsanwaltschaften, Konsulate, Fluggesellschaften und Frachtunternehmen, die Zollverwaltung und Bestattungsunternehmen im Zielland weitergegeben werden. Ein Teil dieser Weitergaben ist eine Übermittlung ins Ausland und erfolgt nach den Voraussetzungen des Art. 9 KVKK. Die für Hosting und E-Mail-Infrastruktur der Website eingesetzten Dienstleister sind im Impressum genannt."
+        },
+        {
+          "title": "Speicherdauer",
+          "text": "Ihre personenbezogenen Daten werden so lange gespeichert, wie es der Verarbeitungszweck erfordert und die in den einschlägigen Vorschriften vorgesehenen Verjährungsfristen laufen; danach werden sie gelöscht, vernichtet oder anonymisiert."
+        },
+        {
+          "title": "Ihre Rechte",
+          "text": "Nach Art. 11 KVKK haben Sie das Recht zu erfahren, ob Ihre personenbezogenen Daten verarbeitet werden; falls ja, Auskunft zu verlangen; den Zweck der Verarbeitung und die zweckgemäße Verwendung zu erfahren; die Dritten zu kennen, an die die Daten übermittelt wurden; bei unvollständiger oder unrichtiger Verarbeitung die Berichtigung zu verlangen; die Löschung oder Vernichtung zu verlangen; die Mitteilung dieser Vorgänge an die Dritten zu verlangen, an die die Daten übermittelt wurden; einem Ergebnis zu Ihren Lasten zu widersprechen, das aus einer Analyse durch automatisierte Systeme entsteht; und bei einem Schaden durch rechtswidrige Verarbeitung Ersatz zu verlangen. Ihre Anträge können Sie an die im Impressum genannte Anschrift oder E-Mail-Adresse richten; sie werden spätestens innerhalb von 30 Tagen beantwortet."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Cookie-Richtlinie",
+      "description": "Cookie-Richtlinie von dogubaticenaze.com: welche Cookies verwendet werden und wie Sie sie verwalten.",
+      "sections": [
+        {
+          "title": "Was ist ein Cookie?",
+          "text": "Cookies sind kleine Textdateien, die die von Ihnen besuchte Website in Ihrem Browser speichert."
+        },
+        {
+          "title": "Von uns verwendete Cookies",
+          "text": "Erforderliche Cookies: dienen dazu, Ihre Spracheinstellung zu merken und Ihre Cookie-Auswahl zu speichern; ohne sie funktioniert die Website nicht richtig. Statistik-Cookies: werden nur mit Ihrer Einwilligung eingesetzt, um anonym zu messen, welche Seiten besucht werden. Marketing- oder Retargeting-Cookies verwenden wir nicht."
+        },
+        {
+          "title": "Verwaltung Ihrer Einstellungen",
+          "text": "Über den Cookie-Hinweis am Seitenende können Sie Ihre Einstellungen ändern und in den Browsereinstellungen Cookies löschen oder blockieren. Ihre Einwilligung können Sie jederzeit widerrufen."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "description": "Datenschutzerklärung von dogubaticenaze.com.",
+      "sections": [
+        {
+          "title": "Allgemeines",
+          "text": "Die Informationen, die Sie beim Besuch dieser Website und bei der Kontaktaufnahme mitteilen, werden nur zur Beantwortung Ihrer Anfrage und zur Erbringung der Leistung verwendet. Einzelheiten finden Sie in den Datenschutzhinweisen nach dem KVKK (türkisches Datenschutzgesetz Nr. 6698)."
+        },
+        {
+          "title": "Links zu Dritten",
+          "text": "Die Website enthält Links zu Diensten Dritter wie WhatsApp und Kartendiensten. Wenn Sie diese Links anklicken, gelten die Datenschutzregeln des jeweiligen Dienstes."
+        },
+        {
+          "title": "Sicherheit",
+          "text": "Die Website wird über HTTPS ausgeliefert. Die Daten aus dem Kontaktformular werden serverseitig geprüft und ausschließlich an ein E-Mail-Konto weitergeleitet, auf das nur befugte Personen Zugriff haben."
+        }
+      ]
+    },
+    "imprint": {
+      "title": "Impressum",
+      "description": "Unternehmensangaben von Doğu Batı Uluslararası Cenaze Hizmetleri.",
+      "intro": "Angaben zum Diensteanbieter gemäß dem türkischen Gesetz Nr. 6563 über die Regelung des elektronischen Geschäftsverkehrs und der zugehörigen Verordnung:",
+      "labels": {
+        "legalName": "Firmenname",
+        "address": "Anschrift",
+        "phone": "Telefon",
+        "email": "E-Mail",
+        "taxId": "Finanzamt / Steuernummer",
+        "mersis": "MERSİS-Nummer",
+        "tradeRegistry": "Handelsregisternummer",
+        "kep": "KEP-Adresse (registrierte E-Mail)",
+        "hosting": "Hosting"
+      },
+      "pending": "Wird vor der Veröffentlichung ergänzt"
+    }
+  },
+  "reviews": {
+    "title": "Bewertungen",
+    "sourceLabel": "Quelle",
+    "empty": "Es wurden noch keine Bewertungen veröffentlicht."
+  }
+}

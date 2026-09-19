@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>dogubaticenaze.com Kullanım Kılavuzu</title>
+<style>
+  @page { size: A4; margin: 18mm 16mm 20mm 16mm; }
+  * { box-sizing: border-box; }
+  html { font-size: 11pt; }
+  body { font-family: "Segoe UI", "IBM Plex Sans", Arial, sans-serif; color: #1b1f23; line-height: 1.5; margin: 0; }
+  h1, h2, h3 { color: #0b3d3a; line-height: 1.2; }
+  h1 { font-size: 26pt; margin: 0 0 6pt; }
+  h2 { font-size: 16pt; margin: 24pt 0 8pt; padding-bottom: 4pt; border-bottom: 2px solid #d4af37; page-break-after: avoid; }
+  h3 { font-size: 12pt; margin: 14pt 0 5pt; page-break-after: avoid; }
+  p { margin: 0 0 8pt; }
+  ul, ol { margin: 0 0 8pt; padding-left: 20pt; }
+  li { margin-bottom: 4pt; }
+  ol.steps > li { margin-bottom: 8pt; }
+  table { width: 100%; border-collapse: collapse; margin: 6pt 0 10pt; font-size: 10pt; }
+  th, td { border: 1px solid #d7d4cb; padding: 5pt 7pt; vertical-align: top; text-align: left; }
+  th { background: #f0fdfa; color: #0b3d3a; font-weight: 600; }
+  tr { page-break-inside: avoid; }
+  code, kbd { font-family: Consolas, "Courier New", monospace; font-size: 9.5pt; background: #f7f6f2; padding: 0 4pt; border-radius: 3px; }
+  .cover { min-height: 235mm; display: flex; flex-direction: column; justify-content: space-between; page-break-after: always; }
+  .cover .brand { color: #8a6d1f; letter-spacing: .18em; text-transform: uppercase; font-size: 9pt; font-weight: 600; }
+  .cover .sub { font-size: 13pt; color: #3f4750; max-width: 150mm; }
+  .box { border: 1px solid #d4af37; background: #fbf6e6; padding: 9pt 11pt; border-radius: 6px; margin: 8pt 0 10pt; page-break-inside: avoid; }
+  .box.teal { border-color: #0f766e; background: #f0fdfa; }
+  .box.red { border-color: #c0392b; background: #fdf0ee; }
+  .box b:first-child { display: block; margin-bottom: 3pt; }
+  .toc ol { columns: 2; column-gap: 24pt; }
+  .toc li { break-inside: avoid; }
+  .small { font-size: 9.5pt; color: #5f6873; }
+  .page-break { page-break-before: always; }
+  .kbd { display: inline-block; border: 1px solid #bbb; border-bottom-width: 2px; border-radius: 4px; padding: 0 5pt; font-size: 9.5pt; background: #fff; }
+</style>
+</head>
+<body>
+
+<section class="cover">
+  <div>
+    <div class="brand">dogubaticenaze.com</div>
+    <h1 style="margin-top:10pt">Web Sitesi Kullanım Kılavuzu</h1>
+    <p class="sub">Siteyi bilgisayarınızda açma, yönetim panelinden telefon, WhatsApp ve metinleri değiştirme, yönetici şifreleri oluşturma, yedek alma ve siteyi internette yayınlama. Teknik bilgi gerektirmez.</p>
+  </div>
+  <div class="small">
+    <p><b>Sürüm:</b> Eylül 2026 &nbsp;·&nbsp; <b>Kime:</b> Doğu Batı Uluslararası Cenaze Hizmetleri &nbsp;·&nbsp; <b>Klasör:</b> <code>dogubaticenaze-site</code></p>
+    <p>Bu kılavuzu okurken elinizde site klasörü olmalı. Klasörün içinde <code>1-Kurulum.bat</code>, <code>2-Baslat.bat</code> ve <code>3-Yedekle.bat</code> dosyalarını göreceksiniz; her şey bu üç dosyayla başlar.</p>
+  </div>
+</section>
+
+<section class="toc">
+  <h2>İçindekiler</h2>
+  <ol>
+    <li>Site nedir, neler yapabilirsiniz?</li>
+    <li>Bilgisayarda çalıştırma (ilk kurulum)</li>
+    <li>Yönetim paneline ilk giriş ve şifre oluşturma</li>
+    <li>Telefon, WhatsApp, e-posta ve adres değiştirme</li>
+    <li>Sitedeki yazıları değiştirme (6 dil)</li>
+    <li>Yorumlar, rehber yazıları ve dosya takip</li>
+    <li>Yönetici ekleme, şifre değiştirme ve unutulan şifre</li>
+    <li>Yedek alma</li>
+    <li>Siteyi internette yayınlama</li>
+    <li>Yayın sonrası yapılacaklar</li>
+    <li>Sık sorulan sorular ve sorun giderme</li>
+    <li>Yayın öncesi kontrol listesi</li>
+  </ol>
+</section>
+
+<h2>1. Site nedir, neler yapabilirsiniz?</h2>
+<p>Bu klasör, dogubaticenaze.com için hazırlanmış yeni web sitesinin tamamıdır. Site altı dilde çalışır: Türkçe, İngilizce, Rusça, Arapça, Farsça ve Almanca. İçinde bir de <b>yönetim paneli</b> vardır; bu panelden hiçbir teknik bilgi gerekmeden şunları yaparsınız:</p>
+<ul>
+  <li>Telefon numaralarını, WhatsApp numarasını, e-postayı ve adresi değiştirmek (tek yerden, altı dilde birden güncellenir).</li>
+  <li>Sitedeki her cümleyi dil dil düzenlemek.</li>
+  <li>Aile ve iş ortağı yorumlarını eklemek (izin alınmış olanları).</li>
+  <li>"Rehber" bölümüne yazı eklemek (örneğin "Antalya'da vefat eden bir yakın için ne yapılır?").</li>
+  <li>Ailelere takip kodu verip cenaze naklinin hangi aşamada olduğunu sitede göstermek.</li>
+  <li>Künye bilgilerini (vergi no, MERSİS vb.) girmek; kuruluş yılı gibi sayıları eklemek.</li>
+  <li>Yeni yönetici eklemek, şifre değiştirmek.</li>
+</ul>
+<div class="box teal"><b>İki farklı adres olduğunu unutmayın.</b> Ziyaretçilerin gördüğü site: <code>dogubaticenaze.com</code>. Sizin yönetim paneliniz: <code>dogubaticenaze.com/admin</code>. Bilgisayarınızda denerken bu adresler <code>http://localhost:3000</code> ve <code>http://localhost:3000/admin</code> olur.</div>
+
+<h2>2. Bilgisayarda çalıştırma (ilk kurulum)</h2>
+<p>Siteyi internette yayınlamadan önce kendi bilgisayarınızda açıp görebilirsiniz. Bunun için bir kez "Node.js" adlı ücretsiz programı kurmanız gerekir; site bu programla çalışır.</p>
+<ol class="steps">
+  <li><b>Node.js'i kurun.</b> Tarayıcıda <code>https://nodejs.org</code> adresine gidin. Üzerinde <b>"LTS"</b> yazan yeşil düğmeye tıklayın; inen dosyayı açın ve "Next" diyerek kurun (hiçbir ayarı değiştirmeyin). Kurulum bitince bilgisayarı yeniden başlatın.</li>
+  <li><b>Site klasörünü bir yere koyun.</b> Örneğin <code>Belgeler</code> klasörünün içine <code>dogubaticenaze-site</code> klasörünü kopyalayın. Klasör adında Türkçe karakter veya boşluk olmaması iyidir.</li>
+  <li><b><code>1-Kurulum.bat</code> dosyasına çift tıklayın.</b> Siyah bir pencere açılır, gerekli parçaları internetten indirir ve siteyi hazırlar. 2-5 dakika sürer. Sonunda "KURULUM TAMAMLANDI" yazar; herhangi bir tuşa basıp kapatın. Bu adım yalnızca bir kez yapılır.</li>
+  <li><b><code>2-Baslat.bat</code> dosyasına çift tıklayın.</b> Site açılır ve tarayıcınızda yönetim paneli otomatik olarak belirir. Siyah pencere açık kaldığı sürece site çalışır; kapatınca durur. Siteyi tekrar açmak için her seferinde bu dosyaya çift tıklamanız yeterlidir.</li>
+</ol>
+<div class="box"><b>Windows "Bu uygulama korumalı" uyarısı verirse</b> "Ek bilgi" yazısına, ardından "Yine de çalıştır" düğmesine tıklayın. Dosyalar sizin bilgisayarınızda çalışan basit başlatıcılardır.</div>
+<p class="small">Mac veya Linux kullanıyorsanız: klasörün içinde bir terminal açıp sırasıyla <code>npm install</code>, <code>npm run build</code>, <code>npm start</code> yazın. Adresler aynıdır.</p>
+
+<h2>3. Yönetim paneline ilk giriş ve şifre oluşturma</h2>
+<p>Panel ilk kez açıldığında hiç yönetici olmadığı için <b>"Yönetici hesabı oluşturun"</b> ekranı gelir. Bu ekran yalnızca bir kez görünür.</p>
+<ol class="steps">
+  <li>Bir <b>kullanıcı adı</b> yazın (küçük harf; örn. <code>mehmet</code>).</li>
+  <li>Bir <b>şifre</b> belirleyin: en az 10 karakter, içinde en az bir harf ve bir rakam olsun (örn. <code>Cenaze2026Guvenli</code>). Aynı şifreyi ikinci kutuya tekrar yazın.</li>
+  <li>"Hesabı oluştur ve giriş yap" düğmesine basın. Artık paneldesiniz.</li>
+</ol>
+<div class="box red"><b>Şifreyi güvenli bir yere yazın.</b> Şifre hiçbir yerde düz metin olarak saklanmaz; biz de göremeyiz. Unutursanız 7. bölümdeki yöntemle sıfırlarsınız.</div>
+<p>Sonraki girişlerde <code>/admin</code> adresi doğrudan giriş ekranını açar. 6 kez yanlış şifre girilirse güvenlik için 15 dakika bekletilir. Panelden çıkmak için sağ üstteki "Çıkış" düğmesine basın; ortak bilgisayarlarda mutlaka çıkış yapın.</p>
+
+<h2>4. Telefon, WhatsApp, e-posta ve adres değiştirme</h2>
+<p>Sol menüden <b>"Şirket bilgileri"</b> sayfasına gidin. Buradaki her alan sitenin bütün sayfalarında ve bütün dillerinde aynı anda güncellenir; "Kaydet" dediğiniz anda yayındadır.</p>
+<table>
+  <tr><th style="width:30%">Alan</th><th>Nasıl doldurulur</th></tr>
+  <tr><td>Telefon (görünen)</td><td>Ziyaretçinin gördüğü biçim; istediğiniz gibi boşluk koyabilirsiniz: <code>+90 534 450 48 62</code></td></tr>
+  <tr><td>Telefon (arama biçimi)</td><td>Telefona dokununca aranacak numara: <code>+</code> ile başlar, hiç boşluk yok: <code>+905344504862</code>. İlk numara ana numaradır; en fazla üç numara girilebilir.</td></tr>
+  <tr><td>WhatsApp numarası</td><td>Ülke koduyla, sadece rakam, artı işareti yok: <code>905344504862</code>. Sitedeki bütün WhatsApp düğmeleri bu numaraya, ziyaretçinin dilinde hazır bir mesajla açılır.</td></tr>
+  <tr><td>E-posta</td><td>Kurumsal adres: <code>info@dogubaticenaze.com</code>. İletişim formundan gelen mesajlar da buraya düşer (bkz. 9. bölüm, e-posta ayarı).</td></tr>
+  <tr><td>Adres ve harita</td><td>Sokak, ilçe, il, posta kodu. "Google Haritalar bağlantısı" için Google Haritalar'da ofisi bulun, <b>Paylaş → Bağlantıyı kopyala</b> deyin ve kutuya yapıştırın.</td></tr>
+  <tr><td>Kanıtlanabilir sayılar</td><td>Kuruluş yılı, tamamlanan nakil sayısı, ülke sayısı. <b>Boş bırakırsanız sitede gösterilmez.</b> Yalnızca belgeleyebileceğiniz sayıları yazın; reklam mevzuatı gereği abartılı sayı cezaya yol açabilir.</td></tr>
+  <tr><td>Künye</td><td>Resmi unvan, vergi dairesi/no, MERSİS, ticaret sicil no, KEP. Kanunen sitede bulunması zorunludur; girilene kadar künye sayfasında "yayın öncesi tamamlanacak" yazar.</td></tr>
+  <tr><td>Bağlantılar</td><td>Google İşletme Profili, Instagram vb. Her satıra bir adres; <code>https://</code> ile başlamalı. Alt bilgide görünür.</td></tr>
+</table>
+<div class="box teal"><b>Kontrol:</b> Kaydettikten sonra sağ üstteki "Siteyi aç" bağlantısına tıklayın ve sayfanın altındaki telefonun değiştiğini görün. Telefondan bakıyorsanız sayfayı aşağı çekip yenileyin.</div>
+
+<h2>5. Sitedeki yazıları değiştirme (6 dil)</h2>
+<p>Sol menüden <b>"Site metinleri"</b> sayfasına gidin. Üstte diller, altında bölümler (Anasayfa, Süreç, Ülke sayfaları, SSS, Yasal metinler...) listelenir.</p>
+<ol class="steps">
+  <li>Önce dili seçin (örn. Türkçe), sonra bölümü seçin (örn. Anasayfa).</li>
+  <li>Her cümle bir kutuda görünür. Değiştirmek istediğinizi düzenleyin. Uzun metinler için kutu büyür.</li>
+  <li>Sayfanın altındaki "Kaydet" düğmesine basın. Değiştirilen kutular sarı çerçeveyle işaretlenir ve altında "Orijinal" metin görünür.</li>
+  <li>Bir metni eski hâline getirmek için kutuyu boşaltıp kaydedin. Bölümün tamamını geri almak için "Bu bölümü orijinal metinlere döndür" düğmesini kullanın.</li>
+</ol>
+<div class="box"><b>Dikkat edilecekler.</b> Kutuların içinde <code>{year}</code> gibi süslü parantezli ifadeler varsa dokunmayın; site bunları otomatik doldurur. Bir dilde yaptığınız değişiklik diğer dillere <u>otomatik çevrilmez</u>; aynı değişikliği o dillerde de yapın veya çevirmeninize yaptırın. Arapça ve Farsça kutular sağdan sola yazılır.</div>
+<p>Bölümde bir kelime aramak için "Bu bölümde ara" kutusunu kullanın (örn. "tahnit").</p>
+
+<h2>6. Yorumlar, rehber yazıları ve dosya takip</h2>
+<h3>Yorumlar</h3>
+<p>"Yorumlar" sayfasından aile ve iş ortağı yorumlarını ekleyin. Anasayfada görünmesi için iki kutu işaretli olmalı: <b>"Yorum sahibinden yayın izni alındı"</b> ve <b>"Yayında"</b>. Adı kısaltarak yazın (örn. "A. K., Almanya"); tam ad yazmak KVKK açısından sorun yaratır. Yorumun dilini seçin; yorum yalnızca o dilde değil, tüm dillerde görünür (kısa yorumlar için sorun değildir).</p>
+<h3>Rehber yazıları</h3>
+<p>"Rehber yazıları" sayfasından sitenin Rehber bölümüne yazı eklersiniz. Her yazı tek dildedir; aynı yazının İngilizcesi için İngilizce seçip yeni yazı ekleyin. Yazı kutusunda basit işaretler kullanabilirsiniz:</p>
+<table>
+  <tr><th style="width:36%">Yazdığınız</th><th>Sitede görünen</th></tr>
+  <tr><td><code>## Belgeler</code></td><td>Alt başlık</td></tr>
+  <tr><td><code>- Pasaport</code> (her satır ayrı)</td><td>Madde işaretli liste</td></tr>
+  <tr><td><code>1. Hastaneyi arayın</code></td><td>Numaralı liste</td></tr>
+  <tr><td><code>**önemli**</code></td><td><b>önemli</b> (kalın)</td></tr>
+  <tr><td><code>[SSS sayfası](/sss)</code></td><td>Tıklanabilir bağlantı</td></tr>
+  <tr><td>Boş satır</td><td>Yeni paragraf</td></tr>
+</table>
+<p>"Yayında" işaretini kaldırırsanız yazı taslak olarak kalır ve sitede görünmez.</p>
+<h3>Dosya takip</h3>
+<p>"Dosya takip" sayfasında bir nakil için dosya açın: güzergâh yazın (örn. "İstanbul → Berlin"), durumu seçin. Site otomatik bir <b>takip kodu</b> üretir (örn. <code>DB-2026-4821</code>). Bu kodu aileye veya sigorta şirketine verin; sitedeki "Dosya Takip" sayfasına kodu yazınca hangi aşamada olduğunu görürler. Aşama değiştikçe dosyayı açıp durumu güncelleyin; geçmiş otomatik tutulur. <b>Sayfada hiçbir kişisel bilgi gösterilmez</b>; vefat edenin adını, vefat nedenini vb. yazmayın. Teslim edilen dosyaları bir süre sonra silin.</p>
+
+<h2>7. Yönetici ekleme, şifre değiştirme ve unutulan şifre</h2>
+<p>"Kullanıcılar ve şifre" sayfasında:</p>
+<ul>
+  <li><b>Kendi şifremi değiştir:</b> mevcut şifre + yeni şifre (iki kez).</li>
+  <li><b>Yeni yönetici ekle:</b> panele girecek her kişiye ayrı hesap açın; şifre paylaşmayın. Ayrılan kişinin hesabını silin.</li>
+  <li><b>Başkasının şifresini sıfırla:</b> listede kişinin yanındaki kutuya yeni şifre yazıp "Sıfırla" deyin.</li>
+</ul>
+<div class="box red"><b>Tek yöneticisiniz ve şifreyi unuttunuz?</b> Siteyi kapatın (siyah pencere). Site klasöründe <code>data</code> klasörünü açın, <code>store.json</code> dosyasını Not Defteri ile açın. İçinde <code>"users": [ ... ]</code> yazan yeri bulun; köşeli parantezlerin arasındaki her şeyi silip <code>"users": []</code> hâline getirin, kaydedin. <code>2-Baslat.bat</code> ile siteyi açın; ilk kurulum ekranı yeniden gelir ve yeni şifre belirlersiniz. Diğer bütün veriler (metinler, yorumlar) korunur. Site Vercel'de yayındaysa aynı dosya Vercel → Storage → Blob içinde <code>dogubati/store.json</code> adıyla durur; indirip düzenleyip geri yükleyin veya bu belgeyi hazırlayan kişiden yardım isteyin.</div>
+
+<h2>8. Yedek alma</h2>
+<p>Panelde yaptığınız her şey tek bir dosyada tutulur. Bilgisayarda çalışırken bu dosya <code>data\store.json</code>'dur. <b><code>3-Yedekle.bat</code></b> dosyasına çift tıklayın; <code>yedekler</code> klasörüne tarihli bir kopya alınır. Bu kopyayı USB'ye veya buluta atın. Geri yüklemek için yedek dosyayı <code>data\store.json</code> adıyla yerine kopyalayıp siteyi yeniden başlatın.</p>
+<p>Vercel'de yayındayken veriler Vercel Blob'da tutulur; ayda bir Vercel panelinden dosyayı indirmeniz yeterlidir.</p>
+
+<h2 class="page-break">9. Siteyi internette yayınlama</h2>
+<p>Site bir "Node.js" uygulamasıdır; klasik "HTML dosyası yükleme" barındırmalarında çalışmaz. İki iyi yol vardır. <b>Yol A</b>'yı öneriyoruz: ücretli ama kurulumu en kolay olanıdır ve bakım gerektirmez.</p>
+
+<h3>Yol A: Vercel (önerilen)</h3>
+<p>Vercel, bu tür siteleri yayınlamak için yapılmış bir hizmettir. Aylık ücreti yaklaşık 20 $'dır ("Pro" planı; ücretsiz plan ticari sitelere kapalıdır). Siteyi Vercel'e vermek için önce kodun bir "GitHub" hesabında durması gerekir; GitHub ücretsizdir.</p>
+<ol class="steps">
+  <li><b>GitHub hesabı açın:</b> <code>https://github.com</code> → Sign up. E-posta ile doğrulayın.</li>
+  <li><b>Boş bir depo (repository) oluşturun:</b> sağ üstteki <b>+</b> → "New repository". Ad: <code>dogubaticenaze</code>. <b>Private</b> seçin. "Create repository" deyin.</li>
+  <li><b>Site klasörünü yükleyin:</b> Açılan sayfada "uploading an existing file" bağlantısına tıklayın. Bilgisayarınızda site klasörünü açın; içindeki <u>bütün dosya ve klasörleri</u> seçip tarayıcı penceresine sürükleyin. <b>İstisna:</b> <code>node_modules</code>, <code>.next</code>, <code>data</code> ve <code>yedekler</code> klasörlerini yüklemeyin (yüklerseniz de zarar vermez ama çok uzun sürer). Altta "Commit changes" deyin. Sürükleme ile alt klasörler yüklenmezse ücretsiz "GitHub Desktop" programını kurup klasörü "Add local repository" ile ekleyin ve "Publish" deyin.</li>
+  <li><b>Vercel hesabı açın:</b> <code>https://vercel.com</code> → "Sign up" → "Continue with GitHub". Vercel, GitHub'daki depolarınızı görmek için izin ister; onaylayın.</li>
+  <li><b>Projeyi içe aktarın:</b> Vercel'de "Add New → Project" → listede <code>dogubaticenaze</code> deposunun yanındaki "Import". Ayarları değiştirmeden "Deploy" deyin. 2-3 dakika sonra "Congratulations" ekranı gelir; size <code>xxx.vercel.app</code> biçiminde geçici bir adres verir. Siteniz artık internette.</li>
+  <li><b>Panel verisi için depolama açın (zorunlu):</b> Vercel'de projenizin sayfasında "Storage" sekmesi → "Create Database" → <b>Blob</b> → "Create" → "Connect to project". Bu, yönetim panelinde yaptığınız değişikliklerin kalıcı olmasını sağlar. Bağladıktan sonra "Deployments" sekmesinden en üstteki dağıtımın sağındaki üç noktaya → "Redeploy" deyin.</li>
+  <li><b>Alan adını bağlayın:</b> projede "Settings → Domains" → <code>dogubaticenaze.com</code> yazıp "Add". Vercel size iki kayıt gösterir (genellikle bir "A" kaydı <code>76.76.21.21</code> ve "www" için bir "CNAME"). Alan adınızı aldığınız firmanın (örn. Natro, İsimtescil, GoDaddy) paneline girip DNS ayarlarında bu kayıtları girin; eski kayıtları silin. Yayılması birkaç saat sürebilir. Vercel HTTPS'i (kilit simgesi) otomatik verir.</li>
+  <li><b>Yönetici hesabınızı oluşturun:</b> <code>https://dogubaticenaze.com/admin</code> adresine girin; ilk kurulum ekranı gelir (3. bölüm). Bilgisayarınızda oluşturduğunuz hesap internete taşınmaz; burada yeniden oluşturursunuz.</li>
+  <li><b>Formun e-posta göndermesi:</b> ücretsiz Resend hesabı açın (<code>https://resend.com</code>), "Domains" bölümünde <code>dogubaticenaze.com</code> alan adını ekleyip verdiği DNS kayıtlarını alan adı firmanızın paneline girin, sonra "API Keys" bölümünden bir anahtar oluşturun. Vercel'de "Settings → Environment Variables" bölümüne şunları ekleyin ve "Redeploy" yapın:
+    <table>
+      <tr><th>Ad</th><th>Değer</th></tr>
+      <tr><td><code>RESEND_API_KEY</code></td><td>Resend'in verdiği <code>re_...</code> ile başlayan anahtar</td></tr>
+      <tr><td><code>CONTACT_TO_EMAIL</code></td><td>Form mesajlarının geleceği adres, örn. <code>info@dogubaticenaze.com</code></td></tr>
+      <tr><td><code>NEXT_PUBLIC_SITE_URL</code></td><td><code>https://dogubaticenaze.com</code></td></tr>
+    </table>
+    Anahtar girilmeden form gönderilebilir ama mesaj e-posta olarak ulaşmaz; bu yüzden yayından önce bir deneme mesajı gönderip kontrol edin.</li>
+</ol>
+<div class="box"><b>Güncelleme nasıl yapılır?</b> Metin, telefon, yorum, yazı gibi her şey panelden değişir; kod yüklemeye gerek yoktur. Yalnızca tasarım veya yeni sayfa gibi kod değişikliği gerekirse yeni dosyalar GitHub'a yüklenir ve Vercel otomatik olarak yeniden yayınlar.</div>
+
+<h3>Yol B: Türkiye'de bir hosting firmasından sunucu (VPS)</h3>
+<p>Verilerin Türkiye'de kalmasını isterseniz Türk hosting firmalarından (Natro, Turhost, Hostinger TR vb.) "VPS" veya "bulut sunucu" alın; en küçük paket (1-2 GB RAM, Ubuntu) yeterlidir. Bu yol biraz teknik bilgi gerektirir; hosting firmasının destek ekibine aşağıdaki listeyi verip kurmalarını isteyebilirsiniz. Çoğu firma bunu küçük bir ücretle yapar.</p>
+<div class="box teal">
+  <b>Destek ekibine verilecek talimat</b>
+  <ol>
+    <li>Ubuntu 22.04 veya 24.04 sunucuya Node.js 20 LTS kurun.</li>
+    <li>Site klasörünü <code>/var/www/dogubati</code> altına kopyalayın (<code>node_modules</code> ve <code>.next</code> hariç).</li>
+    <li>Klasörde <code>npm ci && npm run build</code> çalıştırın.</li>
+    <li><code>.env.local</code> dosyasına <code>DATA_DIR=/var/www/dogubati-data</code> ve <code>NEXT_PUBLIC_SITE_URL=https://dogubaticenaze.com</code> yazın; (isteğe bağlı) <code>RESEND_API_KEY</code> ve <code>CONTACT_TO_EMAIL</code>.</li>
+    <li><code>npm start</code> komutunu pm2 ile servis olarak çalıştırın (port 3000) ve sunucu yeniden başlayınca otomatik açılacak şekilde ayarlayın.</li>
+    <li>Nginx veya Caddy ile <code>dogubaticenaze.com</code> için ters vekil (reverse proxy) kurun ve Let's Encrypt ile HTTPS verin.</li>
+    <li><code>/var/www/dogubati-data/store.json</code> dosyasını günlük yedekleyin.</li>
+  </ol>
+</div>
+
+<h2>10. Yayın sonrası yapılacaklar</h2>
+<ol class="steps">
+  <li><b>Google Search Console:</b> <code>https://search.google.com/search-console</code> → alan adınızı ekleyin (Vercel'deyseniz doğrulama için verilen TXT kaydını DNS'e girin). "Site haritaları" bölümüne <code>https://dogubaticenaze.com/sitemap.xml</code> yazıp gönderin. Böylece Google altı dildeki bütün sayfaları hızla bulur.</li>
+  <li><b>Google İşletme Profili:</b> <code>https://business.google.com</code> üzerinden işletmenizi bulun veya oluşturun. Ad, adres ve telefon <u>sitedekiyle birebir aynı</u> olsun. Web sitesi alanına <code>https://dogubaticenaze.com</code> yazın. Profil bağlantısını panelde "Şirket bilgileri → Bağlantılar" kutusuna ekleyin. Memnun ailelerden yorum isteyin; yerel aramalarda en etkili unsur budur.</li>
+  <li><b>Eski adresler:</b> eski sitenin <code>aboutus.html</code> gibi adresleri otomatik olarak yeni sayfalara yönlenir; ek işlem gerekmez.</li>
+  <li><b>Telefon testi:</b> Siteyi cep telefonundan açın; alttaki "Hemen Ara" ve "WhatsApp" düğmelerine basıp doğru numaranın açıldığını görün. Arapça (<code>/ar</code>) ve Farsça (<code>/fa</code>) sayfalarının sağdan sola göründüğünü kontrol edin.</li>
+  <li><b>Form testi:</b> İletişim sayfasından kendinize bir deneme mesajı gönderin; e-postanın geldiğini doğrulayın.</li>
+</ol>
+
+<h2>11. Sık sorulan sorular ve sorun giderme</h2>
+<table>
+  <tr><th style="width:38%">Durum</th><th>Ne yapmalı</th></tr>
+  <tr><td>"2-Baslat.bat" açılıp hemen kapanıyor</td><td>Önce "1-Kurulum.bat" çalıştırılmış mı? Kurulum tamamlanmadıysa tekrar çalıştırın. Kapanmadan önce ne yazdığını görmek için dosyaya sağ tıklayıp "Düzenle" yerine, komut istemi açıp dosyayı oraya sürükleyerek çalıştırın.</td></tr>
+  <tr><td>Tarayıcı "Bu siteye ulaşılamıyor" diyor</td><td>Siyah pencere açık mı? Kapandıysa site durmuştur; "2-Baslat.bat" ile yeniden açın. Adresin <code>http://localhost:3000</code> olduğundan emin olun.</td></tr>
+  <tr><td>Panelde kaydettim ama sitede görünmüyor</td><td>Sayfayı yenileyin (bilgisayarda <span class="kbd">Ctrl</span>+<span class="kbd">F5</span>, telefonda sayfayı aşağı çekin). En fazla 15 saniye içinde güncellenir.</td></tr>
+  <tr><td>Panel "Çok fazla hatalı deneme" diyor</td><td>15 dakika bekleyin. Şifreyi hatırlamıyorsanız 7. bölüm.</td></tr>
+  <tr><td>Formdan mesaj gelmiyor</td><td>Resend anahtarı girilmemiş olabilir (9. bölüm, 9. adım). Anahtar yoksa mesaj yalnızca sunucu kayıtlarına yazılır.</td></tr>
+  <tr><td>Fiyat aralıkları sitede görünmüyor</td><td>Bilinçli olarak kapalıdır. Avukat onayı aldıktan sonra panelde "Ayarlar → Maliyet rehberinde tahmini fiyat aralıklarını göster" kutusunu işaretleyin.</td></tr>
+  <tr><td>Bir dilde yazım hatası gördüm</td><td>"Site metinleri" bölümünden o dili ve bölümü seçip düzeltin. Arapça, Farsça ve Rusça için anadili konuşan birine baktırmanız önerilir.</td></tr>
+  <tr><td>Yeni bir ülke sayfası istiyorum</td><td>Bu, kod değişikliği gerektirir (altı dilde içerik). Bu belgeyi hazırlayan kişiye ülke adını iletin.</td></tr>
+  <tr><td>Sitede logo/fotoğraf değişikliği</td><td>Kod değişikliği gerektirir; araç, ofis ve ekip fotoğraflarını iletin, eklensin.</td></tr>
+</table>
+
+<h2>12. Yayın öncesi kontrol listesi</h2>
+<table>
+  <tr><th style="width:6%">☐</th><th>Madde</th></tr>
+  <tr><td>☐</td><td>Panelde "Şirket bilgileri": telefonlar, WhatsApp, e-posta, adres doğru ve kaydedildi.</td></tr>
+  <tr><td>☐</td><td>Künye: unvan, vergi dairesi/no, MERSİS, ticaret sicil no, KEP girildi (kanunen zorunlu).</td></tr>
+  <tr><td>☐</td><td><code>info@dogubaticenaze.com</code> posta kutusu açıldı ve okunuyor.</td></tr>
+  <tr><td>☐</td><td>KVKK aydınlatma metni, çerez politikası ve künye bir avukat tarafından kontrol edildi.</td></tr>
+  <tr><td>☐</td><td>Belediye izni ve araç belgeleri dosyada; sitede "ruhsatlı" gibi ifadeler belge olmadan kullanılmadı.</td></tr>
+  <tr><td>☐</td><td>İngilizce, Rusça, Arapça, Farsça ve Almanca metinler anadili konuşan biri tarafından okundu.</td></tr>
+  <tr><td>☐</td><td>Kanıtlanabilir sayılar (kuruluş yılı vb.) yalnızca belgesi varsa girildi.</td></tr>
+  <tr><td>☐</td><td>Vercel Blob (veya sunucuda DATA_DIR) bağlandı; panelde yapılan bir deneme değişikliği yeniden yayından sonra kaybolmadı.</td></tr>
+  <tr><td>☐</td><td>Resend anahtarı girildi; deneme form mesajı e-postaya ulaştı.</td></tr>
+  <tr><td>☐</td><td>Alan adı bağlandı; <code>https://dogubaticenaze.com</code> kilit simgesiyle açılıyor.</td></tr>
+  <tr><td>☐</td><td>Search Console'a site haritası gönderildi; İşletme Profili sitedeki bilgilerle eşitlendi.</td></tr>
+  <tr><td>☐</td><td>Telefondan Ara/WhatsApp düğmeleri denendi; Arapça ve Farsça sayfalar sağdan sola görünüyor.</td></tr>
+  <tr><td>☐</td><td>Yönetici şifresi güvenli bir yere yazıldı; ikinci bir yönetici hesabı açıldı.</td></tr>
+</table>
+<p class="small">Bu kılavuz Eylül 2026 tarihli site sürümü için hazırlanmıştır. Hizmetlerin (Vercel, GitHub, Resend) ekranları zamanla değişebilir; düğme adları farklı olsa da adımların mantığı aynıdır.</p>
+
+</body>
+</html>
