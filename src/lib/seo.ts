@@ -95,7 +95,7 @@ export function localBusinessJsonLd(args: {
     description,
     telephone: site.phones[0]?.e164,
     email: site.email,
-    image: new URL(site.ogImage, site.url).toString(),
+    image: new URL(site.ogImage, baseUrl()).toString(),
     address: {
       "@type": "PostalAddress",
       streetAddress: address.street,
