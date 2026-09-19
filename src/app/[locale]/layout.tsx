@@ -44,7 +44,9 @@ export async function generateMetadata({ params }: LocaleLayoutProps): Promise<M
   const t = await getTranslations({ locale, namespace: "meta" });
   const site = await getSite();
   return {
-    metadataBase: new URL(site.url),
+    metadataBase: new URL(
+  site.url?.trim() || "https://dogubaticenaze.com"
+),
     title: { default: t("defaultTitle"), template: t("titleTemplate") },
     description: t("defaultDescription"),
     applicationName: t("siteName"),
