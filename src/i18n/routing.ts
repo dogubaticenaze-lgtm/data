@@ -7,7 +7,7 @@ import { defineRouting } from "next-intl/routing";
  * Arabic and Persian keep English slugs so links stay readable when shared.
  */
 export const routing = defineRouting({
-  locales: ["tr", "en", "ru", "ar", "fa", "de", "fr"],
+  locales: ["tr", "en", "fr", "de", "ru", "ar", "fa"],
   defaultLocale: "tr",
   localePrefix: "as-needed",
   localeDetection: false,
