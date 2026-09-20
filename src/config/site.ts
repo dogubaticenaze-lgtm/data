@@ -42,7 +42,7 @@ export const site = {
   ogImage: "/og.png",
 } as const;
 
-export type Locale = "tr" | "en" | "ru" | "ar" | "fa" | "de";
+export type Locale = "tr" | "en" | "ru" | "ar" | "fa" | "de" | "fr";
 
 export const localeMeta: Record<
   Locale,
@@ -54,6 +54,7 @@ export const localeMeta: Record<
   ar: { label: "العربية", dir: "rtl", ogLocale: "ar_AR", hreflang: "ar", font: "arabic" },
   fa: { label: "فارسی", dir: "rtl", ogLocale: "fa_IR", hreflang: "fa", font: "persian" },
   de: { label: "Deutsch", dir: "ltr", ogLocale: "de_DE", hreflang: "de", font: "latin" },
+  fr: { label: "Français", dir: "ltr", ogLocale: "fr_FR", hreflang: "fr", font: "latin" },
 };
 
 export const countryIds = [
