@@ -1,170 +1,170 @@
 {
   "meta": {
-    "siteName": "Doğu Batı International Funeral Services",
-    "defaultTitle": "Doğu Batı International Funeral Services | International Funeral Repatriation, Istanbul",
-    "defaultDescription": "Funeral repatriation from Turkey, to Turkey and in transit. Documents, consulate, embalming and air cargo coordinated from a single point of contact. Phone and WhatsApp, 24/7.",
-    "titleTemplate": "%s | Doğu Batı Funeral"
+    "siteName": "Doğu Batı Services Funéraires Internationaux",
+    "defaultTitle": "Doğu Batı Services Funéraires Internationaux | Rapatriement funéraire international, Istanbul",
+    "defaultDescription": "Rapatriement funéraire depuis la Turquie, vers la Turquie et en transit. Documents, consulat, soins funéraires et fret aérien coordonnés par un interlocuteur unique. Téléphone et WhatsApp, 24 h/24 et 7 j/7.",
+    "titleTemplate": "%s | Doğu Batı Funéraire"
   },
   "nav": {
-    "home": "Home",
+    "home": "Accueil",
     "services": "Services",
-    "outbound": "From Turkey Abroad",
-    "inbound": "From Abroad to Turkey",
-    "transit": "Transit Repatriation",
-    "domestic": "Domestic Transfer",
-    "documents": "Documents and Consulate",
-    "process": "Process",
-    "guide": "What to do after a death",
-    "countries": "Countries",
-    "coffins": "Coffins and Preparation",
-    "partners": "Corporate",
-    "about": "About Us",
+    "outbound": "De la Turquie vers l'étranger",
+    "inbound": "De l'étranger vers la Turquie",
+    "transit": "Rapatriement en transit",
+    "domestic": "Transfert national",
+    "documents": "Documents et consulat",
+    "process": "Processus",
+    "guide": "Que faire après un décès",
+    "countries": "Pays",
+    "coffins": "Cercueils et préparation",
+    "partners": "Entreprises",
+    "about": "À propos de nous",
     "faq": "FAQ",
     "contact": "Contact",
     "menu": "Menu",
-    "close": "Close",
-    "language": "Language",
-    "skipToContent": "Skip to content",
-    "costGuide": "Cost Guide",
-    "nonMuslim": "For Non-Muslims",
+    "close": "Fermer",
+    "language": "Langue",
+    "skipToContent": "Aller au contenu",
+    "costGuide": "Guide des coûts",
+    "nonMuslim": "Pour les non-musulmans",
     "downloads": "Documents",
     "guides": "Guides",
-    "tracking": "Case Tracking"
+    "tracking": "Suivi du dossier"
   },
   "common": {
-    "callNow": "Call now",
-    "call247": "Call 24/7",
+    "callNow": "Appelez maintenant",
+    "call247": "Appelez 24 h/24 et 7 j/7",
     "whatsapp": "WhatsApp",
-    "whatsappMessage": "Hello, I would like information about funeral repatriation.",
-    "requestQuote": "Request a quote",
-    "learnMore": "Details",
-    "readGuide": "Read the guide",
-    "allCountries": "All countries",
-    "contactUs": "Contact us",
-    "phone": "Phone",
-    "email": "Email",
-    "address": "Address",
-    "hours": "Opening hours",
-    "hoursValue": "24 hours a day, 7 days a week",
-    "openInMaps": "Open in Maps",
-    "breadcrumbHome": "Home",
-    "whatToExpect": "What happens",
-    "whatWeNeed": "What we need from you",
-    "howLong": "How long it takes",
-    "included": "What is included",
-    "notIncluded": "Assessed separately",
-    "step": "Step",
-    "estimated": "Estimated time",
-    "youProvide": "What you provide",
-    "disclaimerTimes": "The times given are typical ranges; they can change depending on how quickly the authorities, the airline and the consulate process each step. An autopsy, a judicial procedure or a public holiday will extend them.",
-    "disclaimerCost": "Costs are usually covered by the family, an insurer or the funeral fund the deceased belonged to. We check the cover together in the first call; a written quote is free of charge.",
-    "languagesNote": "Phone support in Turkish and English; written support via WhatsApp in other languages.",
-    "verifiedOnly": "This site only contains information that can be documented.",
-    "download": "Download",
-    "readMore": "Read more",
-    "backToList": "Back to the list",
-    "publishedOn": "Published on",
-    "updatedOn": "Updated"
+    "whatsappMessage": "Bonjour, je souhaiterais obtenir des informations sur le rapatriement funéraire.",
+    "requestQuote": "Demander un devis",
+    "learnMore": "Détails",
+    "readGuide": "Lire le guide",
+    "allCountries": "Tous les pays",
+    "contactUs": "Nous contacter",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "address": "Adresse",
+    "hours": "Heures d'ouverture",
+    "hoursValue": "24 heures sur 24, 7 jours sur 7",
+    "openInMaps": "Ouvrir dans Maps",
+    "breadcrumbHome": "Accueil",
+    "whatToExpect": "Déroulement",
+    "whatWeNeed": "Ce dont nous avons besoin",
+    "howLong": "Durée",
+    "included": "Ce qui est inclus",
+    "notIncluded": "Évalué séparément",
+    "step": "Étape",
+    "estimated": "Durée estimée",
+    "youProvide": "Ce que vous fournissez",
+    "disclaimerTimes": "Les délais indiqués sont des fourchettes habituelles ; ils peuvent varier selon la rapidité avec laquelle les autorités, la compagnie aérienne et le consulat traitent chaque étape. Une autopsie, une procédure judiciaire ou un jour férié peuvent prolonger ces délais.",
+    "disclaimerCost": "Les frais sont généralement pris en charge par la famille, un assureur ou la caisse funéraire à laquelle le défunt était affilié. Nous vérifions ensemble la couverture lors du premier appel ; le devis écrit est gratuit.",
+    "languagesNote": "Assistance téléphonique en turc et en anglais ; assistance écrite par WhatsApp dans d'autres langues.",
+    "verifiedOnly": "Ce site contient uniquement des informations pouvant être documentées.",
+    "download": "Télécharger",
+    "readMore": "Lire la suite",
+    "backToList": "Retour à la liste",
+    "publishedOn": "Publié le",
+    "updatedOn": "Mis à jour"
   },
   "home": {
-    "heroEyebrow": "International funeral repatriation, based in Istanbul",
-    "heroTitle": "Funeral Repatriation from Turkey to the World, and from the World to Turkey",
-    "heroSubtitle": "We coordinate the documents, consulate, embalming and air cargo from a single point of contact. You can reach us day and night; in the first call we explain clearly what will happen, what we will need from you and how long it is likely to take.",
-    "trust1": "Phone and WhatsApp, 24/7",
-    "trust2": "Single point of contact",
-    "trust3": "Refrigerated transfer vehicle",
-    "pathsTitle": "How can we help?",
-    "pathsSubtitle": "Choose the route that fits your situation; each page sets out the process, the documents required and the estimated time.",
-    "path1Title": "From Turkey abroad",
-    "path1Text": "A relative has died in Turkey and you want to bring them home.",
-    "path2Title": "From abroad to Turkey",
-    "path2Text": "A relative has died abroad and you want to bring them to Turkey for burial.",
-    "path3Title": "Transit between countries",
-    "path3Text": "The deceased is being transferred from one country to another via Istanbul.",
-    "urgentTitle": "Has your relative just died?",
-    "urgentText": "Take a moment. The first three things to do:",
-    "urgent1": "If the death occurred in hospital, ask for the death certificate to be issued; if at home, call 112.",
-    "urgent2": "Keep the deceased's ID card or passport to hand.",
-    "urgent3": "Call us; we will take you through the rest step by step.",
-    "urgentCta": "Step-by-step guide",
-    "processTitle": "How the process works",
-    "processSubtitle": "Seven steps. At each one we tell you what we need from you and how long it usually takes.",
-    "supportTitle": "Supporting services",
-    "support1Title": "Documents and consulate",
-    "support1Text": "Death certificate, multilingual death certificate extract (Formule C), burial transit permit, consular approval.",
-    "support2Title": "Embalming and coffin",
-    "support2Text": "Sealed (zinc-lined) coffin suitable for air transport, and the embalming certificate.",
-    "support3Title": "Airline and customs",
-    "support3Text": "Cargo booking and air waybill through IATA-accredited agents.",
+    "heroEyebrow": "Rapatriement funéraire international, basé à Istanbul",
+    "heroTitle": "Rapatriement funéraire de la Turquie vers le monde et du monde vers la Turquie",
+    "heroSubtitle": "Nous coordonnons les documents, le consulat, les soins funéraires et le fret aérien avec un interlocuteur unique. Vous pouvez nous joindre jour et nuit ; lors du premier appel, nous vous expliquons clairement ce qui va se passer, ce dont nous aurons besoin et combien de temps cela devrait prendre.",
+    "trust1": "Téléphone et WhatsApp, 24 h/24 et 7 j/7",
+    "trust2": "Un interlocuteur unique",
+    "trust3": "Véhicule de transfert réfrigéré",
+    "pathsTitle": "Comment pouvons-nous vous aider ?",
+    "pathsSubtitle": "Choisissez l'itinéraire correspondant à votre situation ; chaque page présente le processus, les documents nécessaires et le délai estimé.",
+    "path1Title": "De la Turquie vers l'étranger",
+    "path1Text": "Un proche est décédé en Turquie et vous souhaitez le rapatrier dans son pays.",
+    "path2Title": "De l'étranger vers la Turquie",
+    "path2Text": "Un proche est décédé à l'étranger et vous souhaitez le ramener en Turquie pour y être inhumé.",
+    "path3Title": "Transit entre pays",
+    "path3Text": "Le défunt est transféré d'un pays à un autre via Istanbul.",
+    "urgentTitle": "Votre proche vient de décéder ?",
+    "urgentText": "Prenez un moment. Voici les trois premières choses à faire :",
+    "urgent1": "Si le décès a eu lieu à l'hôpital, demandez l'établissement du certificat de décès ; s'il a eu lieu à domicile, appelez le 112.",
+    "urgent2": "Gardez à portée de main la carte d'identité ou le passeport du défunt.",
+    "urgent3": "Appelez-nous ; nous vous guiderons ensuite étape par étape.",
+    "urgentCta": "Guide étape par étape",
+    "processTitle": "Comment se déroule le processus",
+    "processSubtitle": "Sept étapes. À chacune d'elles, nous vous indiquons ce dont nous avons besoin et le délai habituel.",
+    "supportTitle": "Services complémentaires",
+    "support1Title": "Documents et consulat",
+    "support1Text": "Certificat de décès, extrait plurilingue du certificat de décès (Formule C), permis de transport funéraire, autorisation consulaire.",
+    "support2Title": "Soins funéraires et cercueil",
+    "support2Text": "Cercueil scellé (doublé de zinc) adapté au transport aérien et certificat de soins funéraires.",
+    "support3Title": "Compagnie aérienne et douanes",
+    "support3Text": "Réservation du fret et lettre de transport aérien par l'intermédiaire d'agents agréés IATA.",
     "support4Title": "Domestic transfer",
-    "support4Text": "Intercity transfer in a refrigerated vehicle and burial coordination.",
-    "countriesTitle": "Countries we serve",
-    "countriesSubtitle": "Each country has its own page with the process, documents and points to note. For a country not listed, call us; we confirm what is possible in the first call.",
-    "whyTitle": "Why Doğu Batı?",
+    "support4Text": "Transfert interurbain dans un véhicule réfrigéré et coordination de l'inhumation.",
+    "countriesTitle": "Pays que nous desservons",
+    "countriesSubtitle": "Chaque pays dispose d'une page présentant le processus, les documents et les points à connaître. Pour un pays non répertorié, appelez-nous ; nous vous confirmerons les possibilités dès le premier appel.",
+    "whyTitle": "Pourquoi Doğu Batı ?",
     "why1Title": "One point of contact",
-    "why1Text": "We deal with the hospital, prosecutor's office, civil registry, consulate, airline and customs; you speak to one person.",
+    "why1Text": "Nous traitons avec l'hôpital, le parquet, l'état civil, le consulat, la compagnie aérienne et les douanes ; vous échangez avec une seule personne.",
     "why2Title": "Clear information",
-    "why2Text": "At every step we tell you in advance what will happen, what we need from you and the estimated time. A written quote is free of charge.",
+    "why2Text": "À chaque étape, nous vous indiquons à l'avance ce qui va se passer, ce dont nous avons besoin et le délai estimé. Le devis écrit est gratuit.",
     "why3Title": "Cold chain",
-    "why3Text": "The deceased is collected in a refrigerated vehicle and the cold chain is maintained until departure.",
-    "why4Title": "Experience with families from abroad",
-    "why4Text": "We handle funeral arrangements for tourists, medical travellers and foreign nationals living in Turkey; we correspond in English and Russian.",
-    "partnersTitle": "Your partner in Istanbul for insurers, assistance companies and funeral directors",
-    "partnersText": "We work with hospitals, consulates, insurers and assistance companies. We have a dedicated corporate line for airport collection, domestic transfer, document handling and burial coordination.",
-    "partnersCta": "Corporate page",
-    "faqTitle": "Frequently asked questions",
-    "faqCta": "All questions",
-    "contactTitle": "Contact us",
-    "contactText": "Our phone and WhatsApp line is open day and night. If you fill in the form, we will call you back as soon as possible.",
-    "reviewsTitle": "What families and partners say",
-    "reviewsSubtitle": "Only reviews given with permission and that can be verified are published.",
-    "factsFounded": "Year founded",
-    "factsTransfers": "Repatriations completed",
-    "factsCountries": "Countries served"
+    "why3Text": "Le défunt est pris en charge dans un véhicule réfrigéré et la chaîne du froid est maintenue jusqu'au départ.",
+    "why4Title": "Expérience avec les familles vivant à l'étranger",
+    "why4Text": "Nous organisons les services funéraires pour les touristes, les voyageurs médicaux et les ressortissants étrangers vivant en Turquie ; nous correspondons en anglais et en russe.",
+    "partnersTitle": "Votre partenaire à Istanbul pour les assureurs, sociétés d'assistance et entreprises de pompes funèbres",
+    "partnersText": "Nous travaillons avec les hôpitaux, les consulats, les assureurs et les sociétés d'assistance. Nous disposons d'une ligne dédiée aux entreprises pour la prise en charge à l'aéroport, les transferts nationaux, les documents et la coordination de l'inhumation.",
+    "partnersCta": "Page entreprises",
+    "faqTitle": "Questions fréquemment posées",
+    "faqCta": "Toutes les questions",
+    "contactTitle": "Nous contacter",
+    "contactText": "Notre ligne téléphonique et WhatsApp est ouverte jour et nuit. Si vous remplissez le formulaire, nous vous rappellerons dès que possible.",
+    "reviewsTitle": "Ce que disent les familles et nos partenaires",
+    "reviewsSubtitle": "Seuls les avis publiés avec autorisation et pouvant être vérifiés sont publiés.",
+    "factsFounded": "Année de création",
+    "factsTransfers": "Rapatriements effectués",
+    "factsCountries": "Pays desservis"
   },
   "process": {
     "steps": [
       {
-        "title": "First call and information",
-        "text": "When you call, we ask where the death occurred, the nationality of the deceased and where the deceased is to be taken. In the same call we explain the process and the estimated time.",
-        "need": "Place of death, the deceased's ID or passport details, phone number of the relative we should contact",
-        "time": "Same day"
+        "title": "Premier appel et informations",
+        "text": "Lors de votre appel, nous vous demandons où le décès a eu lieu, la nationalité du défunt et où il doit être transféré. Au cours du même appel, nous vous expliquons le processus et le délai estimé.",
+        "need": "Lieu du décès, informations figurant sur la pièce d'identité ou le passeport du défunt, numéro de téléphone du proche à contacter",
+        "time": "Le jour même"
       },
       {
-        "title": "Death certificate and official procedures",
-        "text": "The death certificate is obtained from the hospital or the municipal physician. If the case is judicial, the prosecutor's procedure and, where required, the autopsy are followed up.",
-        "need": "The deceased's ID card or passport",
-        "time": "Usually 1 day; longer if there is a judicial procedure"
+        "title": "Certificat de décès et démarches officielles",
+        "text": "Le certificat de décès est obtenu auprès de l'hôpital ou du médecin municipal. Si le décès fait l'objet d'une procédure judiciaire, nous suivons la procédure du parquet et, si nécessaire, l'autopsie.",
+        "need": "Carte d'identité ou passeport du défunt",
+        "time": "Généralement 1 jour ; plus long en cas de procédure judiciaire"
       },
       {
-        "title": "Collection of the deceased and cold chain",
-        "text": "The deceased is collected from the place of death in our refrigerated vehicle and taken to the mortuary to be prepared for transfer.",
+        "title": "Prise en charge du défunt et chaîne du froid",
+        "text": "Le défunt est pris en charge sur le lieu du décès dans notre véhicule réfrigéré puis conduit à la morgue pour être préparé au transfert.",
         "need": "Proof of kinship or a power of attorney authorising release",
-        "time": "Same day, once the certificate is ready"
+        "time": "Le jour même, dès que le certificat est prêt"
       },
       {
-        "title": "Preparation: washing, embalming, coffin",
-        "text": "Washing and shrouding are carried out according to the deceased's faith and denomination. Embalming is performed for international transfer and a sealed coffin suitable for air transport is prepared.",
-        "need": "Brief information on the family's religious preferences",
+        "title": "Préparation : toilette, soins funéraires et cercueil",
+        "text": "La toilette et la mise en linceul sont effectuées selon la foi et la confession du défunt. Les soins funéraires sont réalisés pour le transfert international et un cercueil scellé adapté au transport aérien est préparé.",
+        "need": "Brèves informations sur les souhaits religieux de la famille",
         "time": "Usually 1 day"
       },
       {
-        "title": "Consular and transfer documents",
-        "text": "The multilingual death certificate extract (Formule C), burial transit permit, embalming certificate and the consular approval of the destination country are obtained.",
-        "need": "Power of attorney if required; details of the person receiving the deceased in the destination country",
-        "time": "Usually 1-3 working days; depends on the consulate"
+        "title": "Documents consulaires et de transfert",
+        "text": "L'extrait plurilingue du certificat de décès (Formule C), le permis de transport funéraire, le certificat de soins funéraires et l'autorisation consulaire du pays de destination sont obtenus.",
+        "need": "Procuration si nécessaire ; coordonnées de la personne qui recevra le défunt dans le pays de destination",
+        "time": "Généralement 1 à 3 jours ouvrables ; selon le consulat"
       },
       {
-        "title": "Airline booking and customs",
-        "text": "The cargo booking is made through an IATA-accredited agent, the air waybill is issued and customs clearance is completed. If an accompanying relative needs a ticket, we can help.",
-        "need": "Destination airport and details of the receiving funeral director or person",
-        "time": "1-2 days, depending on flight availability"
+        "title": "Réservation aérienne et douanes",
+        "text": "La réservation du fret est effectuée par l'intermédiaire d'un agent agréé IATA, la lettre de transport aérien est établie et le dédouanement est effectué. Si un proche accompagnant a besoin d'un billet, nous pouvons vous aider.",
+        "need": "Aéroport de destination et coordonnées de l'entreprise de pompes funèbres ou de la personne qui recevra le défunt",
+        "time": "1 à 2 jours, selon les disponibilités des vols"
       },
       {
-        "title": "Handover and burial coordination",
-        "text": "At the destination airport the deceased is handed over to the person or funeral director appointed by the family. For arrivals in Turkey, we coordinate the burial place and the municipal procedures.",
-        "need": "Preferred burial place",
-        "time": "Day of arrival"
+        "title": "Remise et coordination de l'inhumation",
+        "text": "À l'aéroport de destination, le défunt est remis à la personne ou à l'entreprise de pompes funèbres désignée par la famille. Pour les arrivées en Turquie, nous coordonnons le lieu d'inhumation et les démarches municipales.",
+        "need": "Lieu d'inhumation souhaité",
+        "time": "Le jour de l'arrivée"
       }
     ]
   },
@@ -201,7 +201,7 @@
       ],
       "time": "Usually 2-4 days if the documents are complete. A judicial procedure, an autopsy, consular working days and flight availability can extend this.",
       "included": [
-        "Collection of the deceased and cold chain",
+        "Prise en charge du défunt et chaîne du froid",
         "Washing and shrouding (if requested), embalming and the embalming certificate",
         "Sealed coffin for international transfer",
         "Death certificate, Formule C and burial transit permit",
@@ -357,13 +357,13 @@
     },
     "countries": {
       "title": "Countries We Serve",
-      "description": "Funeral repatriation country by country: process, documents, consulate and points to note. Germany, United Kingdom, Russia, Iran, Iraq, Azerbaijan, Netherlands.",
-      "intro": "We have set out the transfer process for the countries below on separate pages. For a country not listed, call us; we confirm what is possible and the process in the first call.",
+      "description": "Rapatriement funéraire country par country: processus, documents, consulat et points vers note. Germany, United Kingdom, Russia, Iran, Iraq, Azerbaijan, Netherlands.",
+      "intro": "We have set out le transfer processus pour le countries below sur separate pages. For un country not listed, appelez-nous; we confirmer what est possible et le processus en le first call.",
       "notListed": "Not listed?",
-      "notListedText": "Call us; we will confirm what is possible in the first call.",
-      "sectionProcess": "Process for this country",
+      "notListedText": "Appelez-nous; we will confirmer what est possible en le first call.",
+      "sectionProcess": "Process pour this country",
       "sectionDocs": "Documents",
-      "sectionNotes": "Points to note"
+      "sectionNotes": "Points vers note"
     },
     "coffins": {
       "title": "Coffins and Preparation",
@@ -647,426 +647,426 @@
       "relatedTitle": "Related pages"
     },
     "tracking": {
-      "title": "Case Tracking",
-      "description": "Check the current status of your funeral repatriation case with your tracking code.",
-      "intro": "Enter the tracking code you were given to see which stage your case has reached. If you do not have a code or the status is out of date, call us.",
-      "codeLabel": "Tracking code",
-      "codePlaceholder": "e.g. DB-2026-0142",
-      "submit": "Check status",
-      "notFound": "No case was found with this code. Check the code or call us.",
-      "routeLabel": "Route",
-      "statusLabel": "Status",
-      "updatedLabel": "Last updated",
-      "historyLabel": "History",
+      "title": "Suivi du dossier",
+      "description": "Consultez l'état actuel de votre dossier de rapatriement funéraire à l'aide de votre code de suivi.",
+      "intro": "Saisissez le code de suivi qui vous a été communiqué pour connaître l'étape à laquelle se trouve votre dossier. Si vous n'avez pas de code ou si le statut n'est plus à jour, appelez-nous.",
+      "codeLabel": "Code de suivi",
+      "codePlaceholder": "ex. DB-2026-0142",
+      "submit": "Vérifier le statut",
+      "notFound": "Aucun dossier n'a été trouvé avec ce code. Vérifiez le code ou appelez-nous.",
+      "routeLabel": "Itinéraire",
+      "statusLabel": "Statut",
+      "updatedLabel": "Dernière mise à jour",
+      "historyLabel": "Historique",
       "statuses": {
-        "received": "Case opened",
-        "documents": "Documents being prepared",
-        "preparation": "Deceased being prepared",
-        "consulate": "Consular and transit documents",
-        "flight": "Flight booked / in transit",
-        "delivered": "Delivered"
+        "received": "Dossier ouvert",
+        "documents": "Documents en préparation",
+        "preparation": "Défunt en cours de préparation",
+        "consulate": "Documents consulaires et de transfert",
+        "flight": "Vol réservé / en transit",
+        "delivered": "Remis"
       },
-      "privacyNote": "No personal data is shown on this page; only the case code, the route and the current stage are displayed."
+      "privacyNote": "Aucune donnée personnelle n'est affichée sur cette page ; seuls le code du dossier, l'itinéraire et l'étape actuelle sont affichés."
     }
   },
   "countries": {
     "germany": {
       "slug": "germany",
-      "name": "Germany",
-      "title": "Germany - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation from Germany to Turkey and from Turkey to Germany: funeral fund, consulate, airport collection, burial coordination.",
-      "intro": "Germany - Turkey is one of the busiest funeral repatriation routes. Turkish families living in Germany are usually members of a funeral fund; in that case the fund's contracted funeral director in Germany carries out the transfer as far as Turkey. We take over collection in Istanbul, transfer to the city of burial and the municipal procedures. We also repatriate residents of Germany who die in Turkey.",
+      "name": "Allemagne",
+      "title": "Allemagne - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire depuis Germany vers Turkey et depuis Turkey vers Germany: caisse funéraire, consulat, aéroport collection, inhumation coordination.",
+      "intro": "Germany - Turkey est l'un des le busiest funeral repatriation routes. Turkish families living en Germany sont généralement members de un caisse funéraire; en that case le fund's partenaire entreprise de pompes funèbres en Germany carries out le transfer as far as Turkey. We take over collection en Istanbul, transfer vers le ville d'inhumation et le municipal procedures. We also repatriate residents de Germany qui décèdent en Turquie.",
       "process": [
-        "From Germany to Turkey: we exchange flight and document details with the funeral director or fund in Germany; we receive the deceased at Istanbul Airport, transfer them to the city and coordinate the burial.",
-        "From Turkey to Germany: the death certificate, the multilingual death certificate extract (Formule C), the embalming certificate and the burial transit permit are issued; a handover plan is agreed with the funeral director in Germany and the deceased is sent by air cargo."
+        "From Germany vers Turkey: we exchange vol et document details avec le entreprise de pompes funèbres ou fund en Germany; we receive le défunt à Istanbul Aéroport, transfer them vers le city et coordinate le inhumation.",
+        "From Turkey vers Germany: le certificat de décès, le multilingual certificat de décès extract (Formule C), le soins funéraires certificate et le permis de transport funéraire sont issued; un remise plan est convenu avec le entreprise de pompes funèbres en Germany et le défunt est envoyé par fret aérien."
       ],
       "documents": [
-        "For a deceased arriving from Germany: the German death certificate (Sterbeurkunde) and the Turkish consulate's transfer document",
-        "For a deceased leaving Turkey: Formule C, embalming certificate, burial transit permit and a letter of acceptance from the funeral director in Germany"
+        "Pour un défunt arrivant depuis Germany: le German certificat de décès (Sterbeurkunde) et le Turkish consulat's transfer document",
+        "Pour un défunt quittant Turkey: Formule C, soins funéraires certificate, permis de transport funéraire et un lettre d'acceptation depuis le entreprise de pompes funèbres en Germany"
       ],
       "notes": [
-        "If there is a funeral fund membership in Germany, call the fund first; its contracted funeral director starts the transfer. We handle the domestic transfer and burial that fall outside the cover.",
-        "We work together with Turkish funeral directors in Germany; we act as the single point of contact for airport handover and burial."
+        "If there est un caisse funéraire membership en Germany, call le fund first; its partenaire entreprise de pompes funèbres starts le transfer. Nous prenons en charge le transfert national et inhumation that fall hors couverture.",
+        "Nous travaillons together avec Turkish entreprises de pompes funèbres en Germany; we act as le interlocuteur unique pour aéroport remise et inhumation."
       ]
     },
     "united-kingdom": {
       "slug": "united-kingdom",
-      "name": "United Kingdom",
-      "title": "United Kingdom - Turkey Funeral Repatriation",
-      "description": "Repatriation of British nationals who have died in Turkey, and funeral transfer from the United Kingdom to Turkey: insurance, consulate, documents.",
-      "intro": "We repatriate British nationals who die in Turkey on holiday or during medical treatment, and bring relatives who die in the United Kingdom to Turkey. Travel insurance often covers the cost of repatriation; we correspond directly with the insurer and assistance company.",
+      "name": "Royaume-Uni",
+      "title": "Royaume-Uni - Rapatriement funéraire Turquie",
+      "description": "Rapatriement des British ressortissants décédés en Turquie, et transfert funéraire depuis le United Kingdom vers Turkey: assurance, consulat, documents.",
+      "intro": "Nous rapatrions British nationals qui décèdent en Turquie sur holiday ou pendant traitement médical, et bring relatives qui décèdent en le United Kingdom vers Turkey. Travel assurance often covers le coût de repatriation; we correspond directly avec le assureur et assistance company.",
       "process": [
-        "From Turkey to the United Kingdom: the death certificate and the multilingual death certificate extract (Formule C) are issued, embalming is performed, a sealed coffin is prepared, the necessary correspondence with the British consulate is completed and the deceased is sent by air cargo.",
-        "From the United Kingdom to Turkey: documents and the flight plan are agreed with the funeral director there; we receive the deceased in Istanbul and coordinate the transfer and burial."
+        "From Turkey vers le United Kingdom: le certificat de décès et le multilingual certificat de décès extract (Formule C) sont issued, soins funéraires est performed, un cercueil scellé est préparé, le necessary correspondence avec le British consulat est completed et le défunt est envoyé par fret aérien.",
+        "From le United Kingdom vers Turkey: documents et le vol plan sont convenu avec le entreprise de pompes funèbres there; we receive le défunt en Istanbul et coordinate le transfer et inhumation."
       ],
       "documents": [
-        "Death certificate issued in Turkey, with English translation",
-        "Formule C, embalming certificate, sealed coffin report, burial transit permit",
-        "Approval from the insurer or assistance company (if applicable)"
+        "Certificat de décès issued en Turkey, avec English translation",
+        "Formule C, soins funéraires certificate, cercueil scellé report, permis de transport funéraire",
+        "Approval depuis le assureur ou assistance company (le cas échéant)"
       ],
       "notes": [
-        "A funeral director in the United Kingdom must be appointed to receive the deceased; if you wish, we identify one together with your insurer.",
-        "The British Embassy publishes guidance on what to do after a death in Turkey; we follow that guidance."
+        "A entreprise de pompes funèbres en le United Kingdom doit être appointed vers receive le défunt; si vous le souhaitez, we identify one together avec your assureur.",
+        "Le British Embassy publishes guidance sur what vers do après un death en Turkey; we follow that guidance."
       ]
     },
     "russia": {
       "slug": "russia",
-      "name": "Russia",
-      "title": "Russia - Turkey Funeral Repatriation",
-      "description": "Repatriation of Russian nationals who have died in Turkey: 'gruz 200', consulate, documents, airline.",
-      "intro": "Russia is Turkey's largest source of visitors, and there is a large Russian-speaking community living in Turkey. For the repatriation of Russian nationals who die in Turkey (known in Russian as 'gruz 200'), we handle the consular, embalming, coffin and airline procedures. We can correspond in Russian.",
+      "name": "Russie",
+      "title": "Russie - Rapatriement funéraire Turquie",
+      "description": "Rapatriement des Russian ressortissants décédés en Turquie: 'gruz 200', consulat, documents, compagnie aérienne.",
+      "intro": "Russia est Turkey's plus importants source de visitors, et there est un important Russian-speaking communauté vivant en Turquie. For le repatriation de Russian nationals qui décèdent en Turquie (known en russe as 'gruz 200'), we handle le consulaire, soins funéraires, coffin et compagnie aérienne procedures. Nous pouvons correspond en russe.",
       "process": [
-        "The death certificate and the multilingual death certificate extract (Formule C) are issued; the transfer documents are obtained from the Consulate General of Russia.",
-        "Embalming is performed, a sealed coffin is prepared and the air cargo booking is made.",
-        "Details are shared with the funeral director or relative who will receive the deceased at the destination airport in Russia."
+        "Le certificat de décès et le multilingual certificat de décès extract (Formule C) sont issued; le transfer documents sont obtenus depuis le Consulate General de Russia.",
+        "Embalming est performed, un cercueil scellé est préparé et le fret aérien booking est made.",
+        "Details sont transmis avec le entreprise de pompes funèbres ou relative who will receive le défunt à le destination aéroport en Russia."
       ],
       "documents": [
-        "The deceased's passport",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document"
+        "Passeport du défunt",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert"
       ],
       "notes": [
-        "A funeral director in the destination city may be needed for collection in Russia; we put you in touch with the firms we work with.",
-        "Flight options vary by city; on connecting flights the cold chain and document continuity are followed up."
+        "A entreprise de pompes funèbres en le ville de destination may be needed pour collection en Russia; we put you en touch avec le firms we work avec.",
+        "Flight options vary par city; sur connecting vols le cold chain et document continuity sont followed up."
       ]
     },
     "iran": {
       "slug": "iran",
       "name": "Iran",
-      "title": "Iran - Turkey Funeral Repatriation",
-      "description": "Repatriation of Iranian nationals who have died in Turkey, and funeral transfer from Iran to Turkey: consulate, documents, road and air options.",
-      "intro": "Iran is one of the countries sending the most visitors to Turkey, and there is a large Iranian community in Istanbul. For the repatriation of Iranian nationals who die in Turkey to Tehran and other cities, we handle the consular, embalming, coffin and airline procedures. Transfer by road is assessed case by case.",
+      "title": "Iran - Rapatriement funéraire Turquie",
+      "description": "Rapatriement des Iranian ressortissants décédés en Turquie, et transfert funéraire depuis Iran vers Turkey: consulat, documents, road et air options.",
+      "intro": "Iran est l'un des le countries sending le les plus visitors vers Turkey, et there est un important Iranian communauté en Istanbul. For le repatriation de Iranian nationals qui décèdent en Turquie vers Tehran et other cities, we handle le consulaire, soins funéraires, coffin et compagnie aérienne procedures. Transfer par road est assessed case par case.",
       "process": [
-        "The death certificate and the multilingual death certificate extract (Formule C) are issued; the transfer documents are obtained from the Consulate General of Iran.",
-        "Ritual washing and shrouding are carried out according to the family's denomination; embalming is performed and a sealed coffin is prepared.",
-        "The deceased is sent by air cargo to Tehran or the relevant city; the receiving relative or funeral director is informed."
+        "Le certificat de décès et le multilingual certificat de décès extract (Formule C) sont issued; le transfer documents sont obtenus depuis le Consulate General de Iran.",
+        "Ritual washing et shrouding sont effectués according vers le family's denomination; soins funéraires est performed et un cercueil scellé est préparé.",
+        "Le défunt est envoyé par fret aérien vers Tehran ou le relevant city; le proche qui recevra le défunt ou entreprise de pompes funèbres est informé."
       ],
       "documents": [
-        "The deceased's passport",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document"
+        "Passeport du défunt",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert"
       ],
       "notes": [
-        "Our Persian page is in preparation; in the meantime we can communicate in English or Turkish.",
-        "Where transfer by road is possible, we compare the two options in terms of time and cost."
+        "Our Persian page est en preparation; en le meantime we can communicate en anglais ou en turc.",
+        "Where transfer par road est possible, we compare le two options en terms de time et coût."
       ]
     },
     "iraq": {
       "slug": "iraq",
-      "name": "Iraq",
-      "title": "Iraq - Turkey Funeral Repatriation",
-      "description": "Repatriation of Iraqi nationals who have died in Turkey during treatment or a visit, to Baghdad, Erbil and other cities: consulate, documents, airline.",
-      "intro": "There is considerable travel from Iraq to Turkey for medical treatment and visits. For the repatriation of Iraqi nationals who die in Turkey to Baghdad, Erbil, Basra and other cities, we handle the hospital, consular and airline procedures from a single point of contact. Written communication is available via our Arabic page.",
+      "name": "Irak",
+      "title": "Irak - Rapatriement funéraire Turquie",
+      "description": "Rapatriement des Iraqi ressortissants décédés en Turquie pendant treatment ou un visit, à Baghdad, Erbil et other cities: consulat, documents, compagnie aérienne.",
+      "intro": "Il existe considerable déplacements depuis Iraq vers Turkey pour traitement médical et visits. For le repatriation de Iraqi nationals qui décèdent en Turquie vers Baghdad, Erbil, Basra et other cities, we handle le hôpital, consulaire et compagnie aérienne procedures depuis un interlocuteur unique. La communication écrite est possible via our Arabic page.",
       "process": [
-        "The death certificate is obtained from the hospital and the multilingual death certificate extract (Formule C) is issued; the Iraqi consulate's transfer documents are followed up.",
-        "Ritual washing, shrouding and embalming are carried out; a sealed coffin is prepared.",
-        "The air cargo booking is made; details are shared with the relative or funeral director who will receive the deceased at the destination airport."
+        "Le certificat de décès est obtenu depuis le hôpital et le multilingual certificat de décès extract (Formule C) est issued; le Iraqi consulat's transfer documents sont followed up.",
+        "Ritual washing, shrouding et soins funéraires sont effectués; un cercueil scellé est préparé.",
+        "Le fret aérien booking est made; details sont transmis avec le relative ou entreprise de pompes funèbres who will receive le défunt à le destination aéroport."
       ],
       "documents": [
-        "The deceased's passport",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document"
+        "Passeport du défunt",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert"
       ],
       "notes": [
-        "For patients who came for medical treatment, we work directly with the hospital and the intermediary agency.",
-        "Cargo availability on flights to Erbil and Baghdad can vary; we work out the most suitable option together."
+        "For patients who came pour traitement médical, we work directly avec le hôpital et le intermediary agency.",
+        "Cargo disponibilité sur vols vers Erbil et Baghdad peuvent varier; we work out le les plus suitable option together."
       ]
     },
     "azerbaijan": {
       "slug": "azerbaijan",
-      "name": "Azerbaijan",
-      "title": "Azerbaijan - Turkey Funeral Repatriation",
-      "description": "Repatriation of Azerbaijani nationals who have died in Turkey to Baku, and funeral transfer from Azerbaijan to Turkey: documents, consulate, airline.",
-      "intro": "There is considerable travel between Azerbaijan and Turkey for visits, medical treatment and residence. We repatriate Azerbaijani nationals who die in Turkey to Baku and other cities, and bring relatives who die in Azerbaijan to Turkey. We can communicate in Turkish.",
+      "name": "Azerbaïdjan",
+      "title": "Azerbaïdjan - Rapatriement funéraire Turquie",
+      "description": "Rapatriement des Azerbaijani ressortissants décédés en Turquie vers Baku, et transfert funéraire depuis Azerbaijan vers Turkey: documents, consulat, compagnie aérienne.",
+      "intro": "Il existe considerable déplacements between Azerbaijan et Turkey pour visits, traitement médical et residence. Nous rapatrions Azerbaijani nationals qui décèdent en Turquie vers Baku et other cities, et bring relatives qui décèdent en Azerbaijan vers Turkey. Nous pouvons communicate en Turkish.",
       "process": [
-        "The death certificate and the multilingual death certificate extract (Formule C) are issued; the transfer documents are obtained from the Azerbaijani consulate.",
-        "Ritual washing, shrouding and embalming are carried out; a sealed coffin is prepared.",
-        "The deceased is sent by air cargo to Baku; the receiving relative or funeral director is informed."
+        "Le certificat de décès et le multilingual certificat de décès extract (Formule C) sont issued; le transfer documents sont obtenus depuis le Azerbaijani consulat.",
+        "Ritual washing, shrouding et soins funéraires sont effectués; un cercueil scellé est préparé.",
+        "Le défunt est envoyé par fret aérien vers Baku; le proche qui recevra le défunt ou entreprise de pompes funèbres est informé."
       ],
       "documents": [
-        "The deceased's passport or ID card",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document"
+        "Passeport du défunt ou ID card",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert"
       ],
       "notes": [
-        "There are daily flights between Istanbul and Baku; if the documents are complete, the process is usually short.",
-        "When a relative who has died in Azerbaijan is brought to Turkey, a handover plan is agreed with the funeral director there."
+        "Il y un daily vols between Istanbul et Baku; si les documents sont complets, le processus est généralement short.",
+        "When un relative who has died en Azerbaijan est brought vers Turkey, un remise plan est convenu avec le entreprise de pompes funèbres there."
       ]
     },
     "netherlands": {
       "slug": "netherlands",
-      "name": "Netherlands",
-      "title": "Netherlands - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation from the Netherlands to Turkey: funeral fund and insurance, airport collection, domestic transfer and burial; transfer from Turkey to the Netherlands.",
-      "intro": "We bring the deceased to Turkey for burial for Turkish families living in the Netherlands, and repatriate residents of the Netherlands who die in Turkey. The funeral fund or insurer in the Netherlands usually carries out the transfer as far as Turkey; we take over the process from the airport.",
+      "name": "Pays-Bas",
+      "title": "Pays-Bas - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire depuis le Netherlands vers Turkey: caisse funéraire et assurance, aéroport collection, transfert national et inhumation; transfer depuis Turkey vers le Netherlands.",
+      "intro": "Nous ramenons le défunt vers Turkey pour inhumation pour Turkish families living en le Netherlands, et repatriate residents de le Netherlands qui décèdent en Turquie. Le caisse funéraire ou assureur en le Netherlands généralement carries out le transfer as far as Turkey; we take over le processus depuis le aéroport.",
       "process": [
-        "From the Netherlands to Turkey: flight and document details are exchanged with the funeral director or fund in the Netherlands; we receive the deceased in Istanbul, transfer them to the city and coordinate the burial.",
-        "From Turkey to the Netherlands: the death certificate, the multilingual death certificate extract (Formule C), the embalming certificate and the burial transit permit are issued; a handover plan is agreed with the funeral director in the Netherlands."
+        "From le Netherlands vers Turkey: vol et document details sont exchanged avec le entreprise de pompes funèbres ou fund en le Netherlands; we receive le défunt en Istanbul, transfer them vers le city et coordinate le inhumation.",
+        "From Turkey vers le Netherlands: le certificat de décès, le multilingual certificat de décès extract (Formule C), le soins funéraires certificate et le permis de transport funéraire sont issued; un remise plan est convenu avec le entreprise de pompes funèbres en le Netherlands."
       ],
       "documents": [
-        "Death certificate issued in the Netherlands and the Turkish consulate's transfer document (for a deceased arriving from the Netherlands)",
-        "Formule C, embalming certificate, burial transit permit (for a deceased leaving Turkey)"
+        "Certificat de décès issued en le Netherlands et le Turkish consulat's transfer document (pour un deceased arriving depuis le Netherlands)",
+        "Formule C, soins funéraires certificate, permis de transport funéraire (pour un deceased leaving Turkey)"
       ],
       "notes": [
-        "If there is a funeral fund membership, call the fund first; we handle the domestic transfer and burial that fall outside the cover.",
-        "We do not have a Dutch page; we can communicate in English or Turkish."
+        "If there est un caisse funéraire membership, call le fund first; we handle le transfert national et inhumation that fall hors couverture.",
+        "We do not have un Dutch page; we can communicate en anglais ou en turc."
       ]
     },
     "saudi-arabia": {
       "slug": "saudi-arabia",
-      "name": "Saudi Arabia",
-      "title": "Saudi Arabia - Turkey Funeral Repatriation",
-      "description": "Repatriation to Turkey of relatives who die in Saudi Arabia, and funeral repatriation from Turkey to Jeddah and Riyadh: consulate, documents, airline.",
-      "intro": "There is considerable travel between Saudi Arabia and Turkey for Hajj, Umrah, work and visits. Those who die during Hajj or Umrah are usually buried there; when the family asks for repatriation to Turkey, the process is carried out with the Saudi authorities and the Turkish consulate. We cover bringing Turkish citizens who work or live in Saudi Arabia back to Turkey, and repatriating Saudi nationals who die in Turkey to Jeddah, Riyadh and other cities.",
+      "name": "Arabie saoudite",
+      "title": "Arabie saoudite - Rapatriement funéraire Turquie",
+      "description": "Repatriation vers Turkey de relatives qui décèdent en Saudi Arabia, et funeral repatriation depuis Turkey vers Jeddah et Riyadh: consulat, documents, compagnie aérienne.",
+      "intro": "Il existe considerable déplacements between Saudi Arabia et Turkey pour Hajj, Umrah, work et visits. Those who die pendant Hajj ou Umrah sont généralement inhumé there; when le family asks pour repatriation vers Turkey, le processus est effectué avec le Saudi authorities et le Turkish consulat. We cover bringing Turkish citizens who work ou live en Saudi Arabia back vers Turkey, et repatriating Saudi nationals qui décèdent en Turquie vers Jeddah, Riyadh et other cities.",
       "process": [
-        "From Saudi Arabia to Turkey: the documents and flight plan are arranged with the funeral director, employer or relative there; the Turkish consulate's transfer document is obtained. We receive the deceased in Istanbul, transfer them to the city and coordinate the burial.",
-        "From Turkey to Saudi Arabia: the death certificate and the multilingual death certificate extract (Formule C) are issued; the Saudi consulate's transfer documents are obtained. Ritual washing, shrouding and embalming are carried out, a sealed coffin is prepared and the deceased is sent by air cargo to Jeddah or Riyadh."
+        "From Saudi Arabia vers Turkey: le documents et vol plan sont arranged avec le entreprise de pompes funèbres, employeur ou relative there; le Turkish consulat's transfer document est obtenu. Nous recevons le défunt en Istanbul, transfer them vers le city et coordinate le inhumation.",
+        "From Turkey vers Saudi Arabia: le certificat de décès et le multilingual certificat de décès extract (Formule C) sont issued; le Saudi consulat's transfer documents sont obtenus. Ritual washing, shrouding et soins funéraires sont effectués, un cercueil scellé est préparé et le défunt est envoyé par fret aérien vers Jeddah ou Riyadh."
       ],
       "documents": [
-        "The deceased's passport",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document"
+        "Passeport du défunt",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert"
       ],
       "notes": [
-        "If repatriation to Turkey is requested for someone who dies during Hajj or Umrah, contact is made with the group leader and the Turkish consulate; what is possible depends on the decision of the local authorities.",
-        "There are direct flights from Istanbul to Jeddah and Riyadh; for other cities the flight options vary by city."
+        "If repatriation vers Turkey est requested pour someone who dies pendant Hajj ou Umrah, contact est made avec le group leader et le Turkish consulat; what est possible depends sur le decision de le local authorities.",
+        "Il y un direct vols depuis Istanbul vers Jeddah et Riyadh; pour other cities le vol options vary par city."
       ]
     },
     "kazakhstan": {
       "slug": "kazakhstan",
       "name": "Kazakhstan",
-      "title": "Kazakhstan - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation to Kazakhstan: repatriation of Kazakh nationals who die in Turkey to Almaty and Astana; consulate, documents, airline.",
-      "intro": "There is considerable travel between Kazakhstan and Turkey for trade, education, medical treatment and residence, and there is a Kazakh community living in Istanbul. We repatriate Kazakh nationals who die in Turkey to Almaty, Astana and other cities, and bring relatives who die in Kazakhstan back to Turkey. Communication is available in Turkish and Russian.",
+      "title": "Kazakhstan - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire vers Kazakhstan: repatriation de Kazakh nationals qui décèdent en Turquie vers Almaty et Astana; consulat, documents, compagnie aérienne.",
+      "intro": "Il existe considerable déplacements between Kazakhstan et Turkey pour trade, education, traitement médical et residence, et there est un Kazakh communauté vivant à Istanbul. Nous rapatrions Kazakh nationals qui décèdent en Turquie vers Almaty, Astana et other cities, et bring relatives qui décèdent en Kazakhstan back vers Turkey. La communication est possible en turc et en russe.",
       "process": [
-        "The death certificate and the multilingual death certificate extract (Formule C) are issued; the Kazakh consulate's transfer documents are obtained.",
-        "Ritual washing, shrouding and embalming are carried out; a sealed coffin is prepared.",
-        "The deceased is sent by air cargo to Almaty or Astana; the relative or funeral director who will receive them at the destination airport is informed."
+        "Le certificat de décès et le multilingual certificat de décès extract (Formule C) sont issued; le Kazakh consulat's transfer documents sont obtenus.",
+        "Ritual washing, shrouding et soins funéraires sont effectués; un cercueil scellé est préparé.",
+        "Le défunt est envoyé par fret aérien vers Almaty ou Astana; le relative ou entreprise de pompes funèbres who will receive them à le destination aéroport est informé."
       ],
       "documents": [
-        "The deceased's passport",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document"
+        "Passeport du défunt",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert"
       ],
       "notes": [
-        "There are direct flights from Istanbul to Almaty and Astana; for other cities, connecting options are considered.",
-        "A funeral director in the destination city may be needed for collection in Kazakhstan; we put you in touch with the funeral directors we work with."
+        "Il y un direct vols depuis Istanbul vers Almaty et Astana; pour other cities, connecting options sont considered.",
+        "A entreprise de pompes funèbres en le ville de destination may be needed pour collection en Kazakhstan; we put you en touch avec le entreprises de pompes funèbres we work avec."
       ]
     },
     "uzbekistan": {
       "slug": "uzbekistan",
-      "name": "Uzbekistan",
-      "title": "Uzbekistan - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation to Uzbekistan: repatriation of Uzbek nationals who die in Turkey to Tashkent and other cities; consulate, documents, airline.",
-      "intro": "There is considerable travel from Uzbekistan to Turkey for work, education, trade and medical treatment, and the Uzbek community living in Istanbul is large. For the repatriation of Uzbek nationals who die in Turkey to Tashkent and other cities, we handle the consular, embalming, coffin and airline procedures. Communication is available in Turkish and Russian.",
+      "name": "Ouzbékistan",
+      "title": "Ouzbékistan - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire vers Uzbekistan: repatriation de Uzbek nationals qui décèdent en Turquie vers Tashkent et other cities; consulat, documents, compagnie aérienne.",
+      "intro": "Il existe considerable déplacements depuis Uzbekistan vers Turkey pour work, education, trade et traitement médical, et le Uzbek communauté vivant à Istanbul est important. For le repatriation de Uzbek nationals qui décèdent en Turquie vers Tashkent et other cities, we handle le consulaire, soins funéraires, coffin et compagnie aérienne procedures. La communication est possible en turc et en russe.",
       "process": [
-        "The death certificate and the multilingual death certificate extract (Formule C) are issued; the Uzbek consulate's transfer documents are obtained.",
-        "Ritual washing, shrouding and embalming are carried out; a sealed coffin is prepared.",
-        "The deceased is sent by air cargo to Tashkent or the relevant city; the relative or funeral director who will receive them is informed."
+        "Le certificat de décès et le multilingual certificat de décès extract (Formule C) sont issued; le Uzbek consulat's transfer documents sont obtenus.",
+        "Ritual washing, shrouding et soins funéraires sont effectués; un cercueil scellé est préparé.",
+        "Le défunt est envoyé par fret aérien vers Tashkent ou le relevant city; le relative ou entreprise de pompes funèbres who will receive them est informé."
       ],
       "documents": [
-        "The deceased's passport",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document"
+        "Passeport du défunt",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert"
       ],
       "notes": [
-        "There are direct flights from Istanbul to Tashkent; for other cities the flight options vary by city.",
-        "For Uzbek nationals working in Turkey, the documents and costs are planned together with the employer or relatives."
+        "Il y un direct vols depuis Istanbul vers Tashkent; pour other cities le vol options vary par city.",
+        "For Uzbek nationals working en Turkey, le documents et frais sont planifié together avec le employeur ou relatives."
       ]
     },
     "turkmenistan": {
       "slug": "turkmenistan",
-      "name": "Turkmenistan",
-      "title": "Turkmenistan - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation to Turkmenistan: repatriation of Turkmen nationals who die in Turkey to Ashgabat; consulate, documents, airline, communication in Russian.",
-      "intro": "Nationals of Turkmenistan come to Turkey for education, medical treatment and work, and there is a settled Turkmen community in Turkey. For the repatriation of Turkmen nationals who die in Turkey to Ashgabat and other cities, we handle the consular, embalming, coffin and airline procedures. Communication is available in Turkish and Russian.",
+      "name": "Turkménistan",
+      "title": "Turkménistan - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire vers Turkmenistan: repatriation de Turkmen nationals qui décèdent en Turquie vers Ashgabat; consulat, documents, compagnie aérienne, communication en russe.",
+      "intro": "Nationals de Turkmenistan come vers Turkey pour education, traitement médical et work, et there est un settled Turkmen communauté en Turkey. For le repatriation de Turkmen nationals qui décèdent en Turquie vers Ashgabat et other cities, we handle le consulaire, soins funéraires, coffin et compagnie aérienne procedures. La communication est possible en turc et en russe.",
       "process": [
-        "The death certificate and the multilingual death certificate extract (Formule C) are issued; the Turkmen consulate's transfer documents are obtained.",
-        "Ritual washing, shrouding and embalming are carried out; a sealed coffin is prepared.",
-        "The deceased is sent by air cargo to Ashgabat; the relative or funeral director who will receive them at the destination airport is informed."
+        "Le certificat de décès et le multilingual certificat de décès extract (Formule C) sont issued; le Turkmen consulat's transfer documents sont obtenus.",
+        "Ritual washing, shrouding et soins funéraires sont effectués; un cercueil scellé est préparé.",
+        "Le défunt est envoyé par fret aérien vers Ashgabat; le relative ou entreprise de pompes funèbres who will receive them à le destination aéroport est informé."
       ],
       "documents": [
-        "The deceased's passport",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document"
+        "Passeport du défunt",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert"
       ],
       "notes": [
-        "Flight and cargo availability between Istanbul and Ashgabat can be limited; the booking and the document timeline are planned together.",
-        "The document requirements of the Turkmen consulate can change with current practice; we confirm the list before starting."
+        "Flight et cargo disponibilité between Istanbul et Ashgabat peut être limited; le booking et le document timeline sont planifié together.",
+        "Le document exigences de le Turkmen consulat can change avec pratique actuelle; we confirmer le list avant starting."
       ]
     },
     "syria": {
       "slug": "syria",
-      "name": "Syria",
-      "title": "Syria - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation to Syria: repatriation of Syrians who die in Turkey, road transfer and border crossing procedures, documents, communication in Arabic.",
-      "intro": "There is a large Syrian community living in Istanbul and across Turkey. For the repatriation of Syrian nationals who die in Turkey, we handle the death certificate, embalming, coffin and transit permit procedures. The transfer is usually made by road; which border crossing is used and the crossing procedures depend on the current situation. Written communication is available in Arabic.",
+      "name": "Syrie",
+      "title": "Syrie - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire vers Syria: repatriation de Syrians qui décèdent en Turquie, transfert routier et poste-frontière procedures, documents, communication en arabe.",
+      "intro": "Il existe un important Syrian communauté vivant à Istanbul et across Turkey. For le repatriation de Syrian nationals qui décèdent en Turquie, we handle le certificat de décès, soins funéraires, coffin et transit permit procedures. Le transfer est généralement made par road; which poste-frontière est used et le crossing procedures depend sur le situation actuelle. La communication écrite est possible en arabe.",
       "process": [
-        "The death certificate and the multilingual death certificate extract (Formule C) are issued; the procedures are carried out with the deceased's passport, identity card or temporary protection document.",
-        "Ritual washing, shrouding and embalming are carried out; a sealed coffin is prepared and the burial transit permit is obtained.",
-        "The road transfer to the border crossing is planned; details are shared with the relative or funeral director who will receive the deceased on the other side. An air option is considered case by case."
+        "Le certificat de décès et le multilingual certificat de décès extract (Formule C) sont issued; le procedures sont effectués avec le défunt's passport, identity card ou temporary protection document.",
+        "Ritual washing, shrouding et soins funéraires sont effectués; un cercueil scellé est préparé et le permis de transport funéraire est obtenu.",
+        "Le transfert routier vers le poste-frontière est planifié; details sont transmis avec le relative ou entreprise de pompes funèbres who will receive le défunt sur le other side. An air option est considered case par case."
       ],
       "documents": [
-        "The deceased's passport, identity card or temporary protection document",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document (where required)"
+        "Passeport du défunt, identity card ou temporary protection document",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert (where nécessaire)"
       ],
       "notes": [
-        "Border crossing procedures and conditions depend on the current situation; we confirm the latest information before starting.",
-        "For the transfer to the destination city within Syria, a handover plan is made with a funeral director or relative on the other side."
+        "Border crossing procedures et conditions depend sur le situation actuelle; we confirmer le latest information avant starting.",
+        "For le transfer vers le ville de destination within Syria, un remise plan est made avec un entreprise de pompes funèbres ou relative sur le other side."
       ]
     },
     "libya": {
       "slug": "libya",
-      "name": "Libya",
-      "title": "Libya - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation to Libya: repatriation of Libyan nationals who die in Turkey during medical treatment to Tripoli, Benghazi and Misrata; consulate, documents.",
-      "intro": "There is considerable travel from Libya to Turkey for medical tourism, education and trade. For the repatriation of Libyan nationals who die in Turkey during treatment to Tripoli, Benghazi, Misrata and other cities, we handle the hospital, consular and airline procedures from a single point of contact. Written communication is available in Arabic.",
+      "name": "Libye",
+      "title": "Libye - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire vers Libya: repatriation de Libyan nationals qui décèdent en Turquie pendant traitement médical vers Tripoli, Benghazi et Misrata; consulat, documents.",
+      "intro": "Il existe considerable déplacements depuis Libya vers Turkey pour tourisme médical, education et trade. For le repatriation de Libyan nationals qui décèdent en Turquie pendant treatment vers Tripoli, Benghazi, Misrata et other cities, we handle le hôpital, consulaire et compagnie aérienne procedures depuis un interlocuteur unique. La communication écrite est possible en arabe.",
       "process": [
-        "The death certificate is obtained from the hospital and the multilingual death certificate extract (Formule C) is issued; the Libyan consulate's transfer documents are followed up.",
-        "Ritual washing, shrouding and embalming are carried out; a sealed coffin is prepared.",
-        "The air cargo booking is made; details are shared with the relative or funeral director who will receive the deceased at the destination airport."
+        "Le certificat de décès est obtenu depuis le hôpital et le multilingual certificat de décès extract (Formule C) est issued; le Libyan consulat's transfer documents sont followed up.",
+        "Ritual washing, shrouding et soins funéraires sont effectués; un cercueil scellé est préparé.",
+        "Le fret aérien booking est made; details sont transmis avec le relative ou entreprise de pompes funèbres who will receive le défunt à le destination aéroport."
       ],
       "documents": [
-        "The deceased's passport",
-        "Death certificate and Formule C",
-        "Embalming certificate, sealed coffin certificate, burial transit permit",
-        "Consular transfer document"
+        "Passeport du défunt",
+        "Certificat de décès et Formule C",
+        "Certificat de soins funéraires, certificat de cercueil scellé, permis de transport funéraire",
+        "Document consulaire de transfert"
       ],
       "notes": [
-        "For patients who came for medical treatment, we work directly with the hospital and the intermediary agency, and we follow up the cost correspondence.",
-        "Cargo availability on flights to Tripoli, Benghazi and Misrata can vary; we work out the most suitable option together."
+        "For patients who came pour traitement médical, we work directly avec le hôpital et le intermediary agency, et we follow up le coût correspondence.",
+        "Cargo disponibilité sur vols vers Tripoli, Benghazi et Misrata peuvent varier; we work out le les plus suitable option together."
       ]
     },
     "france": {
       "slug": "france",
       "name": "France",
-      "title": "France - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation from France to Turkey: funeral fund, consulate, airport collection, domestic transfer and burial; repatriation from Turkey to France.",
-      "intro": "We bring home and bury the deceased for Turkish families living in France, and repatriate residents of France who die in Turkey. The funeral fund or insurer in France usually carries out the transfer as far as Turkey; we take over the process from the airport. Turkey and France are both party to the 1973 Strasbourg Agreement on the transfer of corpses; the documents are issued within that framework.",
+      "title": "France - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire depuis France vers Turkey: caisse funéraire, consulat, aéroport collection, transfert national et inhumation; repatriation depuis Turkey vers France.",
+      "intro": "Nous ramenons home et bury le défunt pour Turkish families living en France, et repatriate residents de France qui décèdent en Turquie. Le caisse funéraire ou assureur en France généralement carries out le transfer as far as Turkey; we take over le processus depuis le aéroport. Turkey et France sont both party vers le 1973 Strasbourg Agreement sur le transfer de corpses; le documents sont issued within that framework.",
       "process": [
-        "From France to Turkey: we exchange flight and document details with the funeral director or fund in France; we receive the deceased in Istanbul, transfer them to the city and coordinate the burial.",
-        "From Turkey to France: the death certificate, the multilingual death certificate extract (Formule C), the embalming certificate and the burial transit permit are issued; a handover plan is agreed with the funeral director in France and the deceased is sent by air cargo."
+        "From France vers Turkey: we exchange vol et document details avec le entreprise de pompes funèbres ou fund en France; we receive le défunt en Istanbul, transfer them vers le city et coordinate le inhumation.",
+        "From Turkey vers France: le certificat de décès, le multilingual certificat de décès extract (Formule C), le soins funéraires certificate et le permis de transport funéraire sont issued; un remise plan est convenu avec le entreprise de pompes funèbres en France et le défunt est envoyé par fret aérien."
       ],
       "documents": [
-        "For a deceased arriving from France: the French death certificate (acte de décès) and the Turkish consulate's transfer document",
-        "For a deceased leaving Turkey: Formule C, embalming certificate, burial transit permit and a letter of acceptance from the funeral director in France"
+        "Pour un défunt arrivant depuis France: le French certificat de décès (acte de décès) et le Turkish consulat's transfer document",
+        "Pour un défunt quittant Turkey: Formule C, soins funéraires certificate, permis de transport funéraire et un lettre d'acceptation depuis le entreprise de pompes funèbres en France"
       ],
       "notes": [
-        "If there is a funeral fund membership in France, call the fund first; its contracted funeral director starts the transfer. We handle the domestic transfer and burial that fall outside the cover.",
-        "We work together with Turkish funeral directors in France; we act as the single point of contact for airport handover and burial."
+        "If there est un caisse funéraire membership en France, call le fund first; its partenaire entreprise de pompes funèbres starts le transfer. Nous prenons en charge le transfert national et inhumation that fall hors couverture.",
+        "Nous travaillons together avec Turkish entreprises de pompes funèbres en France; we act as le interlocuteur unique pour aéroport remise et inhumation."
       ]
     },
     "belgium": {
       "slug": "belgium",
-      "name": "Belgium",
-      "title": "Belgium - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation from Belgium to Turkey: funeral fund, consulate, airport collection, domestic transfer and burial; repatriation from Turkey to Belgium.",
-      "intro": "We bring home and bury the deceased for Turkish families living in Belgium, and repatriate residents of Belgium who die in Turkey. The funeral fund or insurer in Belgium usually carries out the transfer as far as Turkey; we take over the process from the airport. Turkey and Belgium are both party to the 1973 Strasbourg Agreement on the transfer of corpses.",
+      "name": "Belgique",
+      "title": "Belgique - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire depuis Belgium vers Turkey: caisse funéraire, consulat, aéroport collection, transfert national et inhumation; repatriation depuis Turkey vers Belgium.",
+      "intro": "Nous ramenons home et bury le défunt pour Turkish families living en Belgium, et repatriate residents de Belgium qui décèdent en Turquie. Le caisse funéraire ou assureur en Belgium généralement carries out le transfer as far as Turkey; we take over le processus depuis le aéroport. Turkey et Belgium sont both party vers le 1973 Strasbourg Agreement sur le transfer de corpses.",
       "process": [
-        "From Belgium to Turkey: we exchange flight and document details with the funeral director or fund in Belgium; we receive the deceased in Istanbul, transfer them to the city and coordinate the burial.",
-        "From Turkey to Belgium: the death certificate, the multilingual death certificate extract (Formule C), the embalming certificate and the burial transit permit are issued; a handover plan is agreed with the funeral director in Belgium and the deceased is sent by air cargo."
+        "From Belgium vers Turkey: we exchange vol et document details avec le entreprise de pompes funèbres ou fund en Belgium; we receive le défunt en Istanbul, transfer them vers le city et coordinate le inhumation.",
+        "From Turkey vers Belgium: le certificat de décès, le multilingual certificat de décès extract (Formule C), le soins funéraires certificate et le permis de transport funéraire sont issued; un remise plan est convenu avec le entreprise de pompes funèbres en Belgium et le défunt est envoyé par fret aérien."
       ],
       "documents": [
-        "For a deceased arriving from Belgium: the Belgian death certificate and the Turkish consulate's transfer document",
-        "For a deceased leaving Turkey: Formule C, embalming certificate, burial transit permit and a letter of acceptance from the funeral director in Belgium"
+        "Pour un défunt arrivant depuis Belgium: le Belgian certificat de décès et le Turkish consulat's transfer document",
+        "Pour un défunt quittant Turkey: Formule C, soins funéraires certificate, permis de transport funéraire et un lettre d'acceptation depuis le entreprise de pompes funèbres en Belgium"
       ],
       "notes": [
-        "If there is a funeral fund membership in Belgium, call the fund first; its contracted funeral director starts the transfer. We handle the domestic transfer and burial that fall outside the cover.",
-        "We work together with Turkish funeral directors in Belgium; we act as the single point of contact for airport handover and burial."
+        "If there est un caisse funéraire membership en Belgium, call le fund first; its partenaire entreprise de pompes funèbres starts le transfer. Nous prenons en charge le transfert national et inhumation that fall hors couverture.",
+        "Nous travaillons together avec Turkish entreprises de pompes funèbres en Belgium; we act as le interlocuteur unique pour aéroport remise et inhumation."
       ]
     },
     "austria": {
       "slug": "austria",
-      "name": "Austria",
-      "title": "Austria - Turkey Funeral Repatriation",
-      "description": "Funeral repatriation from Austria to Turkey: funeral fund, consulate, airport collection, domestic transfer and burial; repatriation from Turkey to Austria.",
-      "intro": "We bring home and bury the deceased for Turkish families living in Austria, and repatriate residents of Austria who die in Turkey. The funeral fund or insurer in Austria usually carries out the transfer as far as Turkey; we take over the process from the airport. Turkey and Austria are both party to the 1973 Strasbourg Agreement on the transfer of corpses.",
+      "name": "Autriche",
+      "title": "Autriche - Rapatriement funéraire Turquie",
+      "description": "Rapatriement funéraire depuis Austria vers Turkey: caisse funéraire, consulat, aéroport collection, transfert national et inhumation; repatriation depuis Turkey vers Austria.",
+      "intro": "Nous ramenons home et bury le défunt pour Turkish families living en Austria, et repatriate residents de Austria qui décèdent en Turquie. Le caisse funéraire ou assureur en Austria généralement carries out le transfer as far as Turkey; we take over le processus depuis le aéroport. Turkey et Austria sont both party vers le 1973 Strasbourg Agreement sur le transfer de corpses.",
       "process": [
-        "From Austria to Turkey: we exchange flight and document details with the funeral director or fund in Austria; we receive the deceased in Istanbul, transfer them to the city and coordinate the burial.",
-        "From Turkey to Austria: the death certificate, the multilingual death certificate extract (Formule C), the embalming certificate and the burial transit permit are issued; a handover plan is agreed with the funeral director in Austria and the deceased is sent by air cargo."
+        "From Austria vers Turkey: we exchange vol et document details avec le entreprise de pompes funèbres ou fund en Austria; we receive le défunt en Istanbul, transfer them vers le city et coordinate le inhumation.",
+        "From Turkey vers Austria: le certificat de décès, le multilingual certificat de décès extract (Formule C), le soins funéraires certificate et le permis de transport funéraire sont issued; un remise plan est convenu avec le entreprise de pompes funèbres en Austria et le défunt est envoyé par fret aérien."
       ],
       "documents": [
-        "For a deceased arriving from Austria: the Austrian death certificate (Sterbeurkunde) and the Turkish consulate's transfer document",
-        "For a deceased leaving Turkey: Formule C, embalming certificate, burial transit permit and a letter of acceptance from the funeral director in Austria"
+        "Pour un défunt arrivant depuis Austria: le Austrian certificat de décès (Sterbeurkunde) et le Turkish consulat's transfer document",
+        "Pour un défunt quittant Turkey: Formule C, soins funéraires certificate, permis de transport funéraire et un lettre d'acceptation depuis le entreprise de pompes funèbres en Austria"
       ],
       "notes": [
-        "If there is a funeral fund membership in Austria, call the fund first; its contracted funeral director starts the transfer. We handle the domestic transfer and burial that fall outside the cover.",
-        "There are direct flights from Vienna to Istanbul; the handover time and the document list are shared in advance with the funeral director in Austria."
+        "If there est un caisse funéraire membership en Austria, call le fund first; its partenaire entreprise de pompes funèbres starts le transfer. Nous prenons en charge le transfert national et inhumation that fall hors couverture.",
+        "Il y un direct vols depuis Vienna vers Istanbul; le remise time et le document list sont transmis en advance avec le entreprise de pompes funèbres en Austria."
       ]
     }
   },
   "form": {
-    "name": "Full name",
-    "phone": "Phone",
-    "email": "Email (optional)",
-    "deathPlace": "Place of death (country / city)",
-    "destination": "Destination of the deceased",
-    "message": "Your message",
-    "company": "Company name",
-    "country": "Country",
-    "requestType": "Type of request",
+    "name": "Nom complet",
+    "phone": "Téléphone",
+    "email": "E-mail (facultatif)",
+    "deathPlace": "Lieu du décès (pays / ville)",
+    "destination": "Destination du défunt",
+    "message": "Votre message",
+    "company": "Nom de l'entreprise",
+    "country": "Pays",
+    "requestType": "Type de demande",
     "requestTypes": {
-      "family": "Family / individual",
-      "insurance": "Insurance / assistance",
-      "funeralHome": "Funeral director / fund",
-      "hospital": "Hospital / healthcare provider",
-      "consulate": "Consulate",
-      "other": "Other"
+      "family": "Famille / particulier",
+      "insurance": "Assurance / assistance",
+      "funeralHome": "Entreprise de pompes funèbres / caisse funéraire",
+      "hospital": "Hôpital / établissement de santé",
+      "consulate": "Consulat",
+      "other": "Autre"
     },
-    "consent": "I have read the KVKK privacy notice and agree to my details being processed so that you can contact me.",
-    "consentLink": "KVKK privacy notice",
-    "submit": "Send",
-    "sending": "Sending...",
-    "success": "Your message has been received. We will call you as soon as possible.",
-    "error": "The message could not be sent. Please call us by phone or on WhatsApp.",
-    "sensitiveNote": "Please do not include sensitive information such as health details or the cause of death in the form; we will discuss these by phone.",
+    "consent": "J'ai lu la notice de confidentialité KVKK et j'accepte que mes coordonnées soient traitées afin que vous puissiez me contacter.",
+    "consentLink": "Notice de confidentialité KVKK",
+    "submit": "Envoyer",
+    "sending": "Envoi en cours...",
+    "success": "Votre message a bien été reçu. Nous vous appellerons dès que possible.",
+    "error": "Le message n'a pas pu être envoyé. Veuillez nous appeler par téléphone ou via WhatsApp.",
+    "sensitiveNote": "Veuillez ne pas indiquer dans le formulaire d'informations sensibles telles que des données de santé ou la cause du décès ; nous en discuterons par téléphone.",
     "errors": {
-      "name": "Please enter your name.",
-      "phone": "Please enter a valid phone number.",
-      "email": "Please enter a valid email address.",
-      "message": "Please write a short message.",
-      "consent": "You need to accept the privacy notice to continue.",
-      "rateLimit": "Too many attempts. Please try again in a few minutes or call us."
+      "name": "Veuillez saisir votre nom.",
+      "phone": "Veuillez saisir un numéro de téléphone valide.",
+      "email": "Veuillez saisir une adresse e-mail valide.",
+      "message": "Veuillez rédiger un court message.",
+      "consent": "Vous devez accepter la notice de confidentialité pour continuer.",
+      "rateLimit": "Trop de tentatives. Veuillez réessayer dans quelques minutes ou appelez-nous."
     }
   },
   "cookie": {
-    "title": "Cookie preferences",
-    "text": "Our site uses no cookies other than those that are strictly necessary. You can accept, reject or manage the optional cookies used to measure visits.",
-    "accept": "Accept",
-    "reject": "Reject",
-    "manage": "Manage",
-    "save": "Save",
-    "necessary": "Necessary cookies",
-    "necessaryText": "Required for the site to work and to remember your language; cannot be switched off.",
-    "analytics": "Analytics cookies",
-    "analyticsText": "Used to measure anonymously which pages are visited.",
-    "policyLink": "Cookie policy"
+    "title": "Préférences relatives aux cookies",
+    "text": "Notre site n'utilise aucun cookie autre que ceux qui sont strictement nécessaires. Vous pouvez accepter, refuser ou gérer les cookies facultatifs utilisés pour mesurer les visites.",
+    "accept": "Accepter",
+    "reject": "Refuser",
+    "manage": "Gérer",
+    "save": "Enregistrer",
+    "necessary": "Cookies nécessaires",
+    "necessaryText": "Nécessaires au fonctionnement du site et à la mémorisation de votre langue ; ils ne peuvent pas être désactivés.",
+    "analytics": "Cookies analytiques",
+    "analyticsText": "Utilisés pour mesurer anonymement les pages consultées.",
+    "policyLink": "Politique relative aux cookies"
   },
   "footer": {
-    "companyTitle": "Imprint",
+    "companyTitle": "Mentions légales",
     "linksTitle": "Pages",
-    "legalTitle": "Legal",
-    "kvkk": "KVKK Privacy Notice",
-    "cookies": "Cookie Policy",
-    "privacy": "Privacy Policy",
-    "imprint": "Imprint",
-    "copyright": "© {year} Doğu Batı Uluslararası Cenaze Hizmetleri. All rights reserved.",
-    "disclaimer": "The times and document lists on this site are for general information; the current practice of the relevant authorities prevails."
+    "legalTitle": "Juridique",
+    "kvkk": "Notice de confidentialité KVKK",
+    "cookies": "Politique relative aux cookies",
+    "privacy": "Politique de confidentialité",
+    "imprint": "Mentions légales",
+    "copyright": "© {year} Doğu Batı Uluslararası Cenaze Hizmetleri. Tous droits réservés.",
+    "disclaimer": "Les délais et listes de documents figurant sur ce site sont fournis à titre informatif ; la pratique actuelle des autorités compétentes prévaut."
   },
   "notFound": {
-    "title": "Page not found",
-    "text": "The page you are looking for may have been moved or removed.",
-    "cta": "Back to home"
+    "title": "Page introuvable",
+    "text": "La page que vous recherchez a peut-être été déplacée ou supprimée.",
+    "cta": "Retour à l'accueil"
   },
   "legal": {
     "kvkk": {
@@ -1154,8 +1154,8 @@
     }
   },
   "reviews": {
-    "title": "Reviews",
+    "title": "Avis",
     "sourceLabel": "Source",
-    "empty": "No reviews have been published yet."
+    "empty": "Aucun avis n'a encore été publié."
   }
 }
