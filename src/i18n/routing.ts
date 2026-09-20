@@ -7,14 +7,25 @@ import { defineRouting } from "next-intl/routing";
  * Arabic and Persian keep English slugs so links stay readable when shared.
  */
 export const routing = defineRouting({
-  locales: ["tr", "en", "ru", "ar", "fa", "de"],
+  locales: ["tr", "en", "ru", "ar", "fa", "de", "fr"],
   defaultLocale: "tr",
   localePrefix: "as-needed",
   localeDetection: false,
   alternateLinks: true,
+
   pathnames: {
     "/": "/",
-    "/services": { tr: "/hizmetler", en: "/services", ru: "/uslugi", ar: "/services", fa: "/services", de: "/leistungen" },
+
+    "/services": {
+      tr: "/hizmetler",
+      en: "/services",
+      ru: "/uslugi",
+      ar: "/services",
+      fa: "/services",
+      de: "/leistungen",
+      fr: "/services",
+    },
+
     "/repatriation-from-turkey": {
       tr: "/yurt-disina-cenaze-nakli",
       en: "/repatriation-from-turkey",
@@ -22,7 +33,9 @@ export const routing = defineRouting({
       ar: "/repatriation-from-turkey",
       fa: "/repatriation-from-turkey",
       de: "/ueberfuehrung-aus-der-tuerkei",
+      fr: "/rapatriement-depuis-la-turquie",
     },
+
     "/repatriation-to-turkey": {
       tr: "/yurt-disindan-turkiyeye-cenaze-nakli",
       en: "/repatriation-to-turkey",
@@ -30,7 +43,9 @@ export const routing = defineRouting({
       ar: "/repatriation-to-turkey",
       fa: "/repatriation-to-turkey",
       de: "/ueberfuehrung-in-die-tuerkei",
+      fr: "/rapatriement-vers-la-turquie",
     },
+
     "/transit": {
       tr: "/transit-cenaze-nakli",
       en: "/transit-repatriation",
@@ -38,7 +53,9 @@ export const routing = defineRouting({
       ar: "/transit-repatriation",
       fa: "/transit-repatriation",
       de: "/transit-ueberfuehrung",
+      fr: "/rapatriement-en-transit",
     },
+
     "/domestic-transfer": {
       tr: "/yurt-ici-cenaze-nakli",
       en: "/domestic-transfer",
@@ -46,7 +63,9 @@ export const routing = defineRouting({
       ar: "/domestic-transfer",
       fa: "/domestic-transfer",
       de: "/inlandsueberfuehrung",
+      fr: "/transfert-interieur",
     },
+
     "/documents": {
       tr: "/evrak-ve-konsolosluk",
       en: "/documents-and-consulate",
@@ -54,8 +73,19 @@ export const routing = defineRouting({
       ar: "/documents-and-consulate",
       fa: "/documents-and-consulate",
       de: "/dokumente-und-konsulat",
+      fr: "/documents-et-consulat",
     },
-    "/process": { tr: "/surec", en: "/process", ru: "/process", ar: "/process", fa: "/process", de: "/ablauf" },
+
+    "/process": {
+      tr: "/surec",
+      en: "/process",
+      ru: "/process",
+      ar: "/process",
+      fa: "/process",
+      de: "/ablauf",
+      fr: "/processus",
+    },
+
     "/what-to-do": {
       tr: "/vefat-oldu-ne-yapmaliyim",
       en: "/someone-died-in-turkey",
@@ -63,8 +93,19 @@ export const routing = defineRouting({
       ar: "/someone-died-in-turkey",
       fa: "/someone-died-in-turkey",
       de: "/todesfall-in-der-tuerkei",
+      fr: "/un-deces-en-turquie-que-faire",
     },
-    "/countries": { tr: "/ulkeler", en: "/countries", ru: "/strany", ar: "/countries", fa: "/countries", de: "/laender" },
+
+    "/countries": {
+      tr: "/ulkeler",
+      en: "/countries",
+      ru: "/strany",
+      ar: "/countries",
+      fa: "/countries",
+      de: "/laender",
+      fr: "/pays",
+    },
+
     "/countries/[slug]": {
       tr: "/ulkeler/[slug]",
       en: "/countries/[slug]",
@@ -72,7 +113,9 @@ export const routing = defineRouting({
       ar: "/countries/[slug]",
       fa: "/countries/[slug]",
       de: "/laender/[slug]",
+      fr: "/pays/[slug]",
     },
+
     "/coffins": {
       tr: "/tabut-ve-hazirlik",
       en: "/coffins-and-preparation",
@@ -80,11 +123,49 @@ export const routing = defineRouting({
       ar: "/coffins-and-preparation",
       fa: "/coffins-and-preparation",
       de: "/saerge-und-vorbereitung",
+      fr: "/cercueils-et-preparation",
     },
-    "/partners": { tr: "/kurumsal", en: "/partners", ru: "/partneram", ar: "/partners", fa: "/partners", de: "/partner" },
-    "/about": { tr: "/hakkimizda", en: "/about", ru: "/o-nas", ar: "/about", fa: "/about", de: "/ueber-uns" },
-    "/contact": { tr: "/iletisim", en: "/contact", ru: "/kontakty", ar: "/contact", fa: "/contact", de: "/kontakt" },
-    "/faq": { tr: "/sss", en: "/faq", ru: "/faq", ar: "/faq", fa: "/faq", de: "/faq" },
+
+    "/partners": {
+      tr: "/kurumsal",
+      en: "/partners",
+      ru: "/partneram",
+      ar: "/partners",
+      fa: "/partners",
+      de: "/partner",
+      fr: "/partenaires",
+    },
+
+    "/about": {
+      tr: "/hakkimizda",
+      en: "/about",
+      ru: "/o-nas",
+      ar: "/about",
+      fa: "/about",
+      de: "/ueber-uns",
+      fr: "/a-propos",
+    },
+
+    "/contact": {
+      tr: "/iletisim",
+      en: "/contact",
+      ru: "/kontakty",
+      ar: "/contact",
+      fa: "/contact",
+      de: "/kontakt",
+      fr: "/contact",
+    },
+
+    "/faq": {
+      tr: "/sss",
+      en: "/faq",
+      ru: "/faq",
+      ar: "/faq",
+      fa: "/faq",
+      de: "/faq",
+      fr: "/faq",
+    },
+
     "/cost-guide": {
       tr: "/maliyet-rehberi",
       en: "/cost-guide",
@@ -92,7 +173,9 @@ export const routing = defineRouting({
       ar: "/cost-guide",
       fa: "/cost-guide",
       de: "/kosten",
+      fr: "/guide-des-couts",
     },
+
     "/non-muslim": {
       tr: "/musluman-olmayanlar-icin-hizmetler",
       en: "/non-muslim-services",
@@ -100,7 +183,9 @@ export const routing = defineRouting({
       ar: "/non-muslim-services",
       fa: "/non-muslim-services",
       de: "/nicht-muslimische-bestattungen",
+      fr: "/services-pour-non-musulmans",
     },
+
     "/downloads": {
       tr: "/belgeler",
       en: "/downloads",
@@ -108,8 +193,19 @@ export const routing = defineRouting({
       ar: "/downloads",
       fa: "/downloads",
       de: "/downloads",
+      fr: "/telechargements",
     },
-    "/guides": { tr: "/rehber", en: "/guides", ru: "/stati", ar: "/guides", fa: "/guides", de: "/ratgeber" },
+
+    "/guides": {
+      tr: "/rehber",
+      en: "/guides",
+      ru: "/stati",
+      ar: "/guides",
+      fa: "/guides",
+      de: "/ratgeber",
+      fr: "/guides",
+    },
+
     "/guides/[slug]": {
       tr: "/rehber/[slug]",
       en: "/guides/[slug]",
@@ -117,7 +213,9 @@ export const routing = defineRouting({
       ar: "/guides/[slug]",
       fa: "/guides/[slug]",
       de: "/ratgeber/[slug]",
+      fr: "/guides/[slug]",
     },
+
     "/case-tracking": {
       tr: "/dosya-takip",
       en: "/case-tracking",
@@ -125,7 +223,9 @@ export const routing = defineRouting({
       ar: "/case-tracking",
       fa: "/case-tracking",
       de: "/fallverfolgung",
+      fr: "/suivi-du-dossier",
     },
+
     "/privacy-notice": {
       tr: "/kvkk-aydinlatma-metni",
       en: "/privacy-notice",
@@ -133,7 +233,9 @@ export const routing = defineRouting({
       ar: "/privacy-notice",
       fa: "/privacy-notice",
       de: "/datenschutzhinweis",
+      fr: "/notice-de-confidentialite",
     },
+
     "/cookie-policy": {
       tr: "/cerez-politikasi",
       en: "/cookie-policy",
@@ -141,7 +243,9 @@ export const routing = defineRouting({
       ar: "/cookie-policy",
       fa: "/cookie-policy",
       de: "/cookie-richtlinie",
+      fr: "/politique-des-cookies",
     },
+
     "/privacy-policy": {
       tr: "/gizlilik-politikasi",
       en: "/privacy-policy",
@@ -149,8 +253,18 @@ export const routing = defineRouting({
       ar: "/privacy-policy",
       fa: "/privacy-policy",
       de: "/datenschutz",
+      fr: "/politique-de-confidentialite",
     },
-    "/imprint": { tr: "/kunye", en: "/imprint", ru: "/imprint", ar: "/imprint", fa: "/imprint", de: "/impressum" },
+
+    "/imprint": {
+      tr: "/kunye",
+      en: "/imprint",
+      ru: "/imprint",
+      ar: "/imprint",
+      fa: "/imprint",
+      de: "/impressum",
+      fr: "/mentions-legales",
+    },
   },
 });
 
