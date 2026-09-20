@@ -62,21 +62,24 @@ export function MobileNav({
             </button>
           </div>
           <nav className="container-x flex-1 overflow-y-auto py-4">
-            <ul className="divide-y divide-white/10">
-              {links.map((l) => (
-                <li key={l.href}>
-                  <Link
-                    href={l.href}
-                    onClick={() => setOpen(false)}
-                    className="block py-3.5 text-lg hover:text-gold-300"
-                  >
-                    {l.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-            <div className="mt-6 space-y-4">{children}</div>
-          </nav>
+  <div className="mb-6 border-b border-white/10 pb-5">
+    {children}
+  </div>
+
+  <ul className="divide-y divide-white/10">
+    {links.map((l) => (
+      <li key={l.href}>
+        <Link
+          href={l.href}
+          onClick={() => setOpen(false)}
+          className="block py-3.5 text-lg hover:text-gold-300"
+        >
+          {l.label}
+        </Link>
+      </li>
+    ))}
+  </ul>
+</nav>
         </div>
       )}
     </div>
