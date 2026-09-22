@@ -23,7 +23,7 @@ Gereksinim: Node.js 20.9+ (geliştirmede Node 24).
 | --- | --- |
 | `messages/{tr,en,ru,ar,fa,de}.json` | Sitedeki bütün varsayılan metinler (yapı altı dosyada eşit). |
 | `src/config/site.ts` | Varsayılan telefon/adres/künye; panelden değiştirilen değerler bunların üstüne yazılır. |
-| `src/lib/store.ts` | Panel verisinin tek JSON deposu: `BLOB_READ_WRITE_TOKEN` varsa Vercel Blob, yoksa `data/store.json`. |
+| `src/lib/store.ts` | Panel verisinin tek JSON deposu: `BLOB_READ_WRITE_TOKEN` (eski bağlantılar) veya `BLOB_STORE_ID` (OIDC) varsa Vercel Blob, yoksa `data/store.json`. |
 | `src/lib/site.ts` | `getSite()`: varsayılanlar + panel ayarları. Bileşenler telefon/adres bilgisini buradan alır. |
 | `src/lib/auth.ts`, `src/lib/admin/*` | Yönetici hesapları (scrypt), HMAC imzalı oturum çerezi, giriş kilidi, tüm panel aksiyonları. |
 | `src/app/admin/*` | Panel: kurulum, giriş, genel bakış, şirket bilgileri, metinler (dil bazlı), yorumlar, rehber yazıları, dosya takip, kullanıcılar, ayarlar. |
@@ -60,7 +60,7 @@ Yeni ülke: `src/config/site.ts → countryIds` + `countryIso`, sonra altı mesa
 
 ## Yayın
 
-Vercel (önerilen): GitHub'a itin → Vercel'de içe aktarın → Storage'dan Blob oluşturup projeye bağlayın (`BLOB_READ_WRITE_TOKEN` otomatik gelir) → `.env.example` değişkenleri → alan adı. Ayrıntılı adımlar kılavuzda.
+Vercel (önerilen): GitHub'a itin → Vercel'de içe aktarın → Storage'dan Blob oluşturup projeye bağlayın. Eski bağlantılar `BLOB_READ_WRITE_TOKEN`, yeni OIDC bağlantıları ise `BLOB_STORE_ID` ve Vercel'in çalışma zamanında sağladığı kısa ömürlü kimliği kullanır → `.env.example` değişkenleri → alan adı. Ayrıntılı adımlar kılavuzda.
 
 Kendi sunucusu (Node 20+): `npm ci && npm run build && npm start`; `DATA_DIR` ile veri klasörünü kalıcı bir yere alın; önüne Nginx/Caddy ile HTTPS.
 
