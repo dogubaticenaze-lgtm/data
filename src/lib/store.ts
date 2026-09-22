@@ -137,13 +137,11 @@ function blobEnabled() {
 
 async function readRaw(): Promise<StoreData | null> {
   if (blobEnabled()) {
-    const { list } = await import("@vercel/blob");
-    const { blobs } = await list({ prefix: BLOB_PATH, limit: 1 });
-    const blob = blobs.find((b) => b.pathname === BLOB_PATH);
-    if (!blob) return null;
-    const res = await fetch(blob.url, { cache: "no-store" });
-    if (!res.ok) return null;
-    return (await res.json()) as StoreData;
+    const { get } = await import("@vercel/blob");
+    const blob = await get(BLOB_PATH, { access: "private", useCache: false });
+    if (!blob || blob.statusCode !== 200 || !blob.stream) return null;
+    const raw = await new Response(blob.stream).text();
+    return JSON.parse(raw) as StoreData;
   }
   try {
     const raw = await fs.readFile(localPath(), "utf8");
@@ -159,7 +157,7 @@ async function writeRaw(data: StoreData) {
   if (blobEnabled()) {
     const { put } = await import("@vercel/blob");
     await put(BLOB_PATH, json, {
-      access: "public",
+      access: "private",
       addRandomSuffix: false,
       allowOverwrite: true,
       contentType: "application/json",

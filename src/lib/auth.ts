@@ -13,11 +13,15 @@ export function hashPassword(password: string) {
 }
 
 export function verifyPassword(password: string, stored: string) {
-  const [salt, hash] = stored.split(":");
-  if (!salt || !hash) return false;
-  const candidate = scryptSync(password, salt, 64);
-  const expected = Buffer.from(hash, "hex");
-  return candidate.length === expected.length && timingSafeEqual(candidate, expected);
+  try {
+    const [salt, hash] = stored.split(":");
+    if (!salt || !hash || !/^[0-9a-f]+$/i.test(hash) || hash.length !== 128) return false;
+    const candidate = scryptSync(password, salt, 64);
+    const expected = Buffer.from(hash, "hex");
+    return timingSafeEqual(candidate, expected);
+  } catch {
+    return false;
+  }
 }
 
 export function passwordProblems(pw: string): string | null {
@@ -58,7 +62,7 @@ export async function getCurrentUser(): Promise<AdminUser | null> {
   const [userId, exp, sig] = token.split(".");
   if (!userId || !exp || !sig) return null;
   if (Number(exp) < Date.now()) return null;
-  const store = await readStore();
+  const store = await readStore({ fresh: true });
   const expected = sign(`${userId}.${exp}`, store.secret);
   const a = Buffer.from(sig);
   const b = Buffer.from(expected);
