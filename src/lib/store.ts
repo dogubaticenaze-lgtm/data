@@ -161,7 +161,7 @@ async function writeRaw(data: StoreData) {
       addRandomSuffix: false,
       allowOverwrite: true,
       contentType: "application/json",
-      cacheControlMaxAge: 60,
+      cacheControlMaxAge: 0,
     });
     return;
   }
