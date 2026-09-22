@@ -4,8 +4,9 @@ import { randomBytes } from "node:crypto";
 
 /**
  * Single-document JSON store for everything the admin panel edits.
- * Backend: Vercel Blob when BLOB_READ_WRITE_TOKEN is set, otherwise a local file
- * (DATA_DIR/store.json, default ./data/store.json). Small site, low write volume.
+ * Backend: Vercel Blob when its legacy read-write token or OIDC store id is set,
+ * otherwise a local file (DATA_DIR/store.json, default ./data/store.json). Small
+ * site, low write volume.
  */
 
 export type AdminUser = {
@@ -132,7 +133,10 @@ function localPath() {
 }
 
 function blobEnabled() {
-  return Boolean(process.env.BLOB_READ_WRITE_TOKEN);
+  // New Vercel Blob connections use OIDC. At runtime, @vercel/blob obtains the
+  // short-lived OIDC token from Vercel and uses BLOB_STORE_ID to select the store.
+  // Older connections still provide BLOB_READ_WRITE_TOKEN.
+  return Boolean(process.env.BLOB_READ_WRITE_TOKEN || process.env.BLOB_STORE_ID);
 }
 
 async function readRaw(): Promise<StoreData | null> {
