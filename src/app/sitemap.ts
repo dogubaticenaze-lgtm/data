@@ -26,7 +26,6 @@ const priorities: Partial<Record<StaticPathname, number>> = {
 const legal: StaticPathname[] = ["/privacy-notice", "/cookie-policy", "/privacy-policy", "/imprint"];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const lastModified = new Date();
   const entries: MetadataRoute.Sitemap = [];
 
   const staticPaths = (Object.keys(routing.pathnames) as AppPathname[]).filter(
@@ -40,7 +39,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     for (const l of routing.locales) {
       entries.push({
         url: absoluteUrl(l, pathname),
-        lastModified,
         changeFrequency: legal.includes(pathname) ? "yearly" : "monthly",
         priority: legal.includes(pathname) ? 0.2 : (priorities[pathname] ?? 0.6),
         alternates: { languages },
@@ -54,7 +52,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     for (const l of routing.locales) languages[localeMeta[l].hreflang] = absoluteUrl(l, hrefFor(l));
     languages["x-default"] = absoluteUrl(routing.defaultLocale, hrefFor(routing.defaultLocale));
     for (const l of routing.locales) {
-      entries.push({ url: absoluteUrl(l, hrefFor(l)), lastModified, changeFrequency: "monthly", priority: 0.7, alternates: { languages } });
+      entries.push({
+        url: absoluteUrl(l, hrefFor(l)),
+        changeFrequency: "monthly",
+        priority: 0.7,
+        alternates: { languages },
+      });
     }
   }
 
